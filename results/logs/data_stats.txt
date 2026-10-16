@@ -1,0 +1,12 @@
+Reports found      : 9
+train tokens:   279,552   <unk> rate: 2.77%
+val   tokens:    33,792   <unk> rate: 4.57%
+test  tokens:    36,864   <unk> rate: 4.22%
+Vocab size         : 5,762 (min_freq=3, cap=10000)
+Blocks (x1024 tokens): {'train': 273, 'val': 33, 'test': 36}   discarded tail tokens: 3,946 of 354,154
+Blocks per report  : [(20, 2, 2), (42, 5, 6), (19, 2, 3), (15, 2, 2), (27, 3, 4), (37, 4, 5), (54, 7, 7), (22, 3, 3), (37, 5, 4)] (train, val, test)
+val   6-grams also in train: 6.4%
+test  6-grams also in train: 4.5%
+Protected in vocab : 26 ['year_2025', 'year_2024', 'scope_1', 'scope_3', 'year_2030', 'year_2026', 'year_2023', 'year_2050', 'scope_2', 'year_2021', 'year_2022', 'year_2020', 'year_2019', 'year_2040', 'year_2016', 'year_2015', 'year_2018', 'year_2035', 'year_2028', 'year_2027', 'year_2017', 'year_2012', 'year_2013', 'year_2014', 'year_2045', 'year_2010']
+Most common        : [',', 'and', '.', 'the', 'to', 'of', '<num>', 'in', 'our', 'a', 'for', 'we', 'with', 'as', 'on', ')', '(', 'by', 'are', 'is']
+Sample (train)     : business risks executive resource compensation committee reporting scope gri <num> <num> <num> <num> our report provides information on sembcorp and its subsidiaries and covers the period from january <num> to december <num> , year_2025 . it excludes operations , joint ventures , partnerships and associates where sembcorp does not have control , with the exception of greenhouse gas ( ghg

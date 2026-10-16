@@ -1,0 +1,10 @@
+GloVe found 5,387/5,759 vocab types (93.5%); covers 95.9% of train tokens
+Most frequent missing: [('<num>', 4686), ('year_2025', 866), ('climate-related', 295), ("keppel's", 277), ("group's", 248), ('year_2024', 223), ('scope_1', 157), ('scope_3', 154), ('fy2025', 151), ("singapore's", 139), ('decarbonisation', 136), ('year_2030', 125), ("sia's", 118), ("cbre's", 110), ('year_2026', 102)]
+Nearest neighbours (cosine):
+  emissions  -> greenhouse, carbon, emission, dioxide, gases
+  board      -> commission, committee, directors, executive, council
+  energy     -> resources, gas, renewable, natural, petroleum
+  safety     -> protection, security, health, standards, environmental
+  employees  -> workers, managers, employee, jobs, executives
+  climate    -> warming, environment, environmental, conditions, global
+  risk       -> risks, exposure, potential, cause, avoid

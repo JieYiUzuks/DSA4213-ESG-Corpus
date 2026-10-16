@@ -1,0 +1,10 @@
+model        tag                         lr  val ppl  best ep  epochs run/cap  chosen
+lstm         lstm_lr1e-3              0.001    98.38      100         100/100
+             WARNING: lstm_lr1e-3 hit its epoch cap (not converged) - its val ppl is a lower bound on quality
+lstm         lstm_lr3e-3              0.003    98.10       38          46/100  <--
+rnn          rnn_lr1e-3               0.001   108.48       77          85/100  <--
+rnn          rnn_lr3e-3               0.003   117.88       29          37/100
+transformer  transformer_lr1e-3       0.001    94.74      222         230/250
+transformer  transformer_lr3e-3       0.003    93.26      124         132/250  <--
+
+wrote results/chosen.json: {'lstm': 'lstm_lr3e-3', 'rnn': 'rnn_lr1e-3', 'transformer': 'transformer_lr3e-3'}

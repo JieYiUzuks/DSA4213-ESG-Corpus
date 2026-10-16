@@ -1,0 +1,6 @@
+setting,tag,trainable params,val ppl,test ppl,test ppl spread,best epoch,val-train gap (nats),seeds
+LSTM random-trainable,lstm_lr3e-3,"2,423,626",98.6 [98.1-98.9],97.8 [96.8-99.0],2.2,41 [38-45],1.45 [1.38-1.55],3
+LSTM own-SGNS-frozen,lstm_sgns_frozen,"1,847,426",101.2 [100.6-101.8],100.2 [99.8-100.5],0.7,46 [45-49],1.26 [1.23-1.29],3
+LSTM GloVe-frozen,lstm_glove_frozen,"1,847,426",103.5 [103.0-104.5],102.5 [101.7-103.3],1.7,38 [34-42],1.08 [1.02-1.14],3
+LSTM own-SGNS-init-trainable,lstm_sgns_init,"2,423,626",83.8 [83.5-84.3],84.0 [83.5-84.5],0.9,30 [28-31],1.23 [1.16-1.27],3
+LSTM GloVe-init-trainable,lstm_glove_init,"2,423,626",84.7 [84.5-85.1],85.1 [84.8-85.7],0.9,30 [26-33],1.17 [1.06-1.24],3

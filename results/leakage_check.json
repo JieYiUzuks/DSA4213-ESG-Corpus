@@ -1,0 +1,32 @@
+{
+  "n_sentences": 1962,
+  "n_checked": 1955,
+  "min_tokens": 8,
+  "ngram": 8,
+  "vs_train": {
+    "corpus": "train blocks (what the LMs trained on)",
+    "sentences_checked": 1955,
+    "exact": 0,
+    "exact_pct": 0.0,
+    "cover50": 0,
+    "cover50_pct": 0.0,
+    "any8": 34,
+    "any8_pct": 1.7391304347826086
+  },
+  "vs_all_reports": {
+    "corpus": "all nine reports",
+    "sentences_checked": 1955,
+    "exact": 0,
+    "exact_pct": 0.0,
+    "cover50": 0,
+    "cover50_pct": 0.0,
+    "any8": 38,
+    "any8_pct": 1.9437340153452685
+  },
+  "reference_corpus_overlap_pct": {
+    "val": 3.7738659041491673,
+    "test": 1.9767060367454068
+  },
+  "flagged_sentence_indices": [],
+  "flagged_texts": []
+}

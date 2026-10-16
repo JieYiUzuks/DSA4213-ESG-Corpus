@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.pt
+CHECKLIST.md
+
+# old runs and cached data (final results are in results/)
+results_old/
+results_v1_numtoken/
+data/processed/
+data/processed_old/
+
+# not redistributed: source PDFs and the GloVe download
+data/*.pdf
+data/glove/

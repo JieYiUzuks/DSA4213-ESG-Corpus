@@ -1,0 +1,29 @@
+{
+  "RNN": {
+    "tag": "rnn_lr1e-3",
+    "params": 2148682,
+    "median_tok_s": 128523.62388718539,
+    "min_tok_s": 105763.48469502416,
+    "max_tok_s": 130530.0941221195
+  },
+  "LSTM": {
+    "tag": "lstm_lr3e-3",
+    "params": 2423626,
+    "median_tok_s": 82327.37804923319,
+    "min_tok_s": 56833.600043975304,
+    "max_tok_s": 85456.2803986673
+  },
+  "Transformer": {
+    "tag": "transformer_lr3e-3",
+    "params": 1349474,
+    "median_tok_s": 113540.26271005163,
+    "min_tok_s": 50853.09792140817,
+    "max_tok_s": 118835.47506344983
+  },
+  "_meta": {
+    "device": "cpu",
+    "reps": 9,
+    "test_tokens": 36828,
+    "torch": "2.14.1"
+  }
+}

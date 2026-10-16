@@ -1,0 +1,37 @@
+# Generations (temp=0.8, top-k=40, 40 tokens, seed=42+prompt index)
+
+
+## Prompt: our greenhouse gas emissions
+
+- **n-gram**: our greenhouse gas emissions | from egencia is and the , including those involving <num> of climate-related <eos> , and the <num> <eos> in australia . <eos> we believe financial literacy consulting to <unk> , <unk> and the <unk> , we are <unk> , <unk>
+- **RNN (rnn_lr1e-3)**: our greenhouse gas emissions | from egencia . <eos> the ghg emissions intensity target as an entity shall disclose comparative emissions from the operations . <eos> <num> <num> chair of the highest impact on the group's operational stability as part of our sustainability strategy ,
+- **LSTM (lstm_lr3e-3)**: our greenhouse gas emissions | target to <num> tco2e . <eos> <num> <num> <eos> <num> <num> direct <eos> <num> <num> <num> <num> <eos> category <num> : <num> <num> <num> <eos> sp group commits to the annual global compact ( ungc ) . <eos> the <unk>
+- **Transformer (transformer_lr3e-3)**: our greenhouse gas emissions | , carbon credits and the ghg emissions ( ghg ) ( scope_2 ) , ghg emissions or <eos> category <num> emissions <num> ) ghg emissions intensity ( tco2e ) , indirect market-based ) emissions in the cdp sectoral emissions by
+
+## Prompt: we are committed to
+
+- **n-gram**: we are committed to | provide our products and services we purchase recs to offset by the international best practices and respond to the respective agreements . <eos> we will and <eos> supply chain management , <unk> and is committed to building a future stormwater
+- **RNN (rnn_lr1e-3)**: we are committed to | fostering sustainability opportunities to help our communities in their operations . <eos> in year_2025 , we will continue to monitor potential manage risks , including climate-related risks , including : <unk> <unk> <unk> is <unk> for <unk> , <unk> to
+- **LSTM (lstm_lr3e-3)**: we are committed to | respecting sustainability capabilities , and fostering a culture of trust and support and to refine long-term stability , including our pursuit of business strategies . we are committed to fostering a supportive workplace culture , while actively pursuing the importance
+- **Transformer (transformer_lr3e-3)**: we are committed to | respecting sustainability . <eos> this includes governance structure is also reviewed for the group internal audit committee , including cybersecurity and data protection of cyber security policy , including information , <unk> and data breaches . <eos> the group is
+
+## Prompt: the board of directors
+
+- **n-gram**: the board of directors | , and the board of directors in <unk> <unk> of their . <eos> for this . these principles are designed to help individuals with <unk> , <unk> and <unk> and reduce embodied carbon . surveyed our <unk> . <eos> the
+- **RNN (rnn_lr1e-3)**: the board of directors | , and the evaluation of the group's <unk> , which are based on an independent platform for individuals or individual characteristics . <eos> sia and scoot's subsidiaries that are covered by an executive workforce , and <unk> with employees to
+- **LSTM (lstm_lr3e-3)**: the board of directors | , and the board of directors in the singapore apex winner . the session focused on sustainability and safety management executive management , which communicates its employees and contractors for employees . <eos> in addition , cbre offers a comprehensive
+- **Transformer (transformer_lr3e-3)**: the board of directors | , and the board committees . <eos> the board receives regular committees are established to ensure that the directors and coordinates with its business committees , including oversight on the nominating and board committees . <eos> the board committee chaired
+
+## Prompt: in 2025 , we
+
+- **n-gram**: in 2025 , we | achieved by governments , regulators , service provider in singapore , we are the cornerstone of the to achieve net zero year_2050 . our efforts to help people and the board committee . <eos> the committee , to , namely
+- **RNN (rnn_lr1e-3)**: in 2025 , we | achieved by our core markets to keppel care foundation . a memorandum of understanding of scope_3 emissions , including the carbon emissions of our operations . <eos> in fy2025 <num> , keppel announced on total electricity consumption intensity , as
+- **LSTM (lstm_lr3e-3)**: in 2025 , we | achieved by total compensation and <unk> to <unk> the economy , despite a disciplined approach to the wider ecosystem . <eos> the dbs <unk> division has established in year_2022 , singapore's first multi-storey <unk> programme ( mas ) , and
+- **Transformer (transformer_lr3e-3)**: in 2025 , we | achieved by <num> % from <num> % of the same boundary of our assets and scope_3 emissions to achieve net zero year_2050 . our emissions intensity will be <num> % of scope_1 and <num> emissions from our scope_1 , <num>
+
+## Prompt: renewable energy capacity
+
+- **n-gram**: renewable energy capacity | and enhance our esg issues through a culture ( see table <num> <num> . <eos> in year_2025 , the of our employees to reduce <unk> , to the <unk> in australia , including training , and safety assessments . all
+- **RNN (rnn_lr1e-3)**: renewable energy capacity | and onsite solar pv energy energy storage . <eos> at dbs , our sustainability efforts , we continue to enhance our sustainability strategies and capabilities throughout the year . <eos> keppel's real estate division has committed to the international energy
+- **LSTM (lstm_lr3e-3)**: renewable energy capacity | and development , we will continue to monitor and respond to data segregation . <eos> in year_2025 , the involuntary turnover rate ( wue ) for the amount of hybrid assets are estimated to be lower than the international carbon
+- **Transformer (transformer_lr3e-3)**: renewable energy capacity | , and , we will continue to monitor renewable energy and monitor our sustainability goals . we have also developed our sustainability strategies to improve our operations and build our operations and create long-term value . this is also adopting

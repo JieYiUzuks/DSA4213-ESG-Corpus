@@ -1,0 +1,2393 @@
+IFRS S1 20 | 21b | 22 | 24 | 59 | 64
+
+intended to improve consistency and connectivity between the sustainability-related disclosures and the related financial statements. As a result, certain metrics continue to be reported on a substantially consistent basis, while others are affected by changes in reporting period, data collation approach, measurement basis or first-time adoption. Where prior-period information is not presented on a comparable basis, or is unavailable, this has been indicated in the relevant disclosure.
+
+Volume 32 - Electric Utilities & Power Generators and Volume 34 - Gas Utilities & Distributors. The details are available on pages 75 to 79.
+
+This is SP Group’s (SP or the Group) seventh sustainability report outlining our sustainability performance and progress across our key business areas for the Financial Year (FY) ended 31 March 2026 (FY25/26). The reporting period is aligned with that of the Group’s Annual Report unless otherwise stated. This report covers SP Group and its subsidiaries, and includes operations in Singapore, China, Vietnam and Thailand. Sustainability progress for the Australia operations is reported separately and can be accessed on SGSP (Australia) Assets Pty Ltd’s (“SGSPAA”) website.
+
+As of FY25/26, we have not obtained external assurance for information disclosed in this report. We are implementing a phased approach to improve data quality and readiness before introducing external assurance for Scope 1 and 2 in line with ACRA’s regulatory requirements for Large Non-Listed Companies (NLCos).
+
+We measure and report our carbon footprint in accordance with the Greenhouse Gas (GHG) Protocol: A Corporate Accounting and Reporting Standard (revised edition), the GHG Protocol Scope 2 Guidance, the Corporate Value Chain (Scope 3) Standard and Scope 3 Calculation Guide.
+
+We are committed to continually enhancing our sustainability performance and disclosures in the interests of our stakeholders. We welcome feedback and please direct any comments to SP Group’s Head of Sustainability through the feedback channels available in the “Contact Us” section of the SP Group website at www.spgroup.com.sg/contact-us.
+
+No restatements of prior-period information have been made in this report. In instances where changes in reporting approach, methodology or assumptions affect comparability with prior-period information, this has been explained in the relevant sections of the report.
+
+Caring for Our People and Community
+
+Digitalisation, Cybersecurity & Data Privacy
+
+SUSTAINABILITY REPORT FY2025/2026 Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures About Us Caring for Our People and Community
+
+SUSTAINABILITY REPORT FY2025/2026 Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures About Us Caring for Our People and Community
+
+SP Group is the leading utilities provider in the Asia Pacific region, delivering reliable electricity and gas services and enabling a low-carbon, smart energy future through its Sustainable Energy Solutions. SP Group owns and operates electricity and gas transmission and distribution networks in Singapore and Australia.
+
+As Singapore’s national grid operator, SP Group is focused on empowering the future of energy by serving around 1.7 million industrial, commercial, and residential customer accounts with world-class network reliability. Building on over 30 years of powering Singapore since 1995 after corporatisation, SP Group continues to transform with resilience
+
+under steady leadership. The Group has held fast to its tenets of operational excellence and safety while remaining committed to a greener energy future and creating long-term value for all stakeholders.
+
+our role as a trusted partner in sustainability. These solutions include district cooling and heating, renewable energy, electric vehicle (EV) charging infrastructure, and digital energy platforms tailored for districts, communities, as well as commercial and industrial customers.
+
+Beyond traditional utilities, SP Group delivers integrated sustainable energy solutions across Singapore, China, Thailand, and Vietnam, reinforcing
+
+SUSTAINABILITY REPORT FY2025/2026 Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures About Us Caring for Our People and Community
+
+Stewarding environmental action Caring for our people and community Championing responsible growth
+
+0.328 min and 0.003 min SAIDI (Electricity) and SAIDI (Gas) 532,504
+
+Maintaining one of the world’s best and most reliable electricity & gas networks
+
+and approx. S$2,000 invested per employee per year, focusing on emerging technologies
+
+Scope 1 and 2 (locationbased) emissions, with an ambition to reach Net Zero by 2050
+
+of service fleet converted to electric vehicles 68%
+
+beneficiaries reached and benefited from our corporate giving
+
+Achieved a 10.2% YoY growth alongside continued investment in asset resilience, maintenance discipline, and efficiency improvements
+
+Lost Time Injury Frequency Rate Outperforming the 0.53 target, benchmarked against global utility companies
+
+tolerance for bribery, corruption, and fraud
+
+SUSTAINABILITY REPORT FY2025/2026 Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures About Us Caring for Our People and Community
+
+We are pleased that our sustainability efforts have received recognition from leading organisations.
+
+Workforce Transformation and Community Awards
+
+Influential Brands – Top Employer Asia (Energy & Utilities) 2025-2026
+
+SkillsFuture Employer Award 2025 – Gold
+
+Best Employers in Singapore for SP Group - Top 40 and Best in Utilities Sector, by The Straits Times and Statista, 2025
+
+Singapore’s 100 Leading Graduate Employers for SP Group - 2nd in Energy, Oil and Gas, Utilities category, by gradsingapore, 2025
+
+Safety and Health Awards Industry Recognition
+
+Outstanding Partner Award for SP Group, by Ministry of Social and Family Development, 2025
+
+NTUC May Day Awards 2025 Medal of Commendation for Group CEO Stanley Huang, by National Trade Unions Congress 2025
+
+Community Chest Awards 2025 – Pinnacle Award, Volunteer Partner Award, Charity Platinum Award, Enable Award, SGSHARE Award
+
+NTUC May Day Awards 2025 Model Worker Award for Azhar Bin Mohamed Noor (Gas Engineer)
+
+bizSAFE Partner for SP PowerGrid, by Workplace Safety and Health Council, 2024 to 2026
+
+Asian Power Awards 2025, by Asian Power
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+SP Group views sustainability as a strategic imperative that underpins our goal of empowering the future of energy for everyone. In our unique national role, we enable Singapore’s energy transition while helping commercial and industrial customers decarbonise towards their climate targets. We carry out these national and ecosystem responsibilities supported by a consistent sustainability framework applied through the organisation.
+
+Within our sustainability framework, we focus our efforts on three strategic pillars: Stewarding Environmental Action, Caring for Our People and Community, and Championing Responsible Growth underpinned by seven material topics that were determined through a structured materiality assessment.
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+IFRS S1 30a | 32b
+
+In 2025, SP Group completed its Double Materiality Assessment (DMA), evaluating our impacts on the economy, environment and people (impact materiality) and the potential financial effects of sustainability‑related risks and opportunities on the Group (financial materiality). The DMA’s financial materiality lens supports alignment with IFRS S1 and IFRS S2 by integrating financially material sustainability and climate considerations into governance, strategy, risk management and reporting.
+
+The DMA mapped IROs across our value chain and business model to identify their area of concentration and prioritise material topics through both impact and financial lenses. IROs were scored for each material topic using criteria aligned to the Group’s ERM consequence scoring framework, with thresholds anchored to the Group’s Net Profit After Tax (NPAT) materiality benchmark. Additionally, climate-related risks and opportunities (CrROs) were integrated to embed climate considerations throughout the assessment.
+
+Assessment and prioritisation of IROs
+
+SP Group mapped its business context, value chain and stakeholder landscape, identifying relevant stakeholders to engage with for validation.
+
+SP Group assessed and prioritised IROs using the Group’s Enterprise Risk Management (ERM) consequence and likelihood scales from both impact and financial perspectives, informed by stakeholder validation and management workshops.
+
+The DMA identified seven material topics foundational to our business and three emerging, positioning SP Group ahead of the evolving sustainability landscape.
+
+Identification of impacts, risks and opportunities (IROs)
+
+The resulting material topics were reviewed by the Executive Leadership Team (ELT), endorsed by the Board Sustainability Committee (SC) and approved by the Board.
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+Below, we map the IROs against our seven core material topics, indicate their position along the value chain and summarise key progress for each.
+
+Material topic Description of impacts, risks and opportunities Value chain3 Our Approach & Achievements
+
+Investing in green and smart grid technologies can reduce negative environmental impacts associated with electricity transmission losses and fugitive losses from gas pipelines. Through improved energy efficiency and optimised cooling systems, we can also reduce our own operational emissions and help our customers to decarbonise.
+
+Climate change poses risks such as regulatory shifts and infrastructure impacts, potentially affecting SP Group’s finances and assets. Adapting to these risks may incur costs to ensure asset resilience and impact stakeholders with additional costs.
+
+Innovations in climate solutions offer opportunities to enhance energy management, operational efficiency and financial resilience.
+
+Fostering a safety-first culture is key in protecting employees, contractors and customers, as safety hazards may potentially lead to work accidents and affect the health and safety of SP Group’s employees and community.
+
+Non-compliance with safety and health regulations poses regulatory, compliance and reputational risks if breached.
+
+Prioritising workplace safety & health can lower health and safety incidents, enhance employee loyalty and boost labour productivity, positively affecting SP Group’s financial performance.
+
+We aim for net zero for our Scope 1 and 2 emissions by 2050. Meanwhile, our net zero strategy is grounded in enabling grid decarbonisation, greening our own operations, and supporting our customers in advancing towards their climate targets.
+
+We are also conducting climate scenario analysis to ensure our business and assets are climate resilient.
+
+In FY25/26, our Scope 1 and 2 emissions totalled 532,504 tCO2e, of which 91% is attributable to electricity and gas transmission and distribution losses, which are partly influenced by the underlying energy sources and are not fully within SP’s direct control.
+
+Our pathway to net zero is underpinned by a two‑pronged approach. First, we will reduce the emissions we directly control (about 9% of Scope 1 and 2) through energy efficiency, onsite solar, and fleet electrification. Second, we will enable wider system decarbonisation by strengthening grid flexibility, reliability, and resilience to support the integration of low‑carbon technologies.
+
+SP Group manages workplace safety and health through an ISO 45001 certified management system, emphasising safety accountability, capability building, assurance and strong contractor partnerships, supported by leadership oversight and continuous improvement.
+
+During the year, we recorded zero fatalities and achieved a Lost Time Injury Frequency Rate (LTIFR) of 0.17, outperforming the 0.53 target, benchmarked against global utility companies. Safety performance was further strengthened through proactive inspections, full onboarding of contractors onto the SAFE365 digital safety platform, and sustained leadership engagement, reinforcing a strong safety culture across employees and contractors.
+
+• Own operations SP Group manages workforce development and management through a structured framework that aligns skills development, talent attraction and retention, fair employment practices and employee wellbeing with its long‑term strategy.
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+Material topic Description of impacts, risks and opportunities Value chain3 Our Approach & Achievements
+
+Community initiatives and collaborations are important in strengthening social impact, including social resilience and improved wellbeing of local communities. These engagements complement SP’s presence and business activities in the community. Proactive engagement can foster the constituents’ closer association with SP Group. Strong community relations also boost brand reputation and investor confidence and a community-friendly operational framework for SP Group.
+
+Providing safe, reliable, and efficient services ensures service continuity for the community and enhanced customer experience. Compromises in service quality and reliability may lead to potential disruptions of essential services and customer dissatisfaction.
+
+Reputational damage and increased costs may arise from frequent service disruptions, rising energy prices, and poor customer service.
+
+Reliable energy services enhance SP Group’s revenue through a strong reputation. Efficient utility services delivery boosts customer satisfaction, leading to repeat business and referrals. High satisfaction increases retention and revenue streams, positively impacting SP Group’s financial outcomes.
+
+Strong corporate governance protects the energy needs of communities through robust ethical conduct and regulatory compliance. A weak corporate governance may reduce stakeholder trust and potentially limit access to essential services.
+
+Non-compliance can lead to fines, liabilities, reputational damage, loss of licence to operate, and limited financing access. Ethical breaches may result in financial penalties and reduced investor confidence, affecting SP Group’s stability and reputation.
+
+SP Group approaches community engagement through purposeful, long‑term investment, focusing on philanthropy and volunteerism, backed by close partnerships with social service agencies and targeted programmes that strengthen social resilience and support vulnerable individuals and families.
+
+In FY25/26, SP Group invested approximately S$7 million in community giving. Our staff contributed 12,000 volunteer hours, achieving 40% employee participation, and reached around 21,000 beneficiaries through initiatives supporting seniors, children and youth from lower income backgrounds.
+
+We maintain reliable energy supply through day‑to‑day operational excellence with forward‑looking investments in digitalisation, grid resilience and future‑ready infrastructure to support rising electrification, renewable energy integration and evolving customer needs.
+
+In FY25/26, SP Group continued to maintain world‑class network reliability by achieving a SAIDI of 0.328 min and 0.003 min for electricity and gas respectively. This means that a customer experienced an average disruption of only 19.7 seconds in electricity supply and 0.18 seconds in piped gas supply.
+
+Our approach to managing business ethics and compliance is anchored in strong corporate governance, a zero‑tolerance stance on bribery and corruption, and proactive regulatory compliance, integrated within enterprise risk management and internal audit processes.
+
+In FY25/26, SP Group achieved 100% completion of anti‑bribery and corruption training, maintained ISO 37001:2016 Anti‑Bribery Management System certification, and continued to reinforce ethical conduct through annual Code of Conduct training, conflict‑of‑interest declarations, active whistleblowing channels and rigorous compliance oversight.
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+Material topic Description of impacts, risks and opportunities Value chain3 Our Approach & Achievements
+
+Digitalisation, Cybersecurity & Data Privacy
+
+Effective cybersecurity is critical for safeguarding data, continuing operations and maintaining trust with stakeholders. Without a strong protection system, cyber breaches may compromise customer and employee data.
+
+Cyber-attacks can lead to data theft, financial loss, and operational disruptions for SP Group. Evolving threats may increase security costs, and breaches can result in penalties and damage reputation.
+
+Innovation and digitalisation investments open new revenue streams, cut costs, and enhance SP Group’s market position and reputation. Strong cybersecurity reduces risks and stabilises finances.
+
+SP Group advances digitalisation to enhance grid resilience, operational efficiency and customer empowerment, while embedding cybersecurity and data protection as foundational controls for critical infrastructure. Our technology strategy treats data as a strategic asset and integrates automation, AI and digital platforms across grid operations, workforce enablement and customer services.
+
+In FY25/26, SP Group continued to digitalise grid operations through smart grid technologies, digital twins and AI‑enabled asset management, expanded digital and self‑service customer channels, strengthened cyber resilience through advanced monitoring and an integrated Fusion Centre, and reinforced data protection and responsible AI governance. All our employees have completed the cybersecurity awareness training and PDPA e-learning. SP Group maintains the Data Protection Trustmark and ISO 27001 information security management systems certification. Full compliance with PDPA and Cybersecurity Act was also achieved.
+
+Cybersecurity risks remain a key area of focus. Potential incidents could result not only in regulatory penalties, but also broader financial and operational impacts, including service disruptions to critical infrastructure, and potential revenue loss from reduced customer trust. SP Group therefore continues to enhance preventive, detective and response capabilities to mitigate these risks and safeguard business continuity.
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+IFRS S1 27a | IFRS S2 6a | 6b | 34b
+
+SP Group has established a clear governance structure for sustainability and climate-related matters, led by the Board and supported by the Board Sustainability Committee (SC). The Board holds ultimate responsibility for sustainability and climate-related oversight, including sustainabilityrelated risks and opportunities (SrROs) and climate-related risks and opportunities (CrROs).
+
+As set out in the SC’s Terms of Reference (TOR), the Board formed the SC to oversee and monitor sustainability‑ and climate‑related disclosures, including SP Group’s sustainability reports, and coordinates with the Board and other relevant committees. It reviews and recommends related strategies, plans, commitments, and policies, and oversees the execution of Board‑approved initiatives.
+
+We have integrated material sustainability-related risks into our enterprise risk management (ERM), governance framework, and decision‑making, and progressively incorporating climate-related risks. Our material topics inform corporate strategy, capital allocation decisions and the assessment of major investments and transactions.
+
+From a strategic growth perspective, we also review sustainability and climate trends as commercial and strategic opportunities, particularly in enabling customers’ energy efficiency and decarbonisation. The Sustainable Energy Solutions (SES) business was established in response to growing demand for integrated energy and sustainability solutions, reflecting a long‑term view of industry and customer needs. It demonstrates a clear outcome of climaterelated opportunities. Investment decisions consider commercial viability, customer value, and alignment with sustainability and climate objectives, alongside financial, operational, and regulatory factors, consistent with our focus on delivering reliable, affordable, and future‑ready energy.
+
+Board Sustainability Committee (SC) Oversees progress against sustainability strategy and climate-related risks and opportunities
+
+Executive Leadership Team (ELT) Comprising SP Group’s senior management, responsible for steering the growth and development of SP Group
+
+Head of Sustainability Supported by the Sustainability Team
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+Management’s Role and Internal Controls
+
+Management is responsible for implementing the Board-approved sustainability and climate-related strategy and for embedding material sustainability and climate-related risks and opportunities into SP Group’s enterprise risk management, internal control and business processes. This includes ensuring that such matters are systematically identified, assessed, monitored and managed as part of day-to-day operations and decision-making.
+
+Management establishes and operates the processes, controls and reporting mechanisms through which sustainability and climate-related matters are integrated into business planning, capital investment evaluation and operational decisions, alongside financial, operational and regulatory considerations.
+
+Management provides the Board and the SC with information necessary to enable effective oversight of material sustainability and climate-related matters, including updates on risk exposures, performance against targets, emerging developments and progress on strategic initiatives.
+
+Risk Management IFRS S1 44a(i, iii, v, vi) | 44c | IFRS S2 25a(i, ii, v, vi) | 25b | 25c
+
+with regular meetings held with BUs and functions to ensure ground‑level alignment on sustainability matters. The Sustainability Taskforce meets monthly to review progress and key issues. Reinforcing sustainability priorities, sustainability-related KPIs, including aspects of service reliability, cybersecurity, safety, workforce development, are embedded in executive and senior management remuneration, including at the Group level.
+
+business planning and investment evaluation processes, in collaboration with relevant business units and functions. The team also delivers training and guidance to build organisational capability.
+
+SP Group manages its risks through its Enterprise Risk Management (ERM) and governance frameworks. Risk owners within the Corporate Office and each Principal Operating Subsidiary (POS) apply the ERM methodology adopted within their respective departments to assess and prioritise risks. Risk analysis involves a review of the impact and likelihood of risk outcomes through qualitative and/ or quantitative analysis, while taking into account existing mitigating measures and their effectiveness and factors affecting likelihood and consequences. Risk information is captured in departmental risk registers, and key risks are discussed at the relevant POS-level Risk Management Committee (RMC) and, where applicable, escalated to the SP Grouplevel RMC and/or the relevant POS Board or other appropriate governance body.
+
+The team coordinates the preparation of sustainability and climate-related disclosures, supports the setting, development and maintenance of policies, targets and metrics, and monitors progress against Board-approved commitments. These activities help ensure that sustainability and climate-related information provided for management decision-making and Board oversight is consistent, reliable and fit for purpose.
+
+Our internal control framework and sustainability considerations are integrated with core functions. Sustainability oversight is embedded within enterprise risk management, while sustainability considerations are incorporated into financial planning, capital allocation, and reporting. People and performance practices reflect our commitment to the material topics through policies, leadership accountability, capability building, and alignment of remuneration and regulatory expectations. In addition, supplier engagement and assessment processes strengthen sustainability reporting and risk management across the value chain.
+
+Management is engaged on material sustainability and climate-related matters at least quarterly, ahead of SC meetings, and more frequently as required, to support informed decision-making and escalation to the Board.
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+Sustainability and climate‑related risks are identified through diverse data sources, including market research, regulatory updates, expert insights and climate scenario analysis. Together, these approaches foster risk awareness across SP Group and support the proactive management of risks. Identified material risks are monitored using existing internal controls and ERM processes, including defined risk ownership, business unit risk registers and periodic risk reviews.
+
+Sustainability and climate-related risks that are considered significant or most material are escalated to the BRMC, as and when required. Sustainability‑related risks, identified through our double materiality assessment, are assessed using the same risk assessment parameters as other enterprise risks and are considered within SP Group’s risk categories. Our risk management processes for nonclimate sustainability risks remained unchanged from the previous reporting period.
+
+Given the longer‑term and evolving nature of sustainability, including climate risks, current use is focused on strengthening Management and Board’s understanding and informing longer‑term planning, with further refinement, quantification and integration to be implemented as analytical capability and data maturity improve.
+
+monitoring of climate-related risks, informed by our climate scenario analysis. This supports decision-making as we further enhance and refine our approach. Climate-related opportunities are managed through our existing business and strategy processes, which support their identification, prioritisation and integration into business strategy and implementation plans. Business units and functions systematically embed emerging opportunities across operations to advance material topics and our sustainability agenda.
+
+In recent years, this approach, supported by strategic alignment, technological innovation and regional growth, has positioned our business segment, SES, as a growing long-term opportunity that creates both business value and positive climate impact.
+
+We continue to strengthen our risk management processes for climate-related matters, including the identification, assessment, prioritisation and
+
+SUSTAINABILITY REPORT FY2025/2026 About Us Sustainability Strategy and Approach Stewarding Environmental Action Championing Responsible Growth Disclosures Caring for Our People and Community
+
+SP Group values the interests of both our internal and external stakeholders and engage them through regular dialogues. Stakeholders are identified based on their ability to influence and be affected by our operations and ESG outcomes. We maintain structured, ongoing engagement to surface expectations, inform sustainability strategy, and strengthen overall ESG performance. The table below lists our key stakeholders, primary engagement channels, and priority topics.
+
+Stakeholders Stakeholder Priorities Main Modes of Engagement
+
+Regulator & Government agencies (Regulated electricity, gas, market support services and district cooling business, infrastructure leasing, etc.)
+
+• Compliance to performance standards, regulations and licence obligations for regulated businesses in Singapore for electricity and gas transmission and distribution licensed operations, district cooling and market support services, infrastructure leasing
+
+• Prompt redress of public feedback
+
+• Collaborations for public interests
+
+• Operational and financial performance
+
+• Business planning and strategy
+
+Stakeholders Stakeholder Priorities Main Modes of Engagement
+
+• Customer satisfaction survey and regular communications through account managers
+
+• Operational service channels such as Customer Service Centre, hotlines, and WhatsApp
+
+• Feedback mechanisms including website and SP app
+
+• Customer meetings and touchpoints
+
+• Reliable supply of electricity and gas
+
+• Data protection and cybersecurity
+
+• Company strategy, progress and performance
+
+• Workplace safety and health
+
+• Career development and capability building
+
+• Employee engagement and organisational culture
+
+• Annual SP Group Townhall
+
+• Management dialogues with staff at business level
+
+• Internal communications including company intranet and emails
+
+• Wellbeing and cultural diversity events
+
+• Annual employee engagement survey
+
+• Regulatory consultations and joint studies
+
+• Submissions on tariffs, performance standards reporting, compliance, regulatory audits
+
+• Meetings and correspondences with government agencies and regulators
+
+• Industry and sector working groups and panels
+
+• Employment terms and conditions
+
+• Workplace safety and health
+
+• Capability building – upskill/ reskill, job changes
+
+• Regular dialogues at the branch, department, entity and senior management level
+
+• Company Training Committee (CTC) meeting
+
+• Annual UPAGE and senior management seminar
+
+Union of Power and Gas Employees (UPAGE)
+
+• Annual Board Strategic Review
+
+• Regular business performance and strategy review engagement sessions with Portfolio Development Group
+
+• Direct engagements on other strategic matters
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Climate Action & Resilience IFRS S2 10a | 14a(ii) | 33f
+
+Climate change can present growing physical and transition risks for energy infrastructure operators, with implications for asset resilience, system reliability, and long‑term investment planning. As Singapore’s national grid operator and a provider of sustainable energy solutions in Singapore and across the region, SP Group’s ability to anticipate and manage climate‑related risks or tap on opportunities is critical to maintaining safe, reliable, and affordable energy supply while supporting the national transition to net zero.
+
+For SP Group, climate action and resilience are material not only because of our operational footprint, but because climate change has the potential to affect the infrastructure, systems and markets on which our business depends. Rising temperatures, more intense rainfall and flooding, shifting policy and regulatory expectations, evolving technologies, and changes in customer and market
+
+demand can all influence how we plan, operate and invest in our networks and solutions. At the same time, the transition to a lower-carbon economy creates opportunities for SP Group to enable electrification, integrate cleaner energy sources, strengthen grid flexibility and resilience, and support customers in their own decarbonisation journeys.
+
+to decline; in parallel, we continue to minimise technical losses through network efficiency and asset renewal. Despite being the largest contributor to our carbon footprint, our loss rate remains low compared with global peers. This means our pathway to net zero has two parts. First, we are reducing the emissions we can directly influence (about 9% of our Scope 1 and 2 footprint) through initiatives such as greener buildings with better energy efficiency, onsite solar generation and consumption, and fleet electrification. Second, we are enabling broader system decarbonisation by getting the grid ready for a more decentralised, low-carbon energy system, strengthening flexibility, reliability and resilience so that cleaner generation, storage, electrification and other emerging technologies can be integrated and scaled safely. We continue to identify practical decarbonisation pathways and keep our methodologies under review so that our net zero commitment remains ambitious, credible and aligned with Singapore’s energy transition.
+
+IFRS S2 14a(v) | 29a(ii, iii) | 33a | 33b | 33c | 33d | 33g
+
+| 33h | 36b | 36c
+
+We are committed to achieving net zero Scope 1 and 2 greenhouse gas (GHG) emissions by 2050. This supports the Paris Agreement goal of limiting global temperature rise to 1.5°C above pre-industrial levels and aligns with Singapore’s national climate ambitions, including its nationally determined contribution (NDC).
+
+Our approach therefore focuses on both managing risk and enabling transition. We continue to strengthen our understanding of emissions across the Group, enhance the quality and governance of climate-related data, and deepen the integration of climate considerations into business planning and decision-making. In parallel, we are updating our climate scenario analysis using the latest available climate science and relevant operational and financial data to assess how different physical and transition pathways could affect our business over time. These insights will help inform resilience priorities, strategic planning, asset lifecycle decisions and capital allocation, while supporting a more coordinated and forward-looking response to climate-related risks and opportunities across SP Group.
+
+This target applies across SP Group and covers the relevant GHGs accounted for in our emissions inventory under the GHG Protocol, expressed in carbon dioxide equivalent (CO2e).
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+SP Group is better positioned to identify material emission sources, track performance over time, and inform planning and decision-making to support our net zero ambition, which is aligned with Singapore’s national climate goals and that of countries we operate in.
+
+To enhance emissions governance, SP is formalising a Group-wide Basis of Preparation (BoP) that sets out the data sources, organisational and operational boundaries, emission factors, estimation methodologies, and key assumptions applied to Scope 1, Scope 2, and relevant Scope 3 categories. Establishing this framework supports consistency, traceability, and transparency in the compilation, interpretation, and governance of emissions data across business units. We have updated our calculation methodologies and emission factor database, incorporating a formal review and update process into our BoP. We will continue to refine and enhance these processes to ensure our methodologies remain robust as our business and carbon accounting practices evolve.
+
+control throughout the reporting workflow. The system will support data consolidation, enhance GHG analysis, and strengthen data quality and auditability. These improvements aim to enhance emissions monitoring and support readiness for future external assurance in line with evolving requirements under IFRS S2.
+
+Climate-related Risks and Opportunities (CrROs)
+
+IFRS S2 10b | 10d | 22b | 22a(i)
+
+In 2021, SP conducted a climate scenario analysis (CSA) that adopts the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). For more information on our 2021 CSA, please refer to pages 67 to 71 of our FY2024/2025 Sustainability Report.
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Progress on SP Group’s Evolved Climate Scenario Analysis (CSA)
+
+In our ongoing CSA, we will be covering all scopes of operations in Singapore, China, Thailand and Vietnam. In the meantime, SGSP (Australia) Assets Pty Ltd and its subsidiaries (collectively referred to as “SGSPAA”) conducted a separate CSA to cover our operations in Australia and comply with Australian regulatory requirements. Furthermore, we have updated our time horizons and climate scenarios from those used in the previous 2021 CSA.
+
+Physical Risks 2030 2050 2080
+
+Transition Risks and Opportunities 2030 2035 2050
+
+For our climate scenarios, we select three scenarios for both physical risks and transition risks and opportunities.
+
+These scenarios were selected to minimally consider a scenario that limits the global temperature rise to 2°C or lower and aligns with the Paris Agreement. Additionally, high contrast scenarios were chosen to effectively stress test the climate resilience of SP Group’s business.
+
+We endeavour to disclose material physical climate risks and their implications to our business when the study concludes. In addition, we will outline the potential impacts of transition risks and opportunities arising from the low-carbon transition on our business model and value chain. Insights from these assessments will guide resilience planning and investment decisions across SP Group, further enhancing business preparedness amid evolving climate conditions.
+
+Transition Risk Scenarios (defined by The Network of Central Banks and Supervisors for Greening the Financial System - NGFS)
+
+Expected warming levels at end of century
+
+Physical Risk Scenarios (IPCC scenarios, adopted by Singapore’s Third National Climate Study “V3” study)
+
+Assumes that ambitious climate policies are introduced immediately, reaching global net zero CO2 emissions around 2050. Physical risks are relatively low but transition risks are high.
+
+Sustainability-focused strong global cooperation with aggressive climate policies, rapid decarbonisation, high renewable energy share, strong carbon pricing leading to rapid decline in CO2 emissions; net-zero CO2 emissions around 2070.
+
+Assumes that climate policies are introduced immediately and become gradually more stringent reaching net zero after 2070. Physical risks are moderate to severe and transition risks are relatively low.
+
+Assumes that existing climate policies are maintained, without further strengthening. This pathway avoids immediate economic disruption but increases long-term physical risks.
+
+Gradual policy tightening, moderate technology adoption, uneven progress with moderate challenges to mitigation/ adaptation, emissions decline slowly with no net-zero by 2100.
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+IFRS S2 Disclosure What has been established What is in-progress and/or planned References
+
+• The Board has ultimate responsibility for sustainability and climate oversight, including sustainability-related risks and opportunities (SrROs) and climate-related risks and opportunities (CrROs).
+
+• In 2021, SP conducted a climate scenario study to assess our climate change resilience and to identify the climate-related risks and opportunities material to our business.
+
+• SP assesses, prioritises and monitors sustainability and climate risks alongside strategic, operational, financial and regulatory risks through existing internal controls and ERM processes.
+
+• The Board Sustainability Committee (SC) oversees and monitors sustainability and climate disclosures, reviews and recommends related strategies, and guides Management and the Sustainability function to advance SP Group’s sustainability goals.
+
+• Management implements Board-approved sustainability and climate strategies, integrates SrROs and CrROs into Enterprise Risk Management (ERM), controls, and business processes, and reports key matters to the Board and SC.
+
+• The Sustainability team coordinates sustainability and climate processes and disclosures across SP.
+
+• Formed a Sustainability Taskforce, with members from business units and group functions, works with the Sustainability team to drive initiatives, align with business strategy, and foster cross-functional engagement and accountability.
+
+• Sustainability considerations are integrated with core functions, including Group Risk Management, Finance, HR and Procurement.
+
+• We take into account the business impact of these key climate-related risks and opportunities and manage our strategic responses accordingly.
+
+• SP Group has a robust governance structure and continues to maintain strong Board and Management oversight of sustainability and climate-related matters.
+
+Sustainability Governance, pages 14 to 15
+
+SP Group FY2024/2025 Sustainability Report, pages 67 to 71
+
+• SP is in the process of updating the climate scenario study which will cover our operations and suppliers. The study will identify relevant physical risks as well as transition risks and opportunities. There will be three different climate scenarios and time horizons for physical risks and transition risks and opportunities respectively. The assessment results will inform the climate-related impacts on SP Group’s business operations, strategy and financial implications.
+
+Climate Action and Resilience, pages 19 to 30
+
+• SP will continue to manage its sustainability and climate risks using established internal controls and procedures embedded within its ERM and governance frameworks.
+
+Risk Management, pages 15 to 16
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+SP’s climate initiatives reflect both our responsibility to decarbonise our own operations and our role in enabling broader system-wide decarbonisation. Within our operations, we are focused on reducing emissions from sources within our direct control, including through energy efficiency measures, onsite solar deployment and fleet electrification. Beyond our organisational boundary, we also support customers in meeting their climate objectives through reliable, lower-carbon solutions, while contributing to Singapore’s broader low-carbon transition by strengthening grid flexibility, reliability and resilience, and enabling the integration of low-carbon technologies. Together, these initiatives reflect a balanced approach: reducing our operational footprint while leveraging SP’s infrastructure, capabilities and customer relationships to support decarbonisation across the wider energy ecosystem.
+
+SP Joins Pilot for Electric Prime Mover Adoption
+
+SP is participating in a pilot trial led by Enterprise Singapore to promote the adoption of electric prime movers (e‑PMs) for operational use. These e‑PMs are heavy‑duty electric trucks that replace diesel engines with electric motors and battery systems, generating zero tailpipe emissions, lower operating costs, and reduced noise levels. SP Group has deployed e‑PMs for operational activities such as transporting generators during supply restoration, with the vehicles equipped with advanced safety features to enhance stability.
+
+Strengthening Grid Stability through Advanced Technologies
+
+Solarising SP’s Substations to Support Singapore’s Low-Carbon Future
+
+As part of SP Group’s broader approach to enabling system-wide decarbonisation, we are progressively enhancing our energy performance capabilities through the development and piloting of advanced digital and operational technologies aimed at improving system reliability, efficiency, and resilience. Initiatives such as Digital Twins are being developed and trialled to support more accurate planning and condition assessment of grid assets. These emerging capabilities are intended to improve early risk identification, enhance maintenance and investment decisions.
+
+In 2025, SP Group completed the installation of rooftop solar PV systems at 26 electricity substations across Singapore and plans to do so for another 44 substations over the next two years. This achievement represents a key milestone in strengthening the grid’s low-carbon capabilities while supporting Singapore’s transition towards a more sustainable energy future. The initiative reflects SP’s continued commitment to integrating renewable energy solutions into critical infrastructure and enabling cleaner energy for all.
+
+Implemented over multiple years in three phases between 2023 and 2025, the programme was structured to optimise the solar potential of substations without affecting operational reliability. Each substation was fitted with solar PV systems of up to 1 MWac installed capacity, enabling effective utilisation of on-site renewable generation.
+
+SP Group deploys e-PM to transport generators during supply restoration. The e-PM is fitted with advanced safety features for enhanced stability
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+• Solar Photovoltaic Systems: Integrated solar
+
+photovoltaic panels are installed within the roof
+
+relative to prevailing code-compliant buildings 40%
+
+• Energy‑Efficient Air‑Conditioning: Labrador Tower is
+
+landscaping of both the tower and podium to
+
+equipped with hybrid active chilled beam systems
+
+generate on-site renewable energy, supporting
+
+Completed in 2024, the 34‑storey Labrador Tower is
+
+integrated with variable air volume (VAV) technology,
+
+reduced reliance on grid electricity and enhancing
+
+among Singapore’s first commercial developments
+
+delivering cooled air only when required to reduce
+
+the development’s overall energy efficiency.
+
+to attain the Building and Construction Authority
+
+energy consumption and utility costs.
+
+(BCA) Green Mark Platinum Super Low Energy (SLE)
+
+• Building Orientation and Façade Design: The tower
+
+• AI and IoT: A self-learning building intelligence
+
+certification. Featuring SP Group’s suite of sustainable
+
+is strategically oriented to minimise heat gain from
+
+system that utilises artificial intelligence (AI) and
+
+energy solutions, the development was validated to
+
+morning and evening sun exposure, complemented
+
+Internet of Things (IoT), is deployed to maintain
+
+have achieved approximately 40% energy savings
+
+by shading fins and a double‑glazed glass façade to
+
+optimal thermal comfort while maximising energy
+
+relative to prevailing code-compliant buildings,
+
+further reduce thermal load.
+
+efficiency. Sensors and monitoring systems,
+
+demonstrating its strong environmental performance
+
+• High-efficiency Lights: Energy‑efficient LED lighting,
+
+and high level of resource efficiency.
+
+supported by self-learning AI, optimise airflow
+
+combined with daylight sensors, automatically
+
+and resource utilisation through predictive and
+
+adjusts to natural light levels, reducing unnecessary
+
+preventive maintenance.
+
+electricity use and lowering operating costs while
+
+• Underground Thermal Storage: Underground
+
+enhancing overall energy performance.
+
+thermal storage tanks are utilised to maintain chillers
+
+• Green Spaces and Landscaping: The development
+
+at optimal operating efficiency. They provide stored
+
+incorporates five sky terraces, integrating greenery
+
+cooling capacity, enabling chilled water to be
+
+throughout the building to enhance environmental
+
+produced in advance during off-peak periods and
+
+performance and occupant well‑being.
+
+used during peak demand periods. This reduces
+
+peak electricity load while optimising system
+
+Tenants have highlighted the advantages of the green
+
+efficiency and supports lower operating costs by
+
+workplace, including enhanced energy efficiency,
+
+taking advantage of time-of-use electricity tariffs.
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Electric Vehicle Charging Solutions: SP Group Launched Singapore’s Fastest EV Charger Paired with a Battery Energy Storage System with Huawei
+
+Under the Singapore Green Plan 2030, Singapore’s EV Roadmap aims to accelerate EV adoption through incentives, infrastructure deployment and regulation, supporting the transition to a cleaner-energy vehicle population by 2040.
+
+Through SP Mobility, our EV charging arm, we have installed more than 3,400 charging points across the island to support our national EV roadmap. Being the largest public high-speed EV charging network, we continue to advance and develop next-generation EV charging solutions. This year, SP Group collaborated with Huawei to deploy Singapore’s fastest public EV charger paired with a battery energy storage system at Temasek Polytechnic. This marks a significant advancement in the country’s EV charging ecosystems, which supports the acceleration of EV adoption in line with Singapore’s Green Plan 2030 and national EV roadmap. The ultra‑fast charger is capable of delivering up to 200 kilometres of driving range in around five minutes of charging and operates at a maximum output of up to 400 kW, subject to site power availability.
+
+The charger integrates liquid‑cooling technology with an integrated energy storage system to enable safe, efficient, and high‑performance charging for both passenger and commercial vehicles. This is particularly important as Singapore aims to scale its EV charging network towards 60,000 charging points by 2030 and advances towards a fully cleaner energy vehicle population by 2040, where charging infrastructure must support higher utilisation, faster turnaround times, and increasing electrification of commercial fleets.
+
+Case Study: Sustainable and Reliable Cooling for Singapore’s Marina Bay
+
+The Marina Bay District Cooling Network demonstrates how SP Group supports climate action, urban resiliency
+
+and reliable service delivery through sustainable energy solutions. Operated by SP Sustainable Energy Solutions,
+
+the network provides commercial developments in Singapore’s Marina Bay district with reliable, energy-efficient
+
+cooling at scale. By centralising the production and
+
+supply of chilled water, the system reduces the need
+
+with an installed capacity of over 65,000RT
+
+for individual chiller plants, helping customers optimise
+
+space, improve operational efficiency and lower carbon
+
+emissions, while supporting dependable cooling for
+
+business continuity.
+
+The Marina Bay District Cooling network serves as
+
+shared urban infrastructure for sustainable cooling.
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+abatement technology. This contributes to annual carbon emission reductions of up to 120,000 tonnes, supporting ST’s ambition to achieve global carbon neutrality by 2027.
+
+STMicroelectronics Ang Mo Kio TechnoPark: Scaling Sustainable Industrial Cooling
+
+Instead of each building operating its own standalone
+
+cooling system, the network consolidates cooling
+
+In 2025, SP Group commenced operations of a centralised district cooling system at STMicroelectronics’ (ST) Ang Mo Kio TechnoPark (ST AMK). This project marks Singapore’s largest industrial district cooling network, reinforcing SP’s leadership in delivering large-scale, high-efficiency cooling solutions for energy-intensive industries.
+
+demand across multiple developments and delivers
+
+chilled water through centralised assets, integrated
+
+Our solution also integrates circular water management practices to enhance resource efficiency. Reject reverse osmosis water from ST’s manufacturing processes is repurposed for cooling tower operations, allowing the reuse of over 500,000 cubic metres of water annually. This demonstrates how our systems are designed not only for energy efficiency, but also for holistic resource optimisation across energy, water and space.
+
+distribution infrastructure and professional operations.
+
+This supports higher system efficiency, strengthens
+
+reliability and frees up valuable building space for
+
+other uses.
+
+A key feature of the network is its thermal energy
+
+The system serves five manufacturing facilities spanning approximately 90,000 square metres, delivering reliable, uninterrupted chilled water through a closed-loop network designed to support mission-critical semiconductor operations. By centralising cooling production, SP Group enables customers to move away from fragmented, standalone chiller plants towards a district cooling solution that enhances operational reliability while optimising lifecycle costs.
+
+storage system, which stores cooling capacity in the
+
+in district cooling as a reliable and lower-carbon
+
+form of chilled water or ice during off-peak periods
+
+solution. As the network scales, including through
+
+for use when cooling demand is higher. This enables
+
+progressive connections to nearby developments,
+
+This project exemplifies how SP Group partners customers to deliver end-to-end sustainable cooling infrastructure that improves operational efficiency, strengthens resilience, and accelerates decarbonisation outcomes for complex industrial environments.
+
+the network to better manage demand fluctuations,
+
+it supports business continuity, enhances cooling
+
+optimise chiller operations and maintain reliable
+
+resilience and helps customers advance their
+
+cooling supply during peak periods. By shifting part of
+
+the cooling load away from periods of high electricity
+
+comfort or reliability.
+
+demand, thermal energy storage also supports
+
+For customers and city planners, Marina Bay District
+
+more efficient energy use and enhances the overall
+
+Cooling shows how infrastructure-level solutions
+
+resilience of the district cooling system.
+
+can support decarbonisation and energy efficiency
+
+Since operations began in 2006, the network has
+
+at district scale. Its long operating track record
+
+recorded zero supply disruptions, reflecting SP
+
+demonstrates that sustainability and reliability can
+
+Group’s strong operational discipline and round-the-
+
+go hand in hand, while its continued expansion
+
+clock monitoring capabilities. With 28 buildings now
+
+provides a practical model for how dense urban
+
+districts can manage growing cooling demand
+
+connected, its continued expansion across the Marina
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Tampines Brownfield Distributed District Cooling
+
+In 2025, SP Group commenced operations for a distributed district cooling (DDC) network at Tampines Central, making it Singapore’s first town centre retrofitted with this sustainable cooling solution. Seven existing buildings across the town centre are connected to the DDC network – Century Square, CPF Tampines Building, Income at Tampines Junction, OCBC Tampines Centre 2, Our Tampines Hub, Tampines Mall and Tampines 1. This follows a successful feasibility study on brownfield DDC conducted in 2021.
+
+The distributed district cooling system at Tampines Central
+
+theme “Empowering the Energy Transition”, CEPSI 2025 served as a strategic platform to bring together the energy ecosystem to accelerate cross-border collaboration, exchange practical insights and advance collective action towards a more secure, resilient and lower-carbon power future.
+
+capability and helps catalyse the partnerships needed to modernise power systems and enable the energy transition across Asia Pacific.
+
+thereby removing the need for their own chiller plants completely. This in turn optimises the installed cooling capacity, ensures chiller systems operate at maximum efficiency, and leads to more benefits including reducing equipment costs and freeing up leasable space.
+
+Hosting CEPSI 2025 also provided an opportunity for SP Group to contribute to regional dialogue at a time when power systems are becoming more interconnected, decentralised and complex. Through its leadership of this platform, SP Group contributed to shaping conversations on how grids can underpin clean energy ecosystems, strengthen resilience and support inclusive progress towards net zero. This reflects SP Group’s broader role not only as a national grid operator, but also as an enabler of collaboration, innovation and collective action needed to advance a sustainable energy future in Singapore and the wider region.
+
+For participants, CEPSI provides more than an energy conference. It is a regional forum for utilities, governments, regulators and solution providers to align on shared transition challenges, including the ASEAN grid, grid modernisation, renewable integration, system flexibility, digitalisation, lowcarbon technologies, renewable energy imports and financing the transition. By fostering dialogue across these stakeholders, the event supports the exchange of best practices, strengthens industry
+
+The DDC network will strengthen Tampines’ Eco Town ambitions by helping the town centre reduce its annual carbon emissions by 1,000 tonnes and achieve annual energy savings of more than 2,300,000 kilowatt-hours (kWh). This pioneering initiative by SP demonstrates how innovative approaches to cooling deployment in existing urban environments can support national climate objectives and enhance long-term climate resilience.
+
+Convening Regional Collaboration through CEPSI 2025
+
+Climate action and resilience require not only internal decarbonisation efforts, but also stronger industry collaboration to build power systems that are secure, flexible and ready for a lower-carbon future.
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+IFRS S1 51f | IFRS S2 14c | 29a(i,iii) | 29a(v) | 29a(vi) | 34c | 35
+
+From FY25/26, SP Group has aligned the reporting period for its GHG emissions and related activity data with the fiscal year covered by its Annual Report and financial statements. This change is intended to improve consistency and connectivity between the Group’s climate-related disclosures and its related financial statements, in line with its continued alignment with IFRS S2. As this represents a change from the prior reporting basis, the Scope 1, Scope 2 and Scope 3 emissions disclosed for FY25/26 are not directly comparable with the emissions information presented in the FY24/25 Sustainability Report, which was prepared on a calendar-year basis. In addition, from FY25/26, SP Group has adopted IPCC AR6 global warming potential (GWP) factors in place of the AR5 factors used in the prior year. Prior-period GHG emissions have not been restated for either the change in reporting period or the change in GWP factors. Accordingly, prior-period emissions data are not directly comparable with the FY25/26 disclosures.
+
+of SP Group’s total Scope 1 and 2 emissions stem from electricity and gas transmission and distribution losses, which are partly determined by the source of energy and are not within SP Group’s direct control, as we do not control the energy mix injected into the grid. In Singapore’s context, electricity transmission and distribution (T&D) losses are primarily driven by inherent technical losses arising from the transmission and distribution of electricity across the network. These losses represent the difference between the amount of electrical energy injected into and withdrawn from the network and arise due to various factors. The primary cause is the energy consumed by network infrastructure, such as transformers and cables, while facilitating the transportation of electricity. SP Group continues to implement measures to minimise technical losses, such as deploying high-efficiency equipment, closely monitoring asset health, and renewing assets in accordance with established lifecycle schedules, but some increase in losses is expected as part of normal
+
+system operations. In particular, losses may also rise as electricity is stepped down from high-voltage transmission to lower-voltage distribution levels to meet end-user requirements. As for gas transmission and distribution, there are ongoing efforts to reduce leakage through the progressive replacement of ductile iron pipes with plastic pipes.
+
+Progress and Performance Emissions FY25/26
+
+Total Scope 1 Emissions (tCO2e) 72,741
+
+Sulphur hexafluoride (SF6) is used as an insulating medium in switchgears to help electrical equipment operate safely and reliably. While it plays an important role in maintaining a stable power supply, SF6 is also a potent greenhouse gas. We therefore monitor and manage its use carefully to minimise leakage and are piloting SF6-free alternatives where suitable. Wider deployment remains contingent on the maturity of SF6-free technologies for transmission applications.
+
+Total Scope 2 Emissions (tCO2e) (Location-based) 459,763
+
+Total Scope 2 Emissions (tCO2e) (Market-based) 456,541
+
+SP Group purchases contractual instruments (i.e. RECs) to reduce its Scope 2 market-based emissions by offsetting the Scope 2 emissions from SP Group’s headquarter and overseas corporate offices.
+
+SP Group’s Emissions (Scope 1 & 2 (location-based))
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Since FY22/23, we have measured and disclosed our Scope 3 emissions in accordance with the GHG Protocol’s Corporate Value Chain (Scope 3) Accounting and Reporting Standard. Of the 15 categories defined under the standard, nine are considered relevant and material to our operations.
+
+In FY25/26, SP Group reported a total of 966,125 tCO2e of Scope 3 emissions. Our Scope 3 emissions were mainly contributed by Category 1 for purchased goods and services and Category 2 for capital goods, Category 3 for fuel- and energy-related activities, Category 11 for use of sold products and Category 15 for investments, which in total take up 99% of our Scope 3 emissions.
+
+Scope 3 Category Progress and Performance: Emissions (tCO2e) % of total Scope 3
+
+Category 1: Purchased Goods and Services 52,339 5.42%
+
+Category 2: Capital Goods 374,729 38.79%
+
+Category 3: Fuel- and Energy-Related Activities 125,783 13.02%
+
+Category 5: Waste Generated in Operations 0.01%
+
+Category 6: Business Travel 0.09%
+
+Category 7: Employee Commuting 2,688 0.28%
+
+Category 11: Use of sold products 115,532 11.96%
+
+Category 13: Downstream leased assets 1,175 0.12%
+
+SUSTAINABILITY REPORT FY2025/2026 Stewarding Environmental Action About Us Championing Responsible Growth Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+We are committed to optimising our energy performance by improving energy efficiency and switching to cleaner energy technologies. Examples of our energy management measures include fleet electrification and onsite solar energy generation and consumption.
+
+• BCA Green Mark Platinum Super Low Energy
+
+• ISO 50001:2018 Certification for Energy
+
+Certification (Labrador Tower) by SP Group,
+
+Management System for Sakra Natural Gas
+
+Station for SP PowerGrid (Gas Operations),
+
+• BCA Green Mark Platinum Super Low Energy
+
+Certification (SP Group Headquarters) for SP
+
+• ISO 50001: 2018 Certification for Provision of
+
+Green Data Centre Services for SP Services,
+
+• BCA-IMDA Green Mark Platinum
+
+Certification for New Data Centre (SP Group
+
+• SS564:2013 (Energy & Environment
+
+Headquarters) for SP Group, 2023 to 2026
+
+Management System for Operations and
+
+Maintenance of Data Centre) for SP Group,
+
+• SS564: Part 1: 2020 Certification for Provision
+
+of Green Data Centre Services for SP
+
+• ISO 50001:2018 Certification for Energy
+
+Maintenance of Data Centre for SP Group,
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+IFRS S1 30a | 33a | 51b | 51f
+
+Workplace Safety and Health (WSH) is a long-standing strategic priority for SP Group and a core enabler of safe, reliable and resilient operations across all geographies in which we operate. As an operator of critical energy infrastructure, SP Group recognises that strong WSH performance is fundamental to operational excellence, workforce confidence and the sustained delivery of essential services to customers and communities.
+
+Lost Time Injury Frequency Rate (LTIFR) <0.53
+
+We have achieved a 0.17 LTIFR for employees and contractors in Singapore, which means 0.17 lost time injuries per million man-hours worked over the 12-month period of FY25/26.
+
+of employees trained on safety 100%
+
+100% of employees completed annual safety training.
+
+ISO 45001 Occupational Health & Safety Management System Maintain
+
+SP continues to maintain its ISO 45001 Occupational Safety & Health Management System certification for Singapore Power Limited and its wholly-owned Singapore incorporated subsidiaries.
+
+There were zero fatality cases in Singapore during the financial year.
+
+Safe work practices and proper use of personal protective equipment supporting safe operations
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+IFRS S1 30a | 33a
+
+SP Group adopts a structured and systematic approach to WSH through a Group-wide Occupational Health and Safety Management System (OHSMS) that is certified to ISO 45001 and applied consistently across its operations in Singapore. This management system provides the foundation for identifying, assessing and managing WSH-related risks and opportunities, and for promoting a strong and enduring safety culture across the Group.
+
+Safety leadership is key to ensure effective Safety and Health governance in SP Group. The WSH governance framework in SP Group is defined by the following structure:
+
+WSH is overseen by senior management and embedded within SP Group’s broader governance and risk management framework. Clear roles, responsibilities and accountabilities are established to ensure that safety considerations are integrated into operational planning, project delivery and contractor management. Leadership commitment to WSH is reinforced through regular management reviews, performance monitoring and continuous engagement with employees and contractors.
+
+Safety is SP’s highest priority and is anchored in strong leadership commitment to fostering a pervasive and proactive safety culture across the Group. This commitment is formalised through the Group Safety and Health Policy, endorsed by the Group Chairman and Group Chief Executive Officer, and extends to both employees and contractors. Oversight of WSH is provided by the Management Safety and Health Committee (MSC), chaired by the Chief Corporate Officer and comprising senior management representatives from each business unit. At the operational level, WSH committees are established within each business unit and include representatives from management, unions, and ground staff, helping to embed safety considerations across all levels of the organisation.
+
+Management Safety and Health Committee (MSC)
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Risk Identification, Management and Monitoring
+
+In line with ISO 45001 requirements, SP Group systematically identifies workplace hazards and assesses WSH risks arising from its operations and upstream contractor activities, including risks of workplace incidents, regulatory non-compliance and operational disruption. These assessments consider routine and non-routine activities, changes in operating conditions and project-related risks.
+
+Regular safety inspections and leadership engagement on the ground reinforcing a strong culture of safety across our operations
+
+management reviews conducted as part of its ISO 45001 management system. Incidents, near misses and non-conformances are investigated, with corrective and preventive actions tracked to closure. Insights gained are used to strengthen controls, enhance operational practices and reinforce a positive safety culture, supporting continual improvement over time, in addition to sound operational and strategic decision-making.
+
+The WSH strategy is underpinned by four strategic pillars, supported by Group-wide policies, core values and our key enablers. Together, these pillars guide how SP Group identifies, manages and continuously improves its response to safety and health related risks and opportunities across its operations and contractor ecosystem to enhance workforce engagement, operational reliability and create long-term value.
+
+SP Group’s WSH strategy is enabled by its Group Safety and Health Policy and aligned with its core values of Commitment, Passion, Integrity and Teamwork, reinforcing a consistent safety culture across the organisation.
+
+At the same time, managing WSH-related risks associated with potential lapses in safety controls or non-compliance with regulatory requirements within own operations and upstream contractor activities will strengthen WSH practices and create opportunities to enhance workforce engagement and productivity, reduce incident-related downtime and costs, and reinforce trust with employees, contractors, regulators and other stakeholders. Collectively, these outcomes support SP Group’s operational resilience, financial performance and long-term enterprise value.
+
+SP Group House of Safety
+
+To make Safety our Way of Life, striving towards Zero Accident
+
+Build capabilities to better manage and drive for safety
+
+Improve Contractors Safety through Partnership
+
+Transform towards a safety accountable organisation
+
+Assure high standard of SMS and Enhance Health & Well-being
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+SP Group seeks to build a safety-accountable organisation where responsibility for WSH is clearly defined and embedded at all levels. This pillar reinforces leadership ownership, individual responsibility and consistent decisionmaking, ensuring that safety considerations are integrated into day-to-day operations, project execution and contractor management.
+
+By strengthening accountability, SP Group mitigates the risk of safety lapses arising from unclear roles, inconsistent practices or behavioural gaps, and supports timely identification and escalation of issues that could affect operational continuity or regulatory compliance.
+
+Pillar 3: Safety and Health Assurance
+
+Recognising that effective safety and health management depends on people capability, SP Group invests in building the skills, competence and awareness needed to manage WSH risks proactively. This includes equipping employees and contractors with the knowledge to identify hazards, apply safe work practices and respond appropriately to changing operating conditions.
+
+Safety and health assurance focuses on maintaining high standards through structured systems, monitoring and continuous improvement. Through this pillar, SP Group seeks to ensure that safety and health risks are systematically identified, controls remain effective, and lessons learned from incidents, audits and observations are reviewed and incorporated into controls, procedures and training, where appropriate.
+
+Given the role of contractors in SP Group’s operations, strong contractor partnership is a critical pillar of the WSH strategy. SP Group works to improve contractor safety performance through clear expectations, engagement and collaboration, recognising that shared ownership of safety outcomes is essential for managing upstream risks. Safety requirements are integrated into procurement and contractor engagement processes, with ongoing monitoring to promote consistent safety performance across the supply chain.
+
+Capability building enhances SP Group’s ability to prevent incidents, adapt to evolving operational risks and sustain high standards across diverse activities and geographies. Over time, this strengthens workforce resilience, supports productivity and reduces the likelihood of incident-related disruptions.
+
+This assurance-driven approach supports SP Group’s ability to manage risks associated with workplace incidents, regulatory noncompliance and operational disruption. It also provides management with confidence that safety and health considerations are consistently addressed in strategic, operational and resource allocation decisions.
+
+Additionally, Safety Circle of Excellence (SCOE) was established to identify and facilitate implementation of best safety practices, strengthen safety mindset, and create an open platform for feedback on safety improvements.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Workplace health is overseen through established governance structures, including management-level safety committee that monitor implementation and performance. Health-related indicators are reviewed to provide visibility on emerging risks and trends, enabling informed management oversight and timely intervention.
+
+This governance framework ensures that workplace health considerations are integrated into decisionmaking and that potential health-related risks, such as those affecting workforce availability, productivity or operational continuity, are identified and managed in a structured manner.
+
+Recognising that workplace health outcomes depend on workforce participation and awareness, SP Group places emphasis on engaging employees and contractors through targeted initiatives. These include health related surveys, training and awareness programmes, contractor training, and recognition of positive behaviours and contributions.
+
+applied based on risk assessments to safeguard employee health, particularly for field-based activities.
+
+Collectively, compliance to regulatory requirements and internal workplace health standards support the prevention of work-related ill health and the effective management of operational and regulatory risks.
+
+SP Group integrates workplace health into its WSH strategy to support workforce resilience, operational reliability and long-term business performance. Our approach promotes mental wellbeing, physical health and a healthy work environment through preventive programmes, employee engagement and early intervention, aligned with our ISO 45001-certified OHSMS and informed by the World Health Organisation’s healthy workplace framework.
+
+Workplace health is supported through a range of preventive and promotive programmes that address both physical and mental health. These include health campaigns, wellness activities, health screening and intervention measures, as well as initiatives focused on mental health and resilience.
+
+Management Safety Committee oversees implementation
+
+Fitness facilities Mental Health & Resilience
+
+These programmes are designed to reduce the likelihood and severity of work-related ill health, support early intervention where risks are identified, and contribute to a healthier and more resilient workforce over time.
+
+For more information on SP Group’s workplace health initiatives, please see pages 43 to 47 under the “Workforce Development and Management” chapter.
+
+Physical Health Screening and Intervention
+
+WSH Occupational Health Regulation Compliance
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Case Study: Strengthening Ground‑Up Safety through Digital Tools and Engagement
+
+Going forward, SP will pilot AI‑enabled CCTV
+
+systems across multiple sites. Observations from the
+
+SAFE365 Worksite Safety Management App
+
+monitoring to automate detection of safety
+
+footage are regularly reviewed to identify areas for
+
+SP achieved full onboarding of all contractor partners onto SAFE365, a safety management application designed to strengthen collaboration between SP project teams and contractors. It standardises daily safety reporting across SP worksites and improves the consistency, accountability and visibility of on‑site safety activities. Developed in-house by SP Digital, this application is designed to strengthen collaboration between SP project teams and contractors while creating a safer and more productive work environment.
+
+violations, with continued evaluation before wider
+
+improvement, reinforce safe behaviours and share
+
+deployment across worksites.
+
+good practices across contractor partners. This
+
+enables timely intervention, continuous learning and
+
+By combining ground‑level engagement with
+
+consistent safety standards across worksites.
+
+digital monitoring and collaborative dialogue, SP
+
+Ensuring that every worker returns home safely at
+
+reinforces safety as a shared responsibility. This
+
+In addition, Ms Yuan and her team participate in
+
+the end of the day is a core priority at SP. Across
+
+partnership‑based approach helps foster a strong
+
+regular site engagements and dialogues alongside SP’s
+
+more than 300 worksites island‑wide, daily toolbox
+
+safety culture, one where employees, contractors
+
+senior leadership. These interactions provide an open
+
+meetings form a critical first line of defence, bringing
+
+and leaders work together to uphold safe work
+
+channel for contractors to raise safety concerns, share
+
+together technical officers and contractors to identify
+
+practices and protect the well‑being of workers,
+
+feedback and flag potential risks early, allowing issues
+
+hazards and agree on safety precautions before work
+
+customers and the public.
+
+to be addressed proactively before they escalate.
+
+begins. Each day, this routine supports the safety of
+
+over 8,000 workers from SP’s authorised contractors.
+
+Through the platform, contractors submit daily worksite information, including toolbox meeting records, safety documents and on‑site safety measures, while SP employees upload safety inspection reports. SAFE365’s real‑time data accessibility supports efficient safety and site management for both SP and contractors, reinforcing a proactive approach to safety management.
+
+Supporting these efforts is Ms Yuan Yinxi, a manager
+
+from SP’s Safety and Health team, who plays a key
+
+role in strengthening ground‑up safety practices.
+
+Working closely with site teams and contractors,
+
+she helps ensure that robust safety processes are
+
+consistently applied as SP engineers and contractors
+
+maintain and upgrade underground electricity cables
+
+and gas pipelines.
+
+Digital tools are an important enabler of this approach.
+
+Ms Yuan oversees a team that monitors work
+
+activities through closed‑circuit television (CCTV)
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Case Study: Strengthening Safety through Training for Employees and Contractors
+
+(PSM) training is provided to Project Officers as
+
+Introduced in 2014, the programme aims to raise
+
+On 10 September 2025, SP Group was formally recognised as a WSH Advocate under a national initiative launched by the Workplace Safety and Health Council to encourage major service buyers to raise WSH standards across their supply chains. Under this initiative, participating organisations commit to giving preference in contract awards to contractors and small and medium-sized enterprises that demonstrate strong WSH performance, reinforcing the principle that robust safety practices contribute to stronger business outcomes.
+
+part of ongoing capability building. As Project
+
+safety awareness and equip contractors with the
+
+Officers play a key role in managing contractor
+
+necessary knowledge to work safely. The course
+
+works and overseeing site activities, the training
+
+has been enhanced with practical safety stations
+
+reinforces worksite safety requirements, roles and
+
+covering high‑risk activities, strengthening hands‑on
+
+responsibilities, and SP Group’s safety expectations.
+
+learning and application at worksites.
+
+SP Group strengthens safety performance
+
+It also emphasises effective supervision, safe work
+
+Together, these initiatives reflect SP Group’s holistic
+
+through targeted training for both employees
+
+practices, and contractor compliance with safety
+
+approach to safety, building strong internal safety
+
+and contractors, recognising that effective safety
+
+requirements. To date, over 1,000 Project Officers
+
+oversight while ensuring contractors are properly
+
+outcomes require strong oversight as well as safe
+
+have completed PSM training, supporting consistent
+
+trained before commencing work. By reinforcing
+
+work practices on site.
+
+safety standards across projects.
+
+safety responsibilities across both employees and
+
+For employees, in addition to the annual mandatory
+
+For contractors, SP Group has required all workers
+
+contractors, SP Group embeds safety as a shared
+
+In its role as a WSH Advocate, SP supports this objective by integrating WSH considerations into contractor selection and management processes, encouraging relevant WSH accreditation, and working closely with contractors to strengthen safety capabilities through engagement and the sharing of good practices. This commitment reflects SP’s belief that safety is a shared responsibility and that raising WSH standards across the broader value chain contributes to safer workplaces, more resilient business partners, and long-term business sustainability.
+
+Safety e-learning module, targeted training
+
+to undergo Safety@SP, a mandatory safety course
+
+responsibility and strengthens its overall safety
+
+programmes are designed for specific roles.
+
+conducted in the native languages of foreign
+
+performance across operations.
+
+For example, the Project Safety Management
+
+workers, prior to deployment at SP worksites.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+SP Group places strong emphasis on traffic safety for all employees whose roles involve riding or driving as part of their work. These activities include travelling between work sites, performing maintenance works, and responding to operational incidents, where exposure to traffic related risks is present.
+
+To manage these risks, SP Group mandates defensive driving and riding training for drivers and riders, equipping them with the skills to anticipate hazards,
+
+Performance and Progress IFRS S1 51f
+
+adopt safe road behaviours, and respond effectively to changing traffic conditions.
+
+In addition to training, SP Group reinforces positive safety behaviours through the annual traffic safety recognition programme, with more than 500 riders and drivers recognised in FY25/26 for exemplary safe driving and riding records. This initiative promotes accountability, encourages safe practices, and underscores the importance of road safety as a shared responsibility.
+
+Lost Time Injury Frequency Rate (LTIFR)
+
+In SP, we strongly prioritise WSH to ensure the safety of our operations and the reliability of our services. We aim to maintain a robust health and safety management system to manage WSH risks and opportunities, enforce WSH practices through capability trainings and partnerships, and build a safety culture throughout all our operations.
+
+global utility companies. The improvement reflects strengthened safety leadership, greater workforce engagement and continued emphasis on proactive hazard identification.
+
+SP remains committed to embedding safety as a core organisational value under our vision of making Safety Our Way of Life, and will continue to drive continuous improvement.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+• ISO 45001:2018 Occupational Health & Safety
+
+Management Systems for Singapore Power
+
+Limited and its wholly owned Singapore
+
+incorporated subsidiaries, 2024 to 2027
+
+• SS651:2019 Certification for Occupational
+
+Safety & Health Management System for SP
+
+PowerGrid (Gas Operations), 2024 to 2027
+
+Global Healthy Workplace for SP Group by Global
+
+Singapore Road Safety Award – Company
+
+Centre for Healthy Workplaces, 2024 to 2026
+
+Excellence Award (Light Goods Vehicle)
+
+for SP Services, Company Merit Award
+
+(Light Goods Vehicle) for SP PowerGrid, by
+
+Singapore Road Safety Council, 2025
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+IFRS S1 33a | 51b | 51f
+
+Amid a rapidly evolving business and regulatory landscape, SP Group continues to develop its human capital by anticipating skills shifts, accelerating upskilling and job redesign, and supporting employee wellbeing.
+
+With a large workforce across multiple geographies and business operations, we are committed to strengthening workforce development to build a skilled, engaged and resilient workforce that supports operational excellence and the organisation’s long-term success.
+
+This is supported through structured workforce development and management, and close collaboration with the Union of Power and Gas Employees (UPAGE). These arrangements enable a supportive and inclusive culture where employees are valued and empowered to grow, and facilitate timely consultation on workforce matters.
+
+Effective workforce management encompassing employee engagement, fair labour practices, and compliance with applicable regulations, supports workforce stability and safeguards our organisational reputation. At the same time, continued investment in training and development enhances employee capabilities, engagement and retention, supporting sustainable business performance.
+
+IFRS S1 30a | 33b
+
+Since 2018, SP Group has invested S$69 million in workforce development, delivering over 1.4 million training hours. At the role-level, we have implemented a technical competency framework called the Skills Passport. It articulates the skills and knowledge required for our engineering talent, and serves as an ongoing development tool, facilitating skills progression and role readiness as operating contexts change.
+
+SP Group manages workforce development and management through integrated strategies across five focus areas: training and development, talent attraction and retention, fair employment practices, strong labour management relations, and employee wellbeing. Together, these strategies support workforce resilience, operational reliability and long-term organisational performance.
+
+SP Group aligns its workforce upskilling and job transformation with its strategic priorities and Singapore’s energy transition, recognising human capital as a critical enabler of safe, reliable, and sustainable operations. Our learning strategy focuses on building future-ready capabilities that allow employees to adapt as roles, technologies, and operating environments evolve. Through close collaboration with union and sector partners, SP Group extends our workforce development impact beyond the organisation, contributing to broader sector capability and resilience.
+
+SP continues to invest in our people:
+
+• Average training hours per employee per year: 36 hrs
+
+• Average Training investment per employee per year approximately S$2,000
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Sector Leadership and National Workforce Impact
+
+SP Group uplifts the sector beyond its workforce through sector-wide capability building. Its training subsidiary, the Singapore Institute of Power and Gas (SIPG), established in 2014, is recognised by the Energy Market Authority as the Centralised Training Institute for the Power and Gas sector, and appointed by SkillsFuture Singapore as the Continuing Education and Training Centre for the Power sector. SIPG delivers specialised programmes such as the “Centralised Power Plant Simulator” and the “Energy Managers Programme” to strengthen sector wide capabilities.
+
+We also contribute to national skills development as a member of the Green Skills Committee, a joint initiative by the Ministry of Trade and Industry and SkillsFuture Singapore, supporting skills development in clean energy sub sectors including solar, energy storage, electricity imports, and smart grids.
+
+stability and long-term employability. In FY25/26, SP Group maintained a low overall resignation rate, alongside strong retention of high performers relative to the national average. This supports workforce stability and continuity across operational, technical and leadership roles.
+
+SP Group attracts and retains talent by strengthening its employer proposition and creating a work environment where employees can perform, develop and build long-term careers. Our talent strategy focuses on building strong pipelines for critical roles, providing market-competitive and equitable employment terms, and providing clear development pathways as capability needs evolve. We reinforce retention through progressive workforce practices, robust employee engagement and wellbeing support, and constructive union– management partnership that promotes trust,
+
+SP Group is committed to fostering a fair, inclusive, and supportive workplace. HR policies are aligned with Singapore’s tripartite guidelines and are applied consistently across the Group to ensure fair and progressive employment practices and to promote equal opportunities and merit-based progression. These practices are regularly reviewed to ensure alignment with evolving regulatory developments, including Singapore’s Workplace Fairness framework, and support long-term employability and workforce stability.
+
+We value meaningful engagement with our employees and maintain diverse communication channels to listen and collate feedback into our workforce initiatives. Through regular townhalls, dialogues, surveys and feedback platforms, we strengthen trust, improve decision-making, and foster an inclusive culture where every voice is heard.
+
+Constructive and collaborative labour‑management relations are a cornerstone of SP’s workforce governance. Our long-standing partnership with the Union of Power and Gas Employees (UPAGE) reflects a shared commitment to advancing employees’ work prospects, welfare and wages.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+SP Group and UPAGE further reaffirmed this enduring partnership through the renewal of three Collective Agreements covering Singapore Power Ltd, SP PowerGrid and SP Services. These agreements were the result of a constructive and collaborative negotiation process, leading to enhancements in staff benefits, refinements to salary ranges and allowances, and greater alignment of employment terms across the Group. Both management and union representatives underscored their shared commitment to fair and progressive employment practices, balancing market realities with support for employee wellbeing, skills development and sustainable long-term workforce growth. The renewal reflects SP Group’s continued commitment to fostering positive labour relations and providing competitive, equitable employment conditions that underpin our operational resilience and long-term growth. As of 31 Mar 2026, 56.2% of Group employees were covered under these collective agreements.
+
+In 2025, the Union-Management Seminar was particularly significant as it marked the 30th anniversary of both SP Group and UPAGE. Held under the theme “Celebrating Successes”, the seminar brought together management and union representatives for a meaningful two-day exchange to reflect on shared achievements, strengthen alignment and co-create pathways for the future. This milestone reflects three decades of close collaboration and a continued commitment to building a better workplace for all.
+
+ReCharge committee WHP committee MSC
+
+Sponsored by Chief Human Resource Officer (CHRO), the ReCharge Committee aims to foster a dynamic and energised workplace by strengthening organisational cohesion and promoting preventive healthcare. This is achieved through active participation in sports and fitness activities, increased awareness of preventive health through knowledge sharing initiatives, as well as the organisation of social and festive events that enliven the workplace and encourage team bonding.
+
+Chaired by Chief Corporate Officer (CCO) with membership from CEOs, MDs and key management representatives from business entities, the MSC facilitates and coordinates safety and health matters for SP Group.
+
+The WHP Committee spearheads workplace health initiatives to promote a holistic approach to WHP across the organisation, in alignment with the WHO’s Healthy Workplace framework. The committee develops and implements workplace health programmes across the Group in close collaboration with the ReCharge Committee.
+
+SP Group views employee wellbeing as an enabler of workforce resilience, and safe, reliable operations. By adopting a preventive and holistic approach, the Group supports employees’ physical and mental health and fosters a supportive workplace culture.
+
+SP encourages employees to take proactive ownership of their health and wellbeing through participation in initiatives organised by the WHP and ReCharge committees. A comprehensive and structured approach is adopted in the planning and execution of these initiatives, with efforts prioritised across four key dimensions: Preventive Healthcare, Intervention Healthcare, General Healthcare and Mental Healthcare.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Preventive Healthcare Health Screening Health Talks Immunisation
+
+• Annual health screening for all employees, covering key health indicators such as cholesterol, BMI and diabetes risk
+
+• Early risk identification to support timely, informed health decisions
+
+• Aggregated health insights used to design targeted workplace health interventions
+
+• Health, financial and life stage seminars (e.g. stress management, retirement planning, parenting, healthy habits)
+
+• Seasonal influenza vaccination campaigns to support preventive care and workplace resilience
+
+General Healthcare Social Activities Physical Workouts WHP Bazaars
+
+Mental Healthcare Mental Health Week Care Ambassadors Self-Care & Helpline Mental Well-being Talks
+
+Intervention Healthcare Chronic Disease Management Smoking Cessation Weight Loss (T23)
+
+• Mental Health Week with multi-day activities focused on awareness, resilience and connection, delivered with community partners
+
+• Inclusive wellbeing and family-oriented initiatives that recognise the role of families in supporting employees
+
+• Chronic disease management programme supporting employees with long-term health conditions
+
+• Annual Family Day and social activities that strengthen connection, belonging and workplace cohesion
+
+• Monthly specialist talks on disease progression, prevention and practical lifestyle adjustments
+
+• Care Ambassador network providing peer support and psychological first aid capability
+
+• ReCharge led engagement activities (e.g. sports, community events, social gatherings) to promote active lifestyles and team bonding
+
+• Turning 23 weight management programme for high-risk BMI employees, combining:
+
+• Annual lifestyle survey to tailor wellbeing initiatives to employee interests and need
+
+• LIVE WELL Portal as a one-stop platform for wellbeing resources, programmes and employee assistance services
+
+• Nutrition and healthy eating education
+
+• Behavioural incentives to encourage sustained lifestyle change
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Upskilling and Training Early Pipeline Building
+
+Internships continue to be a core aspect of our early talent pipeline building. To drive intern to employee conversion outcomes, we have implemented dedicated intern engagement sessions to share career pathways, deepen understanding of technical roles and surface interest for future employment.
+
+II. Work-Study Diploma (WSDip) Programme
+
+Academic partnerships have also been expanded through initiatives such as the WSDip programme with the Institute of Technical Education (ITE). WSDip is a 2.5-year programme which provides structured on-the-job training, mentorship and technical development, alongside clear pathways for conversion into permanent roles upon graduation. The first batch of students commenced work in March 2026.
+
+comprehensive guides, an e-learning course on leadership competencies was also launched in 2025 to provide guidance on application for development discussions during performance appraisal and feedback sessions with staff. In addition, a new leadership programme, Managerial Leadership Programme was also introduced in 2025 for middle management leaders to gain deeper understanding of SP’s strategic priorities and to enhance their leadership effectiveness through internalisation of SP’s LCs.
+
+Case Study: Project FUSION – Redesigning Jobs for the Future
+
+augmented by technology, employees can now spend
+
+more time analysing and preventing issues, reinforcing
+
+safety and operational excellence. These are areas
+
+where human judgement adds the biggest value.
+
+In tandem with these job redesigns, we have
+
+SP Group takes a proactive approach in ensuring
+
+established multiple career pathways and invested
+
+future-readiness, equipping our workforce with
+
+in pre-emptive upskilling to support workforce
+
+the skills to stay relevant as roles evolve with
+
+transitions. Ahead of the national smart meter roll-
+
+technological, regulatory, and energy transition
+
+out, meter readers were reskilled into roles such as
+
+demands. Project FUSION under the remit of the
+
+smart meter technicians, asset sensing & analytics, and
+
+CTC, provides a structured approach to identifying
+
+field service respectively, and meter reading service
+
+emerging skills and redesigning roles. Since 2018, over
+
+officers performing first level diagnostic checks and
+
+400 jobs have been transformed through upskilling
+
+site support. This proactive approach has improved
+
+and job redesign.
+
+SP Group is an early adopter of the re-employment legislation to raise the re-employment age to 69. The early adoption took effect from 1 July 2025 in consultation with the Union, one year ahead of the national legislated timeline.
+
+role effectiveness and supported redeployment into
+
+Job redesign is aligned with technology adoption
+
+higher value work, contributing to operational stability
+
+and productivity.
+
+• Manual to digital: Gas leak surveyors transitioning
+
+Building on the strong momentum of Project FUSION,
+
+from manual, paper-based recording to using
+
+Fusion.AI marks the next phase of SP Group’s
+
+Autonomous Mobile Robot to manage routine leak
+
+workforce transformation, focusing on strengthening
+
+AI fluency across the workforce and embedding AI
+
+into jobs and processes. Delivered in partnership with
+
+• Digital to automation: Technical team moving away
+
+UPAGE, this phase supports the confident adoption of
+
+from manual, repetitive verification of contractor
+
+AI, enabling capacity to be redeployed towards roles
+
+claims to using AI to validate key data, and flag
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+2025 NTUC May Day Awards
+
+At the 2025 NTUC May Day Awards, SP joined industry partners to honour the contributions of workers and reaffirm its robust partnership with NTUC and UPAGE. Group CEO Stanley Huang was awarded the Medal of Commendation in recognition of his leadership in promoting employee welfare, skills development, and long-term employability. Under his guidance, SP has enhanced progressive wage practices, committed to workforce upskilling, and introduced age-friendly initiatives to cultivate an inclusive and future-ready workforce.
+
+The awards also celebrated the achievements of SP employees, with Principal Engineer Azhar Bin Mohamed Noor receiving the Model Worker Award for his work dedication, technical expertise, and mentorship of junior colleagues. These recognitions reflect SP’s ongoing commitment to creating a supportive work environment where employees are empowered to grow, contribute, and succeed.
+
+Case Study: Mental Health Week 2025
+
+mental health webinar organised with the Ministry
+
+of Social and Family Development.
+
+In her opening remarks, Chief Human Resource
+
+To mark World Mental Health Day 2025, SP came
+
+Officer (CHRO) Yew Lay Teng acknowledged
+
+together on 8 October to commemorate Mental
+
+both the visible and invisible challenges people
+
+Health Week, emphasising the importance of mental
+
+encounter and encouraged staff to be mindful
+
+and physical wellbeing as a shared, ongoing journey.
+
+of their mental wellbeing, seek support when
+
+Over four days, colleagues participated in activities
+
+needed, and look out for one another. Mental
+
+designed to connect, recharge, and learn, with support
+
+Health Week served as a reminder of SP’s
+
+from community partners including SAGE Counselling
+
+dedication to nurturing a compassionate, safe, and
+
+Centre, Singapore Association for Mental Health
+
+supportive workplace culture, achieved through
+
+(SAMH), Samaritans of Singapore (SOS), The Red Pencil,
+
+the collaborative efforts of the Human Resource
+
+and Care Corner Singapore. The activities included
+
+and Group Safety & Health teams.
+
+art therapy, stress‑relief sessions, yoga, pilates, and a
+
+available data from the Ministry of Manpower Singapore), underscoring the Group’s sustained commitment to building workforce capability.
+
+SP Group is making efforts to develop and manage the workforce through targeted investments in training and development, talent attraction and retention, fair employment practices, positive union–management relations, and the holistic wellbeing of its employees.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+From Energy Industry scholar to transmission planning engineer
+
+SP PowerGrid (SPPG), the largest subsidiary of SP
+
+Singapore’s 100 Leading Graduate Employers for SP
+
+NTUC May Day Awards 2025
+
+Asia’s Top Employer (Energy & Utilities) 2025-2026
+
+Group was recognised as a top organisation in
+
+Group - 2nd in Energy, Oil and Gas, Utilities category,
+
+• Medal of Commendation for Group CEO Stanley Huang
+
+the inaugural Singapore Opportunity Index (SOI)
+
+by the Ministry of Manpower in partnership with
+
+• Model Worker Award for Azhar Bin Mohamed Noor (Gas Engineer)
+
+the Singapore University of Social Sciences and
+
+the Burning Glass Institute. In addition, SPPG has
+
+been honoured with two other SOI awards:
+
+• Career Builders award, recognising SPPG’s clear pathways for advancement and strong track record of developing leaders from within, and
+
+• Career Anchors award, reflecting a culture of stable, long-term employment where SPPG employees stay engaged and committed.
+
+SkillsFuture Employer Award 2025 – Gold
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+IFRS S1 30a | 33a | 51b | 51f
+
+SP Group recognises that strong community relationships and meaningful societal contributions are integral to our long-term success and corporate purpose. We seek to create shared value by going beyond essential services delivery to support social wellbeing and resilience, particularly for seniors, youth and children from lower income families.
+
+We adopt a strategic and long-term approach to community engagement, working closely with stakeholders to ensure our initiatives remain relevant, responsive and aligned with evolving needs.
+
+Where our operations interface directly with communities, such as during infrastructure development and maintenance works, we commit to clear and timely communication, with the objective of minimising disruption to residents, businesses and other stakeholders.
+
+a culture of giving Foster
+
+SP Group’s approach to community contribution is anchored in purposeful and sustained community giving. Rather than ad hoc giving, SP Group focuses on directing resources towards initiatives that strengthen social resilience, support vulnerable communities and contribute to long-term societal outcomes aligned with national priorities.
+
+We focus our giving on supporting seniors to age well in the community as Singapore faces a super aged society, enabling youth development and future readiness, and uplifting children from lower income families through access to education and development of their character and life skills. These priorities are delivered through partnerships with social service agencies and grassroots organisations, targeted programmes addressing identified social needs, and employee-led volunteerism.
+
+The SP Heartware Fund, established in partnership with Community Chest, has raised and disbursed over S$37 million since 2005. SP Group matches employee donations to the fund dollar-for-dollar, and underwrites administrative and fundraising costs to ensure contributions are directed fully to beneficiary organisations.
+
+SP Group staff volunteers, known as SP Heart Workers, complement financial contributions by contributing their time, skills and effort to support community partners and beneficiaries. Their involvement strengthens programme delivery while reinforcing a shared culture of giving and service across the organisation.
+
+In FY25/26, we invested S$7 million in community giving including cash donations and monetised value of employee volunteer hours, supporting a total of 21,000 beneficiaries.
+
+Guided by the SP Heart Workers Committee, these volunteer efforts are coordinated and sustained across the Group. The Committee plays a key role in fostering SP’s culture of volunteerism. As stewards of SP’s giving efforts, it shapes volunteer programmes, builds partnerships with social service agencies, and mobilises colleagues across SP to serve communities in meaningful and sustainable ways.
+
+40% of SP Group staff volunteered at least once during the year contributing a total of 12,000 volunteering hours.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+In FY25/26, SP Group contributed S$7 million to the community through its philanthropy and staff volunteerism.
+
+SP marked its 30th year of corporatisation and Singapore’s 60th year of independence with yearlong community outreach initiatives. These were launched at the SP Community Festival, celebrating the spirit of philanthropy and volunteerism. It brought together SP Group’s leadership and employees, alongside community partners, to deepen understanding of community needs. We also reaffirmed our sustained engagement and collaborations with our anchor partner Community Chest Singapore and other social service agencies.
+
+impact by strengthening our partners’ programmes and ensuring resources are directed towards areas of greatest need.
+
+600 seniors, youth and children on customised experiential trips to places of interest in Singapore. Accompanied by staff volunteers, known as SP Heart Workers, these journeys on electric buses created memorable outings while underscoring SP’s commitment to sustainable mobility. Leveraging these milestone initiatives, SP Heart Workers clocked
+
+SP Group also continued its partnership with KidSTART through a S$1.1 million donation that ensures the sustained delivery and expansion of the PowerUP Playtime programme. The initiative provides age‑segmented toys and learning tools for pre‑schoolers from lower‑income or vulnerable households, fostering stronger parent‑child bonds, joyful learning experiences and positive early childhood development. This brings our total contribution to KidSTART Singapore to S$5.4 million since 2021.
+
+In 2026, SP Group committed S$2.1 million over three years to TOUCH Community Services, enabling the formation of the SP CHAMP League. The programme supports over 700 children and youth aged 7 to 17 from lower‑income families through mentoring, academic tutoring and structured enrichment activities that strengthen cognitive skills and support social mobility.
+
+SP Group made a S$708,000 donation to support the launch of Care Corner’s Frailty Management Programme, which aims to prevent and reverse frailty in seniors through early intervention that addresses their physical, nutritional and social needs. The donation also supports nutrition and enrichment initiatives for children aged 7 to 14 at Care Corner Singapore’s Student Care Centres.
+
+With SP Group’s S$1 million donation starting in 2025, Suncare SG launched its Kindness Inspires DreamS (KIDS) Fund. The fund will benefit children from about 200 families over three years by improving their living and learning environments, providing access to nutritious meals and supporting sustainable employment opportunities for parents or primary caregivers.
+
+Journeys from the Heart at SG Flyer
+
+12,000 volunteer hours – a 45% increase from last year. All business units participated in volunteering during the year, with 40% of our employees volunteering at least once. We also delivered 10,000 Power Packs of daily essentials to beneficiaries of different age segments, with items customised for the needs of each segment.
+
+SUSTAINABILITY REPORT FY2025/2026 Caring for Our People and Community About Us Stewarding Environmental Action Championing Responsible Growth Disclosures Sustainability Strategy and Approach
+
+Community Chest Awards 2025 – Pinnacle
+
+Award, Volunteer Partner Award, Charity Platinum
+
+Award, Enabler Award, SGSHARE Award
+
+For the third consecutive year, SP Group has
+
+been awarded the Pinnacle Award, the highest
+
+accolade at the Community Chest Awards. SP
+
+received a total of five accolades - the highest
+
+number conferred on any organisation that year.
+
+Volunteer & Partner Awards 2025 –
+
+SP is committed to uplifting the lives of the less privileged in the community. Our community giving has consistently increased over the years.
+
+Outstanding Partner Award for SP Group, by
+
+Ministry of Social and Family Development
+
+Total community giving includes donations, monetised value of employee volunteer hours, community events operating cost, and funds raised from staff, partners and customers.
+
+Through a range of initiatives, SP continues to foster a culture of giving across the organisation. We continue to monitor and disclose our performance in subsequent reports.
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+IFRS S1 30a | 33a | 51b | 51f
+
+Reliability and customer satisfaction are central to SP Group’s operations. By delivering reliable energy and utility services, SP Group strengthens its reputation and builds community trust. Investments in robust infrastructure, innovative grid technologies and low-carbon energy solutions enhance service reliability and system performance, enabling SP Group to operate efficiently and respond effectively to customer needs. These capabilities, in turn, raise customer satisfaction, build long-term loyalty and position SP to capture new growth opportunities as a trusted and dependable energy and utility service provider.
+
+Managing Reliability Across Electricity and Gas Networks
+
+Singapore’s ability to decarbonise its energy system while maintaining a secure and reliable energy supply depends on a grid that is both resilient and future ready. SP Group’s approach to grid development reflects this imperative by combining disciplined execution of core operations such as grid management, preventive maintenance and infrastructure upgrades with longer-term initiatives that prepare the network for changing needs.
+
+These needs include the integration of distributed energy resources, increasing electrification from electric vehicles and the transition to a low-carbon energy system. Through continued investment in innovative grid technologies, SP is positioning Singapore’s energy network to remain robust, adaptive and reliable amid evolving energy trends and climate imperatives.
+
+In FY25/26, SP continued to maintain world-class network reliability by achieving a System Average Interruption Duration Index (SAIDI) of 0.328 min and 0.003 min for electricity and gas respectively.
+
+SP Group continues to maintain world-class reliability and strengthen grid resilience for the future. Through rigorous asset management, system enhancements and investments in advanced digital capabilities, we support a secure, efficient and sustainable energy system as Singapore’s power sector evolves.
+
+For the System Average Interruption Frequency Index (SAIFI), we recorded 0.023 for electricity and 0.000013 for gas.
+
+Across our district cooling portfolio, SP Group has maintained a strong reliability track record, with no service disruptions since operations commenced5. Marina Bay, our largest district cooling network, demonstrates this reliability at scale and now serves 28 buildings.
+
+These results reflect disciplined operations, sustained investment in technology and capabilities and the dedication of our colleagues who keep our networks running smoothly.
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Overview of SP Group’s role and activities across Electricity and Gas transmission and distribution
+
+High-Voltage Power Transfer: Owns and maintains Singapore’s high‑voltage transmission network (66 kV to 400 kV), which transports electricity from power generation plants to major substations. This includes managing transmission substations, underground cables and high‑voltage cable tunnels to ensure reliable delivery of bulk power.
+
+SP Group’s approach to reliability is anchored in both disciplined operational excellence and forward-looking system planning. While we achieve world-class reliability through the rigorous management of our networks today, we are also strengthening our capabilities to ensure the grid remains resilient amid the evolving energy landscape.
+
+Electricity Transmission and Distribution Gas Transmission and Distribution
+
+Local Power Distribution: Owns, operates and maintains the medium‑ and low‑voltage distribution network that delivers electricity from substations to end‑users across Singapore. SP Group operates an extensive network of around 28,000 km of underground cables and approximately 12,000 substations islandwide in Singapore. This includes connecting new customers to the grid, operating distribution substations (typically stepping down high‑voltage power to 22 kV and below), and ensuring that homes, businesses and industries receive electricity safely and with minimal interruption.
+
+High-Pressure Gas Transportation: Owns, operates and maintains Singapore’s highpressure natural gas and town gas transmission networks that transport gas from upstream sources, including Liquefied Natural Gas (LNG) regasification facilities, onshore receiving facilities and gas receiving stations, to gas users and distribution networks across the island. SP Group ensures the safe, reliable and continuous delivery of gas to power generation facilities, industrial customers and downstream distribution networks. The transmission system is designed and maintained to stringent safety and reliability standards, supported by regular inspections and preventive maintenance.
+
+Medium- and Low-Pressure Gas Transportation: Owns, operates and maintains the medium- and low-pressure gas distribution networks that deliver natural gas and town gas respectively, from pressure regulator stations to residential, commercial and industrial customers throughout Singapore. This includes operating extensive underground pipeline networks, pressure-regulating stations and customer connections, ensuring gas is supplied safely and reliably for industrial processes, cooking and heating needs. SP Group’s gas distribution networks are planned, operated and maintained to minimise disruptions while meeting evolving demands across the island.
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+As Singapore’s national grid operator, SP Group is responsible for ensuring a safe, secure and efficient power supply across the island. SP Group’s network of assets and infrastructure enables the flow of electricity from power generation stations, through high-voltage transmission lines and substations, to the low-voltage distribution network that serves homes and businesses. SP Group’s mandate covers the construction, operation and maintenance of Singapore’s electricity transmission and distribution network infrastructure, which forms a critical backbone of Singapore’s economy and daily life.
+
+SP Group invests in infrastructure, technology, workforce capability building, and undertakes longterm planning to renew ageing assets, so that we can continue to provide our customers with efficient and reliable power supply. Our team conducts rigorous preventive maintenance across all electrical infrastructures, including transformers, switchgear, cables and substations.
+
+we undertake system expansion and asset renewal initiatives to ensure the grid remains fit-for-purpose. Our plans are developed in alignment with, and approved by, EMA, reflecting effective regulatory coordination in safeguarding system adequacy and resilience. Through disciplined delivery of these programmes, SP continues to achieve world-class network reliability.
+
+response and quicker restoration of gas supply during a gas supply interruption incident. In addition, the reliability of gas supply was further enhanced at gas planning and design stage via network reinforcement, segmentation and looping. These capabilities enable reduction in supply interruption and impact, rapid restoration of supply and the continued safe operation of Singapore’s gas networks, supporting system resilience and reliability for customers. This year, we achieved a record low SAIDI of 0.003 minutes for gas operations. It is our teams’ ability to anticipate and mitigate potential anomalies, and to respond swiftly to network incidents, that minimises downtime for the 1.7 million households and businesses we serve. Upholding this level of reliability remains our priority. We continue to invest in workforce capabilities, infrastructure renewal, and technology to sustain this world-class performance.
+
+This year, SP Group achieved System Average Interruption Duration Index (SAIDI) of 0.328 minutes, placing Singapore among the world’s most reliable power system alongside cities such as Beijing, Melbourne, Munich and Tokyo, and ahead of many other major cities in the world.
+
+SAIDI range for comparable cities
+
+FY21/22 FY22/23 FY23/24 FY24/25 FY25/26
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Sustaining Reliability in the Evolving Energy Landscape
+
+Singapore’s energy system is evolving as the nation transitions towards cleaner and more diversified energy sources.
+
+While this shift supports decarbonisation and reduces reliance on any single energy source, it also makes the electricity grid more complex to manage. Instead of relying on a small number of large and predictable power plants, the grid must now handle energy from many smaller and less predictable sources, alongside growing and more dynamic electricity demand.
+
+As a result, the grid must become more flexible and adaptive to ensure a stable and reliable supply of electricity in an increasingly complex operating
+
+2. Rising system complexity from distributed energy resources
+
+environment. Grid resilience must be enhanced in ways that go beyond traditional infrastructure reinforcement.
+
+and potential disruptions to imported electricity supply. This can make it harder for grid operation to anticipate available supply and maintain sufficient operational flexibility to balance the system under changing conditions.
+
+The growing penetration of distributed energy resources, such as solar PV, battery energy storage systems and electric vehicle chargers, adds complexity to grid management and power flow coordination. Unlike a more centralised system where electricity mainly flows from large power plants to customers, DERs can inject, store or draw electricity at different points on the network, making power flows more dynamic and less predictable.
+
+Guided by Singapore’s Future Grid Capabilities Roadmap, we recognise the following key challenges facing the future grid:
+
+4. Increasing and more dynamic electricity demand
+
+Electricity demand continues to grow, driven by electrification trends such as electric vehicles and increasing industrial demand from the technology sector. This requires grid operations to plan for higher peak loads and manage evolving electricity consumption patterns.
+
+1. System stability amid a more diverse supply mix
+
+The increasing share of intermittent domestic solar generation and renewable-based electricity imports introduces greater variability in supply. At the same time, declining system inertia heightens the challenge of maintaining stable grid operations. This can make it harder to keep electricity supply and demand balanced in real time, causing grid frequency and voltage to fluctuate more quickly when conditions change.
+
+3. Heightened exposure to external and extreme conditions
+
+Grid operations are becoming more sensitive to external factors, including prolonged periods of low renewable output due to adverse weather
+
+Key challenges facing the future grid
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Distributed Energy Resource Management System (DERMS)
+
+To monitor and manage DERs, as well as to inform more effective network design and planning.
+
+Together with EMA, SP Group is advancing a suite of capabilities to strengthen the resilience and adaptability of the grid. These efforts focus on managing distributed energy resources (DERs) and enhancing grid planning, control and maintenance through digitalisation, to ensure that the electricity grid remains robust, flexible and stable under increasingly complex operating conditions. We also continue to work closely with industry partners and the research community to address the evolving needs of the future grid. Our current focus areas are as follows:
+
+To operate as a single plant, managing solar intermittency, reducing peak demand and supporting grid balancing.
+
+Our focus to maintain reliability in the evolving energy landscape
+
+Digital Twins and Advanced Analytics
+
+Data-driven and Agile Operating Model
+
+To monitor asset health, simulate grid conditions and make more informed planning decisions, supporting optimised investments.
+
+To anticipate congestion, assess DER impacts and make timely decisions on infrastructure upgrades.
+
+Digital tools and AI make inspection and maintenance field operations more efficient and effective.
+
+A data-driven, risk-based operating model that uses asset health and analytics to prioritise maintenance and investment where they matter most.
+
+• To support this, we have initiated pilots for a Distributed Energy Resource Management System (DERMS) to monitor and manage DERs, as well as to inform more effective network design and planning. Through realtime monitoring and control, DERMS enables us to better manage the growing number of DER connections and mitigate challenges associated with solar intermittency and rising EV charging demand.
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+B. Enhancing grid planning and operations capabilities with technology
+
+broader footprint, the Marina Bay network is the world’s largest underground district cooling network and demonstrates the reliability of our district-scale sustainable energy infrastructure, having recorded zero supply disruptions since operations began in 2006. This performance is supported by robust system design, roundthe-clock monitoring, preventive maintenance and experienced operations teams that actively manage plant and network performance, identify anomalies early and respond swiftly to keep cooling supply stable for customers. Please refer to page 25 for a detailed case study of the Marina Bay district cooling network along with other district cooling projects.
+
+• Strengthening grid planning through digital twins and advanced analytics We are developing grid digital twin capabilities, including asset and network twins, supported by sensors and artificial intelligence (AI). These enable us to monitor asset health, simulate grid conditions and make more informed planning decisions, supporting optimised investments.
+
+• Improving real-time monitoring and proactive network management The expanded deployment of sensors across the distribution network enhances visibility of power flows, allowing us to anticipate congestion, assess DER impacts and make timely decisions on infrastructure upgrades.
+
+Empowering Customers through Market Support Services
+
+• Leveraging digital technologies to improve operational efficiency The use of digital applications and AI enhances inspection and maintenance processes, improving both the efficiency and effectiveness of field operations.
+
+• Building a more data-driven and agile operating model By integrating data, analytics and digital tools into both planning and operations, we are strengthening our ability to respond to increasing grid complexity and optimise resource deployment. A data-driven, risk-based operating model that uses asset health and analytics to prioritise maintenance and investment where they matter most.
+
+Maintaining Reliability and Customer Satisfaction Beyond the Grid
+
+Delivering Reliable Sustainable Energy Solutions for Customers
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Case Study: Battery Energy Storage System at Kallang, Singapore
+
+The Kallang facility comprises several battery storage
+
+containers that are integrated with a Power Conversion
+
+System (PCS). The PCS manages the conversion
+
+between direct current (DC) and alternating current
+
+(AC), enabling stored electricity to be safely and
+
+Located within Kallang Industrial Park, SP Group’s
+
+efficiently transferred between the batteries and the
+
+Battery Energy Storage System (BESS) represents a
+
+national grid. This configuration allows the BESS to act
+
+practical step towards strengthening the resilience
+
+as a fast-acting grid support asset, capable of injecting
+
+and flexibility of Singapore’s electricity grid. The
+
+or absorbing power in response to system needs.
+
+development of the Kallang BESS builds upon SP
+
+Group’s pioneering experience from the earlier
+
+Woodlands BESS, translating operational learnings
+
+from Singapore’s first utility scale energy storage
+
+• Supporting grid stability during sudden changes in
+
+system into a more advanced and scalable deployment
+
+supporting grid stability. While physically compact and
+
+• Complementing conventional grid assets that may
+
+housed within a series of containerised units, the facility
+
+is designed to play a critical system role by storing
+
+• Enhancing the system’s ability to manage variability
+
+electricity when demand is low and releasing it within
+
+arising from renewable energy integration
+
+seconds when the grid requires support.
+
+Beyond its physical installation, the Kallang BESS
+
+This fast response capability is particularly important
+
+also serves as an operational learning platform for
+
+as Singapore integrates higher levels of weather
+
+SP’s engineers and system operators, further building
+
+dependent renewable energy, such as solar power.
+
+capability in deploying and operating energy storage
+
+By responding rapidly to fluctuations in supply and
+
+solutions that can support grid resilience at scale
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Case Study: Building Capabilities to Sustain Grid Reliability in the Evolving Energy Landscape
+
+These efforts are complemented by organisation-wide
+
+This integration of research, training and real-
+
+initiatives such as the Company Training Committee
+
+world application strengthens SP’s technical
+
+(CTC) and Project FUSION, which integrate skills
+
+depth while positioning the organisation
+
+upgrading with job redesign to enhance productivity
+
+at the forefront of grid innovation.
+
+and support workforce transformation.
+
+3. Deepening Technical Expertise through the
+
+2. Advancing Applied Research with an Institute of
+
+As Singapore advances towards a low-carbon and
+
+increasingly complex energy system, SP Group
+
+Recognising the importance of deep domain
+
+continues to invest in building a future-ready
+
+To address the increasing complexity of the energy
+
+expertise, SP has established a Technical
+
+workforce. Recognising that engineering, digitalisation
+
+system, SP Group complements internal capability-
+
+Experts (TE) programme to anchor knowledge
+
+and system planning capabilities are critical to
+
+building with strategic research partnerships.
+
+leadership within the organisation.
+
+sustaining grid reliability while integrating new energy
+
+The former joint laboratory with an Institute of
+
+The programme identifies engineers with strong
+
+solutions, we adopt a multi-layered approach to
+
+Higher Learning represents a major investment in
+
+technical depth and positions them as mentors and
+
+capability development, spanning internal workforce
+
+advancing engineering and research capabilities.
+
+advisors across the organisation.
+
+transformation, applied research partnerships with
+
+The collaboration focuses on enhancing the
+
+an institute of higher learning and the upcoming SP
+
+resilience, efficiency and reliability of Singapore’s
+
+Technology Lab, innovation platforms and technical
+
+• Provide technical guidance and advisory on complex
+
+electricity network through applied research in
+
+leadership pathways.
+
+asset management and network operations.
+
+• Lead investigations and root-cause analyses
+
+• Drive operational improvements and innovation
+
+• Asset health modelling and lifecycle optimisation
+
+• Mentor and develop the next generation of engineers
+
+SP Group continues to strengthen its core engineering
+
+• Failure mode analysis and reliability enhancement
+
+workforce through structured capability development
+
+By institutionalising technical leadership, SP
+
+• Condition monitoring and predictive maintenance
+
+and workforce transformation initiatives.
+
+Group ensures retention and transfer of critical
+
+• System planning and optimisation
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Case Study: How this ‘grid doctor’ maintains the health of Singapore’s electricity network so everything stays on
+
+produced only snapshot readings. Since 2020, SP has
+
+progressively installed smart sensors directly on key
+
+Reliability and customer satisfaction are at the core of our operations, guiding its continued investments in smart grid technologies, distributed energy resources and low-carbon solutions to enhance service reliability, system resilience and overall performance.
+
+assets such as distribution switchgear and cables. These
+
+sensors continuously monitor equipment conditions,
+
+trigger real-time alerts when anomalies are detected
+
+and provide data that supports predictive maintenance.
+
+In 2025, SP Group’s customers experienced an average
+
+System Average Interruption Duration Index (SAIDI) Electricity
+
+The new system has improved safety and efficiency,
+
+electricity interruption of nineteen seconds. Behind
+
+saving more than 1,000 man-hours annually and
+
+this performance are engineers and technical officers
+
+shortening response times. Technical officers like Mr
+
+like Mr Eric Lee, who conduct “health checks” on critical
+
+Lee are now able to focus on higher value tasks such
+
+equipment to detect early signs of deterioration before
+
+as diagnosing complex issues and localising defects.
+
+they escalate into faults.
+
+Through training and on-the-job experience, they have
+
+also strengthened their digital and data analytics skills,
+
+Previously, such checks relied on manual inspections
+
+supporting SP’s broader drive to use innovation and
+
+using handheld detectors, acoustic sensors and thermal
+
+technology to “keep the lights on” and maintain a safe,
+
+scanners in substations. This work was labour intensive,
+
+reliable electricity supply for Singapore.
+
+required close physical access to equipment and
+
+System Average Interruption Duration Index (SAIDI) Gas
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+• ISO/IEC 17025:2017 in Calibration and
+
+Measurement for Gas Flow Meters for SP
+
+The consistent efforts to ensure reliable services, deliver smart energy solutions and be at the forefront of engineering practice underpin Singapore’s world-class grid performance. I am proud of our team’s drive in innovation and proactively shaping our networks for our future energy needs
+
+• ISO 9001:2015 Certification for Quality
+
+Management System for SP PowerGrid,
+
+FY16/17 to present; ISO 9001:2015 Standard
+
+for Quality Management System for SP
+
+• ISO 22301:2012 Business Continuity
+
+Stanley Huang, SP’s Group CEO
+
+Management System for SP PowerGrid,
+
+Winner for transmission and distribution networks
+
+(first large-scale underground 230kV substation
+
+at Labrador), runner-up in grid innovation (multi-
+
+• ISO/IEC 17025:2005 in Electrical Testing for
+
+Electricity Meters for SP PowerGrid, 2000
+
+to present ISO/IEC 17025:2005 in Electrical
+
+Testing for Current Transformers for SP
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+IFRS S1 30a | 33a | 51b | 51f
+
+Business ethics and compliance are core to how SP Group plans, executes and conducts its business. Guided by applicable laws and regulations, and anchored by our Employee Code of Conduct, ethical principles shape our corporate culture and decision-making across all levels of the organisation. This strong ethical foundation reinforces accountability and trust, supports access to financing, and strengthens our licence to operate, enabling SP Group to remain credible and relevant
+
+of employees trained on anti-bribery and corruption 100%
+
+in a rapidly evolving regulatory, technological and societal landscape.
+
+IFRS S1 30a | 33a | 41
+
+SP Group’s corporate governance structure establishes clear accountability, oversight and segregation of duties to support ethical conduct and compliance across the Group.
+
+Continuous investment in robust governance frameworks, risk management systems, and effective anti-corruption and anti-bribery controls enhances our resilience and credibility, enabling the organisation to plan with greater certainty and make sound strategic, operational, and capital allocation decisions. These practices also position us to pursue growth and partnership opportunities with confidence, as a trusted and compliant business partner with rapidly evolving regulatory requirements and a changing mix of stakeholders, including new partners and institutions.
+
+SP Group recognises that strong business ethics and compliance are fundamental to the Group’s long-term resilience, credibility and ability to deliver sustainable value. Our management approach to Business Ethics and Compliance is anchored in three interrelated pillars: Corporate Governance, Anti- Bribery and Compliance, and Regulatory Compliance. Together, these pillars support ethical decisionmaking, effective oversight, and responsible conduct across our operations and business relationships.
+
+SP Group’s Board of Directors provides overarching governance and sets the strategic direction for the Group. The Board is responsible for making key investment and funding decisions, overseeing risk management, and ensuring that robust internal controls are in place. At the management level, the Executive Leadership Team is tasked with implementing the strategy, policies, procedures, and systems that foster integrity and accountability in day-to-day operations.
+
+This approach is designed to identify, prevent and address risks related to unethical conduct, fraud, corruption and non-compliance, which could otherwise undermine trust with regulators, customers, business partners, employees and the communities we serve. It is underpinned by a robust policy framework, governance structures, and internal control mechanisms, and is integrated into the Group’s enterprise risk management and internal audit processes.
+
+The Board also ensures that management maintains a robust system of internal controls to safeguard the Group’s assets and reviews the Group’s financial performance.
+
+100% of employees completed anti-bribery and corruption (ABC) training
+
+Supporting effective oversight of management, the Board is assisted by several Board committees, namely the:
+
+SP continues to maintain its ISO 37001 Anti-Bribery Management System certification
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+SP Group’s Code of Conduct sets out expected standards of behaviour for employees, including requirements relating to conflicts of interest, protection of confidential information, fair competition, accurate financial reporting and compliance with applicable laws and regulations. The Code of Conduct is supported by complementary policies and procedures, including those covering fraud management, whistleblowing, disciplinary actions and internal investigations.
+
+Internal Audit provides independent assurance on the effectiveness of internal controls, governance and risk management processes.
+
+Findings from audits and reviews are reported to appropriate governance forums, with management responsible for implementing corrective actions and monitoring remediation progress. These mechanisms support the early identification of control gaps and reinforce accountability across the organisation.
+
+SP Group maintains a zero-tolerance stance towards all forms of bribery and corruption, whether direct or indirect. This applies to all employees and officers of the Group, as well as to third parties acting on our behalf, including suppliers, contractors and other business partners.
+
+Our expectations are articulated in the Anti-Bribery and Corruption (ABC) Policy, which defines prohibited conduct, employee responsibilities, reporting channels and disciplinary consequences for non-compliance. To operationalise these requirements, SP Group has established and maintains a formal Anti-Bribery Management System (ABMS) aligned with ISO 37001, supported by a dedicated compliance function within the Legal function. The ABMS incorporates risk assessments, due diligence processes, internal controls, reporting mechanisms and periodic reviews to prevent, detect and respond to bribery and corruption risks.
+
+Our approach is supported through the following measures, which embed our expectations into day-to-day behaviours across SP Group and our business partners:
+
+Clear governance and accountability are fundamental to the effectiveness of the ABMS:
+
+• Governing Body: Oversight of the ABMS is provided by the Board Audit Committee, which exercises independent governance over anti-bribery matters.
+
+• Top Management: The Executive Leadership Team (ELT) is responsible for demonstrating leadership and commitment, approving material changes to the ABMS, and ensuring adequate resources are provided.
+
+• Anti-Bribery Compliance Function (ABCF): A dedicated ABCF, established within the Legal function, is responsible for the design, implementation, monitoring and continual improvement of the ABC Policy and ABMS, including reporting to Top Management
+
+Training, Awareness and Declarations To reinforce ethical behaviour and compliance:
+
+• Employees receive regular anti-bribery and compliance training, with enhanced focus on higher risk roles and functions.
+
+• Awareness of SP Group’s zero-tolerance approach is communicated to relevant business partners through contractual terms and SP Group Supplier Code of Conduct.
+
+• Awareness of ABC Policy and our zero-tolerance stance is raised through regular Group-wide communications.
+
+• All employees are required to make annual declarations confirming their understanding of, and compliance with, the Anti-Bribery & Corruption Policy.
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+SP Group adopts a proactive and risk‑based approach to managing regulatory compliance, ensuring that our business units remain fully aware of and aligned with significant statutory and licence obligations. We maintain and regularly update checklists of relevant acts and regulatory requirements, which form the foundation for consistent compliance across the Group. Annual compliance attestations are obtained from the respective business units using these checklists to reinforce accountability. Our Compliance team closely monitors changes to all identified legislation, assesses their implications, and communicates updates to the relevant business units. In addition, we conduct annual training on key statutory and licence obligations to build organisational awareness and ensure ongoing adherence to regulatory requirements. Compliance requirements are embedded into business processes, supported by guidance, training and internal controls to promote consistent application across the organisation. Where non-compliance risks are identified, mitigation measures are implemented and tracked through established governance and risk management processes.
+
+SP Group is committed to upholding the highest standards of integrity and ethical conduct in all our operations. We continually strengthen our anti‑bribery and anti‑corruption framework through staff training, robust management systems, and clear expectations for our business partners. We achieved all targets in FY25/26 and we continue to monitor our performances and disclose in subsequent reports.
+
+Strengthening compliance awareness through continuous learning and engagement
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Digitalisation, Cybersecurity & Data Privacy
+
+IFRS S1 30a | 33a | 51b | 51f
+
+Amidst the fast-paced digital transformation, the growing adoption of AI and the constantly changing cyber threat environment, companies have to consistently advance initiatives to develop a strong cybersecurity ecosystem aimed at creating resilient digital infrastructure, safeguarding cybersecurity, and promoting international cyber collaboration. SP Group remains dedicated to focusing on three critical areas: digitising its operations and solutions, reinforcing the cybersecurity of its assets, and upholding data privacy.
+
+Maintaining strong capabilities in digitalisation, cybersecurity and data privacy strengthens SP Group’s ability to safeguard data, uphold regulatory compliance, and enhance the resilience and sustainability of our operations.
+
+of employees trained on cyber and physical security awareness and PDPA 100%
+
+full compliance with PDPA and Cybersecurity Act Achieve
+
+SP Group sees technology as a key enabler to support the energy transition, drive decarbonisation, and build a resilient and efficient electricity and gas network. Guided by a people-centric and value-driven approach, we treat data as a strategic asset and embed security, privacy and resilience into the design and deployment of our digital systems and solutions.
+
+Our approach ensures that digital innovation delivers operational and customer value, while protecting critical infrastructure, safeguarding data, and maintaining regulatory compliance. To enable this, SP Group is investing in foundational enablers, including next-generation cloud platforms, robust artificial intelligence (AI) governance frameworks, an AI-ready workforce, and structured change management to support Group-wide adoption.
+
+Five technology pillars supporting our business strategy
+
+100% of our employees have completed the cybersecurity awareness training and PDPA e-learning.
+
+We continued to uphold full compliance with the PDPA and Cybersecurity Act.
+
+Scale grid digitalisation and elevate it with AI
+
+Infuse AI into our business processes and workforce
+
+Strengthening cyber resilience in the age of AI
+
+Invest in the future of clean and reliable energy
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+SP Group leverages digitalisation to optimise operations, enhance customer experience and strengthen grid resilience. We are progressively integrating AI into our business processes and workforce to support predictive, data-driven decision-making and future-ready operations.
+
+Key initiatives include scaling up grid automation and intelligence, such as the deployment of an Advanced Distribution Management System (ADMS) that integrates distribution, outage and distributed energy resources (DERs) management into a single platform. These capabilities enable realtime monitoring, faster fault response and grid selfhealing, supporting reliable network operations.
+
+We have started embedding AI into asset lifecycle management and workforce processes to industrialise predictive operations. Initiatives such as AI-enabled asset health indices and renewal planning systems support optimised maintenance, reduced equipment downtime and extended asset lifespans. Frontline teams are supported through AI assistants and analytics tools that improve access to insights from field data.
+
+misuse of AI and aligns with emerging regulations, supporting ethical use of technology in line with sustainability values.
+
+We conduct regular risk assessments and audits across all our Critical Information Infrastructure (CII) to ensure full compliance with the Cybersecurity Act and the Cybersecurity Code of Practice (CCoP) for CIIs. Additionally, we achieved our ISO 27001 certification for information security management systems pertaining to all our CIIs and billing systems.
+
+SP Group’s approach to data protection and governance is underpinned by formal structures, policies and controls aligned with applicable data protection laws and international best practices. Group-wide data governance policies promote consistent standards for data quality, security and confidentiality across the organisation.
+
+In parallel, SP Group continues to advance smart metering and digital billing to empower customers to monitor and manage their energy consumption in near real time. These initiatives support energy efficiency, peak load management, paperless transactions and improved customer experience, aligning digitalisation efforts with demand side management and sustainability objectives.
+
+At SP Group, we have established a cybersecurity incident response plan and conduct various exercises regularly to validate the processes and procedures as part of our emergency preparedness. We have also developed strategic partnerships with government agencies and industry experts to leverage their specialised expertise to support us in the event of a cybersecurity incident.
+
+Employee training programmes in cybersecurity and data privacy are implemented to strengthen awareness and competencies, supporting responsible data handling across all functions. SP Group is committed to complying with personal data protection requirements, including the Personal Data Protection Act (PDPA), and to maintaining robust controls to prevent data breaches and privacy incidents.
+
+SP Group promotes cyber resilience as a core element of operational reliability and national critical infrastructure protection. Our cybersecurity approach focuses on strong cyber hygiene, continuous monitoring and the protection of critical systems against evolving threats through advanced security architectures and enhanced threat detection capabilities.
+
+SP Group has also adopted the National Institute of Standards and Technology (NIST) Cybersecurity Framework, which supports a layered defence approach and guides the management of cybersecurity risks across our digital and operational environments.
+
+Intelligent Asset Maintenance of Over Ground Boxes through a Digital Workforce App
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+enabled inspections to be completed, it involved additional administrative handling and could lead to variation in how information was captured and validated. This created an opportunity to further strengthen the consistency and completeness of the asset dataset, enabling more advanced condition analytics and longer-term maintenance planning across the asset lifecycle.
+
+The enhanced solution introduced standardised digital workflows and AI-assisted image recognition, enabling inspections to be captured digitally at source and maintenance quality to be assessed more consistently. This reduced manual handling and rework, improved data accuracy and traceability, and strengthened governance through clearer audit trails and accountability between SP officers and contractors. The initiative delivers an estimated ~30,000 man hours saved annually, contributing to more efficient use of workforce resources.
+
+AI-Powered Asset Management and Digital Workforce
+
+The solution enables more responsible asset lifecycle management by supporting data-driven maintenance planning, early identification of defects, and consistent upkeep of over 16,000 OGBs. By reducing reliance on paper-based processes, the initiative improves resource efficiency while supporting the long-term reliability and resilience of critical infrastructure.
+
+GenAI assistant for customer service. Currently, 80% of our customer interactions are via self-service digital channels and we aim to reach approximately 85% of digital self-service engagement by 2030.
+
+SP Group is embedding AI and digital technologies across asset lifecycle management and workforce processes, with an estimated productivity savings of approximately 100,000 man hours annually by 2030.
+
+Additionally, we are shifting towards paperless billing by expanding infrastructure to convert an additional 500,000 customers to electronic billing (e-bills), effectively cutting down on paper usage.
+
+Digital solutions are being implemented to enable optimised deployment of field crews, supporting AI-assisted inspections and operational decisionmaking with improved accuracy and efficiency. These initiatives enhance workforce productivity by strengthening validations and reducing rework, while also lowering travel requirements, vehicle usage, and overall resource consumption.
+
+Beyond efficiency gains, the initiative also strengthens data readiness. Digitised inspection records, image-based evidence, and standardised data capture improve data integrity, enabling better decision-making on asset renewals, maintenance, and risk management.
+
+We are also on track for a nationwide rollout of Advanced Metering Infrastructure (AMI) smart electricity and water meters. In 2025, 84% of electric meters deployed were classified as AMI, with a goal to achieve a 100% coverage by December 2026.
+
+Overall, the Intelligent Asset Maintenance initiative demonstrates how digital transformation can act as a key enabler of sustainability, delivering productivity gains, strengthening governance, and supporting resilient, well-maintained infrastructure critical to long-term operational performance.
+
+By 2030, most key work processes across the asset lifecycle are expected to be digitised or AI-enabled, strengthening operational efficiency, improving consistency of execution, and enhancing the effectiveness of the engineering workforce.
+
+Advanced meters and digital billing empower consumers to monitor and manage their energy usage in real time, aiding energy savings. Altogether, these digital customer initiatives improve customer satisfaction and promote eco-friendly practices.
+
+Digital Customer Experience and Smart Metering
+
+Smart Grid Digitalisation & AI Elevation
+
+SUSTAINABILITY REPORT FY2025/2026 Championing Responsible Growth About Us Stewarding Environmental Action Disclosures Caring for Our People and Community Sustainability Strategy and Approach
+
+Group Risk & Business Continuity Management (GRBCM) Day 2025
+
+In October 2025, SP Group held GRBCM Day 2025 to raise awareness on the escalating risks associated with misinformation and disinformation within an increasingly digital and AI-enabled landscape. Attended by over 300 employees from various business units, the event emphasised how false or misleading information can erode public trust, disrupt operations, and pose strategic threats.
+
+Through presentations and panel discussions with domain experts, the session explored the evolving challenges of scams, fake news, and AI-generated content, while underscoring the critical importance of digital literacy, critical thinking, and proactive communication. The discussions highlighted that ensuring organisational resilience demands not only technological measures but also well-prepared and informed employees capable of identifying and managing information risks responsibly.
+
+Digitalisation, cybersecurity and data privacy are three strategic areas of focus for SP Group to ensure better data security, privacy and resilience. To address these areas, we are scaling up grid automation and intelligence, integrating AI into internal processes, and maintaining robust governance framework and policies. We have met all our targets pertaining to Digitalisation, Cybersecurity and Data Privacy this year. We continue to maintain the good practices and report our progress in the subsequent reports.
+
+• ISO 27001:2022 Certification for Information Security Management System for SP Services, 2025 to 2027
+
+• ISO/IEC 27001:2013 in Management and Operation of Control System for Onshore Receiving Facilities at Sakra and Attap Valley Natural Gas Stations, and Tuas South Offtake Station for SP PowerGrid (Gas Operations), 2022 to 2025
+
+• ISO/IEC 27001:2013 Certification for Information Security Management System (Gas SCADA) for Singapore Power Limited (SCADA Section), 2022 to 2025
+
+• Data Protection Trustmark for SP Services (from Apr 2023)
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+IFRS S1 46a | 50c | 50d | 51a | 51g | IFRS S2 33f | 34d
+
+This section explains the basis of preparation for key sustainability performance metrics and disclosures reported within the SP Group FY25/26 Sustainability Report.
+
+In preparing this report, we have applied reporting principles intended to support clear, decision-useful disclosures for our stakeholders. FY25/26 is our first year of pivoting towards adoption of IFRS S1 and IFRS S2, and we are strengthening our data governance, internal controls and calculation methodologies as part of a multi-year maturity journey. The definitions, scope and boundaries used for the metrics and disclosures in this report are set out in this methodology statement, together with the key assumptions, estimation techniques and known limitations where applicable. While we have taken steps to enhance consistency and traceability of the information presented, the data in this report has not been externally assured. We expect to further refine our methodologies, data sources and control processes as we progress towards more complete alignment with IFRS S1/S2 requirements.
+
+Material topic Sustainability metric Definition and calculation methodology
+
+Scope 1 absolute emissions refer to all direct emissions from SP entities within SP’s organisational boundary arising from direct combustion and leakage that allows the release of GHGs into the atmosphere, measured in tCO2e.
+
+Our Scope 1 emissions include fugitive emissions from the gas network, SF6 leakage, refrigerant leakage and fuel and gas combustion.
+
+Scope 1 absolute emissions (tCO2e)
+
+Emissions from Scope 1 sources are mainly calculated using activity-based approach. For fugitive emissions from gas network, we adopt the methodology from the American Petroleum Institute (API) Compendium of Greenhouse Gas Nov 2021.
+
+We primarily apply UK DESNZ emission factors and IPCC AR6 Global Warming Potentials for Scope 1 calculations.
+
+Scope 2 accounts for GHG emissions from the generation of purchased electricity, heating and cooling, consumed by the company, calculated using grid-average emission factors.
+
+Our Scope 2 emissions include own electricity consumption and electricity T&D losses from the grid infrastructure in Singapore.
+
+Scope 2 absolute emissions (locationbased) (tCO2e)
+
+Emissions from all scope 2 sources are calculated using activitybased approach. For location-based, we use specific gridaverage emission factor to account for our Scope 2 in Singapore and overseas operations (i.e. China, Thailand and Vietnam).
+
+We reference the latest country-wide grid emission factors published by the respective government agencies.
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Material topic Sustainability metric Definition and calculation methodology
+
+Scope 3 emissions refer to indirect emissions across our value chain.
+
+Among the 15 categories, we have identified 9 as relevant to SP Group.
+
+We adopt spend-based method where purchases are mapped to different product category and industry average emission factors per US EPA EEIO and UK DESNZ database to account for the upstream emissions from the production of the goods/services purchased by SP Group within the financial year.
+
+Category 1: Purchased goods and services
+
+We use activity data in line with the fuel and energy data for Scope 1 and 2 across SP Group. Well-to-tank (WTT) emission factors from the UK DESNZ were applied to fuel consumption while total upstream emission factors from the International Energy Agency (IEA) are used for electricity consumption.
+
+Category 3: Fuel- and energy-related activities
+
+Category 5: Waste generated in operations We use activity data of our different waste types and emission factors specific to each type. Local emission factors are prioritised before UK DESNZ emission factors.
+
+Category 6: Business travel We use activity data (distance-based) of our local (e.g. taxi) and overseas (e.g. flight) business travel to account for emission from the transportation of employees for business-related activities. We apply UK DESNZ emission factors for the upstream calculations.
+
+Climate Action & Resilience Scope 3 absolute emissions by category (tCO2e)
+
+Category 7: Employee commuting We conducted a Group-wide survey to understand the modes of transport and average distances between their homes and their worksites in both 2022 and 2023. Emissions intensity per employee remained largely consistent in both years, and we have continued to apply this emissions intensity since there were no major changes in business operations.
+
+We account for emissions associated with the generation of electricity used to produce cooling supplied to customers, as well as electricity consumed by customers through EV charging. Customers, in turn, are expected to report purchased cooling and electricity consumption for their EV fleets under their Scope 2 emissions. This category covers our district cooling operations, primarily in Singapore and overseas projects, as well as our EV charging solutions in Singapore. The same grid emission factors as Scope 2 are applied.
+
+Category 11: Use of sold products
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Material topic Sustainability metric Definition and calculation methodology
+
+Scope 1 and 2 (market-based) emissions intensity is used to reflect the impact of business expansion by normalising total Scope 1 and 2 emissions against total electricity sold (MWh). Total electricity sold includes both grid sales in Singapore and solar energy sold.
+
+Scope 1 and 2 intensity (kgCO2e/MWh)
+
+It is calculated as the total Scope 1 and 2 (market-based) absolute emissions divided by total electricity sold. Total electricity sold refers to both grid withdrawal data and renewable energy that SP Group sold in this reporting year.
+
+Although electricity sales do not capture the full breadth of SP Group’s business activities, total electricity sold is used as the denominator for Scope 1 and 2 emissions intensity as electricity T&D losses remain the primary contributor to our emissions profile.
+
+Emissions reductions result from the adoption of district cooling, solar projects, EV charging solutions and renewable energy certificates across Singapore, China, Thailand and Vietnam by our customers from services rendered by SP Group and its subsidiaries.
+
+Emission reduction for customers through SES offerings (tCO2e)
+
+GHG emission reductions for our customers are calculated and estimated during the in-use phase compared to a baseline scenario and is in no way captured as emission reduction in SP Group’s carbon footprint.
+
+This metric is presented on a cumulative basis, capturing emissions reductions achieved since FY21/22.
+
+Total electricity consumption (MWh) Total electricity consumption includes both electricity purchased from grid and onsite solar generation directly used by SP.
+
+Our total electricity consumption includes purchased electricity and onsite solar energy directly consumed by SP entities where we have operational control.
+
+Fuel consumption as part of SP’s operations.
+
+This includes the diesel and petrol consumption for our remaining Internal Combustion Engine (ICE) vehicles, Material Handling Equipment (MHEs) such as forklifts and backup generators for properties, and mobile generators for on-site electricity operations. It is calculated as the total diesel and petrol purchased by all our entities where we have operational control.
+
+Percentage of fleet being EVs (%) This metric is to show our progress of fleet electrification. Our current fleet comprises Light Goods Vehicle and Heavy Goods Vehicle.
+
+It is calculated as the number of EVs across all vehicular types divided by the total number of vehicles owned by SP.
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Material topic Sustainability metric Definition and calculation methodology
+
+Lost Time Injury Frequency Rate (LTIFR) refers to the number of lost-time injuries occurring in the workplace per one million man-hours worked.
+
+Lost Time Injury Frequency Rate (LTIFR) for employees and contractors
+
+It includes all work-related injuries that result in an employee or contractor being absent for at least one day, including fatalities and permanent disabilities. LTIFR covers both SP Group employees and contractors in Singapore only.
+
+This metric measures the percentage of SP employees who have completed all mandatory annual safety training requirements, primarily the Safety e-learning modules, which are a key preventive measure under SP’s Workplace Health & Safety programme.
+
+Percentage of employees who have completed safety training (%)
+
+Employees on extended leave are excluded. It is calculated as the number of employees who completed the required safety training during the reporting period covering our operations in Singapore only, divided by the total number of employees calculated at the end of FY required to complete the training, expressed as a percentage.
+
+Number of fatalities This metric refers to the number of work-related fatalities involving SP employees or contractors within the reporting year in Singapore.
+
+Tracked as the total number of work‑related fatalities involving employees and contractors during the reporting period.
+
+Average number of training hours per staff per year Average training hours/staff/year is the average amount of time each SP Group employee spends in training over the financial year in Singapore. This is calculated by dividing the total training hours delivered by the total number of employees as at 31 Mar 2026.
+
+The average expenditure SP Group invests in training and developing each employee annually in Singapore.
+
+Training expenditure includes course fees for internal and external programmes, examination or assessment fees, training‑related travel and accommodation for approved overseas programmes, learning platform licences directly attributable to employee training, and mandatory certification or regulatory training costs.
+
+Average amount of training investment per staff per year
+
+Training costs are recognised in the year incurred, and employee headcount reflects eligible employees, excluding temporary or extended‑leave categories where required. Calculated by dividing the total yearly training expenditure by the total headcount as at 31 Mar 2026.
+
+This metric refers to the percentage of SP Group’s high‑performing employees who voluntarily leave the organisation within the financial year in Singapore.
+
+Percentage of resignation rate of high performers
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Material topic Sustainability metric Definition and calculation methodology
+
+This metric refers to total giving by SP Group across operations in Singapore, Vietnam, Thailand and China. Total donation in dollar value or equivalent represents the total value of SP Group’s community contributions for the reporting year.
+
+Total donation in dollar value or equivalent dollar value7 ($)
+
+It comprises direct financial donations made, costs incurred to support and organise community engagement events, funds raised through SP Group supported initiatives, and the monetised value of employee volunteer hours, calculated using an internally determined standard hourly rate.
+
+This metric refers to the percentage of SP Group employees who participated in volunteering activities at least once during the financial year across our operations in Singapore, Vietnam, Thailand and China.
+
+Percentage of employees who participated in volunteering at least once in the year (%)
+
+This is calculated by dividing the total number of employees who have participated in volunteering at least once during the year by the total number of employees as at 31 Mar 2026.
+
+Number of beneficiaries reached The metric measures the total number of individuals who directly benefit from SP Group’s community programmes, donations, and charitable initiatives during the reporting year across our operations in Singapore, Vietnam, Thailand and China.
+
+System Average Interruption Duration Index (SAIDI) measures the average duration of sustained customer interruptions per customer account occurring during the analysis period in Singapore. SAIDI measures the average outage duration per customer by dividing the total customer minutes of interruption—calculated as the number of affected customers multiplied by outage duration—by the number of active accounts.
+
+SAIDI (Electricity) and SAIDI (Gas) (Minutes)
+
+System Average Interruption Frequency Index (SAIFI) measures the average frequency of sustained interruptions per customer account occurring during the analysis period in Singapore. SAIFI measures the average frequency of power interruptions per customer by dividing the total number of customer interruptions by the total number of customers served.
+
+SAIFI (Electricity) and SAIFI (Gas) (Number)
+
+Tracks the percentage of employees who completed anti-bribery and corruption e learning modules during the year and covers operations in Singapore, Vietnam, Thailand and China.
+
+Percentage of employees who completed anti-bribery and corruption training (%)
+
+It is calculated as the number of employees who completed the required anti-bribery and corruption training during the reporting period, divided by the total number of employees required to complete the training by the end of FY, expressed as a percentage.
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+IFRS S2 Industry-based Metrics: Electric Utilities & Power Generators and Gas Utilities & Distributors
+
+IFRS S1 59 | S2 32
+
+Volume 32 - Electric Utilities & Power Generators
+
+We understand the metrics in Volume 32 are identified as most relevant to the industry of Electric Utilities and Power Generators. The disclosures below relate to SP Group business including electricity transmission and distribution (T&D) and Sustainable Energy Solutions (SES) business. Fossil fuel-based power generation is not part of our operations.
+
+Code Metric SP Disclosure (FY25/26)
+
+01. Gross global Scope 1 emissions percentage covered under
+
+Greenhouse Gas Emissions & Energy Resource Planning
+
+01. 72,741 tCO2e Note: Scope 1 emissions are reported at the SP Group level, as emissions management and carbon strategy are centrally governed across the Group. In addition, no Scope 1 emissions arise from fossilbased power generation, as we run electricity T&D activities only.
+
+Currently SP Group is not subjected to any emission-limiting regulation. ACRA’s climate-related disclosure requirements mandate emission reporting from FY2030.
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Code Metric SP Disclosure (FY25/26)
+
+IF-EU-140a.2 Number of incidents of non-compliance associated with water quantity or quality permits, standards, and regulations
+
+IF-EU-140a.3 Description of water management risks and discussion of strategies and practices to mitigate those risks
+
+02. total water consumed; percentage of each in regions with High or Extremely High Baseline Water Stress
+
+01. & 02. Total water consumed for district cooling business: 2,180,609 m3; 1.2% in regions (China-Chengdu) with high or extremely high baseline water stress.
+
+Water consumption herewith refers to the usage by SP Group’s district cooling business, and we refer to the WRI.org tool “aqueduct water risk atlas” for regions of water stress. Singapore is not classified as a ‘High’ or ‘Extremely High’ baseline water stress region under the WRI Aqueduct framework. However, as a resource-constrained island with limited natural freshwater sources, Singapore actively manages water security through diversification of supply sources, including recycled water and desalination.
+
+SP district cooling plants are required to comply with the Public Utilities (Water Supply) Regulations in Singapore. A Water Efficiency Management Plan is submitted annually. The process allows our district cooling business to:
+
+1. Methodologically understand the breakdown of water usage in their premises and develop a Water Balance Chart.
+
+2. Identify areas to further reduce consumption and raise efficiency.
+
+3. Establish an action plan which identifies measures in water savings, priorities and implementation timelines.
+
+Percentage of customers using Advanced Metering Infrastructure (AMI):
+
+01. 89% of residential customers
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Code Metric SP Disclosure (FY25/26)
+
+IF-EU-550a.1 Number of incidents of non-compliance with physical or cybersecurity standards or regulations Zero incidents
+
+01. System Average Interruption Duration Index (SAIDI)
+
+01. SAIDI – 0.328 min
+
+02. System Average Interruption Frequency Index (SAIFI)
+
+03. Customer Average Interruption Duration Index (CAIDI), inclusive of major event days
+
+03. We do not track CAIDI, as per EMA’s performance standards for Transmission Licensee.
+
+02. and 03. commercial and industrial: 181,788
+
+Please refer to EMA website for electricity consumption by sector.
+
+IF-EU-000.C Length of transmission and distribution lines 22,764.83 km of cable circuits
+
+IF-EU-000.D Total electricity generated, percentage by major energy source, percentage in regulated markets We do not generate electricity as part of our electricity transmission and distribution business.
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Volume 34 - Gas Utilities & Distributors
+
+The disclosures below relate solely to our gas transmission and distribution business.
+
+Code Metric SP Disclosure (FY25/26)
+
+Integrity of Gas Delivery Infrastructure
+
+02. Corrective Action Orders (CAO), and
+
+03. violations of pipeline safety statutes
+
+Percentage of distribution pipeline that is
+
+01. cast or wrought iron and
+
+Ductile iron and plastic pipes are used in our gas network.
+
+SP focuses on regular inspections, leak detection technologies, and pipeline replacement programmes to minimise risks. It also emphasises reducing emissions through initiatives like enhancing energy efficiency. SP collaborates with stakeholders and adheres to stringent regulatory standards to ensure the safety and reliability of its gas network. More details can be found in our sustainability reports.
+
+IF-GU-540a.4 Description of efforts to manage the integrity of gas delivery infrastructure, including risks related to safety and emissions
+
+SUSTAINABILITY REPORT FY2025/2026 Disclosures About Us Stewarding Environmental Action Championing Responsible Growth Caring for Our People and Community Sustainability Strategy and Approach
+
+Code Metric SP Disclosure (FY25/26)
+
+Integrity of Gas Delivery Infrastructure
+
+Statistics as of Mar 26
+
+The data above covers both natural gas and town gas customers.
+
+01. 6,033.0 bbtu Note: Natural gas is not supplied to residential customers directly; natural gas is transported to a third-party facility for processing into town gas. Town gas is subsequently injected into the town gas network and distributed to residential users.
+
+Amount of natural gas delivered to:
+
+04. As per item 01 above.
+
+04. transferred to a third party
+
+Statistics as of Mar 26
+
+Please refer to EMA website for natural gas consumption by sector.

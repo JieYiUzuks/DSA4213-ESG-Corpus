@@ -1,0 +1,22 @@
+{
+  "n-gram": {
+    "distinct2": 0.9406779661016951,
+    "repeated_trigram_rate": 0.012068965517241377,
+    "unk_rate": 0.06722222222222224
+  },
+  "RNN (rnn_lr1e-3)": {
+    "distinct2": 0.9112994350282487,
+    "repeated_trigram_rate": 0.049999999999999996,
+    "unk_rate": 0.04055555555555556
+  },
+  "LSTM (lstm_lr3e-3)": {
+    "distinct2": 0.9598870056497174,
+    "repeated_trigram_rate": 0.004022988505747126,
+    "unk_rate": 0.03888888888888888
+  },
+  "Transformer (transformer_lr3e-3)": {
+    "distinct2": 0.8706214689265538,
+    "repeated_trigram_rate": 0.05459770114942528,
+    "unk_rate": 0.01611111111111111
+  }
+}

@@ -1,0 +1,8 @@
+               tag   total  trainable  input_embedding  core_sequence_layers  output_layer
+        rnn_lr1e-3 2148682    2148682           576200                 91648       1480834
+       lstm_lr3e-3 2423626    2423626           576200                366592       1480834
+transformer_lr3e-3 1349474    1349474           576200                191312        581962
+  lstm_sgns_frozen 2423626    1847426           576200                366592       1480834
+ lstm_glove_frozen 2423626    1847426           576200                366592       1480834
+    lstm_sgns_init 2423626    2423626           576200                366592       1480834
+   lstm_glove_init 2423626    2423626           576200                366592       1480834

@@ -1,0 +1,20 @@
+epoch 01  pairs 1,415,966  loss 2.6270
+epoch 02  pairs 1,416,655  loss 2.3267
+epoch 03  pairs 1,415,617  loss 2.2080
+epoch 04  pairs 1,415,197  loss 2.1390
+epoch 05  pairs 1,415,730  loss 2.0969
+epoch 06  pairs 1,415,068  loss 2.0678
+epoch 07  pairs 1,417,049  loss 2.0503
+epoch 08  pairs 1,415,194  loss 2.0346
+epoch 09  pairs 1,415,179  loss 2.0242
+epoch 10  pairs 1,415,858  loss 2.0173
+
+SGNS trained in 84.1s on mps; saved emb_sgns100.npy (rescale x1.69)
+Nearest neighbours (cosine):
+  emissions  -> ghg, scope_1, scope_3, scope_2, biogenic
+  board      -> committee, directors, excom, bssc, brc
+  energy     -> renewable, cleaner, efficiency, non-renewable, electricity
+  safety     -> health, wsh, hse, protocols, occupational
+  employees  -> staff, employee, permanent, who, feel
+  climate    -> change, climate-related, combat, scenarios, scenario
+  risk       -> assessment, risks, erm, evaluates, reputational

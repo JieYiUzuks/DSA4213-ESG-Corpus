@@ -1,0 +1,3 @@
+RNN          rnn_lr1e-3             params 2,148,682  median   128,524 tok/s  (min 105,763, max 130,530)
+LSTM         lstm_lr3e-3            params 2,423,626  median    82,327 tok/s  (min 56,834, max 85,456)
+Transformer  transformer_lr3e-3     params 1,349,474  median   113,540 tok/s  (min 50,853, max 118,835)

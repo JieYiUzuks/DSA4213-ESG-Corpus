@@ -1,0 +1,15 @@
+rnn          t= 0  causal=True  pad-invariant=True  uses_past=True  -> PASS
+rnn          t= 5  causal=True  pad-invariant=True  uses_past=True  -> PASS
+rnn          t=31  causal=True  pad-invariant=True  uses_past=True  -> PASS
+rnn          t=62  causal=True  pad-invariant=True  uses_past=True  -> PASS
+lstm         t= 0  causal=True  pad-invariant=True  uses_past=True  -> PASS
+lstm         t= 5  causal=True  pad-invariant=True  uses_past=True  -> PASS
+lstm         t=31  causal=True  pad-invariant=True  uses_past=True  -> PASS
+lstm         t=62  causal=True  pad-invariant=True  uses_past=True  -> PASS
+transformer  t= 0  causal=True  pad-invariant=True  uses_past=True  -> PASS
+transformer  t= 5  causal=True  pad-invariant=True  uses_past=True  -> PASS
+transformer  t=31  causal=True  pad-invariant=True  uses_past=True  -> PASS
+transformer  t=62  causal=True  pad-invariant=True  uses_past=True  -> PASS
+loss ignores <pad> targets -> PASS
+
+ALL TESTS PASSED

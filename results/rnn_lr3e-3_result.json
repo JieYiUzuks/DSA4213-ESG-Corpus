@@ -1,0 +1,33 @@
+{
+  "tag": "rnn_lr3e-3",
+  "model": "rnn",
+  "args": {
+    "model": "rnn",
+    "emb": 100,
+    "hidden": 256,
+    "layers": null,
+    "heads": 4,
+    "ff": 256,
+    "dropout": 0.3,
+    "lr": 0.003,
+    "wd": 0.01,
+    "bs": 64,
+    "epochs": 100,
+    "patience": 8,
+    "seed": 42,
+    "tag": "rnn_lr3e-3",
+    "emb_weights": null,
+    "freeze_emb": false
+  },
+  "best_val_loss": 4.769645021744202,
+  "best_val_ppl": 117.8773906224314,
+  "test_loss": 4.749255619026284,
+  "test_ppl": 115.4982777997822,
+  "params_total": 2148682,
+  "params_trainable": 2148682,
+  "train_time_s": 260.62608679244295,
+  "epochs_run": 37,
+  "best_epoch": 29,
+  "infer_tokens_per_s": 88760.64858101576,
+  "hardware": "macOS-15.1.1-arm64-arm-64bit-Mach-O | arm | torch 2.14.1 | mps"
+}

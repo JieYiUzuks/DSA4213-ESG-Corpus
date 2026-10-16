@@ -1,0 +1,33 @@
+{
+  "tag": "lstm_glove_frozen_s44",
+  "model": "lstm",
+  "args": {
+    "model": "lstm",
+    "emb": 100,
+    "hidden": 256,
+    "layers": null,
+    "heads": 4,
+    "ff": 256,
+    "dropout": 0.3,
+    "lr": 0.003,
+    "wd": 0.01,
+    "bs": 64,
+    "epochs": 100,
+    "patience": 8,
+    "seed": 44,
+    "tag": "lstm_glove_frozen_s44",
+    "emb_weights": "data/processed/emb_glove100.npy",
+    "freeze_emb": true
+  },
+  "best_val_loss": 4.635376197134468,
+  "best_val_ppl": 103.06668409413975,
+  "test_loss": 4.630968677449903,
+  "test_ppl": 102.6134152845474,
+  "params_total": 2423626,
+  "params_trainable": 1847426,
+  "train_time_s": 329.5623409973923,
+  "epochs_run": 50,
+  "best_epoch": 42,
+  "infer_tokens_per_s": 151545.4126065432,
+  "hardware": "macOS-15.1.1-arm64-arm-64bit-Mach-O | arm | torch 2.14.1 | mps"
+}

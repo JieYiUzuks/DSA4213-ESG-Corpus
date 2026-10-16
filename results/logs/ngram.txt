@@ -1,0 +1,17 @@
+/Users/keakjy/Desktop/DSA4213/Assignment 1/src/ngram.py:59: RuntimeWarning: divide by zero encountered in log
+  return float(-np.log((w * P).sum(1)).mean())
+{
+  "tag": "ngram",
+  "lambdas_uni_bi_tri": [
+    0.3,
+    0.4,
+    0.3
+  ],
+  "val_loss": 4.81528970745761,
+  "val_ppl": 123.38255197835139,
+  "test_loss": 4.847284924996402,
+  "test_ppl": 127.39403550837673,
+  "stored_ngrams": 291090,
+  "train_time_s": 0.20052566705271602,
+  "infer_tokens_per_s": 495788.55106732494
+}

@@ -1,0 +1,810 @@
+About the Report This Sustainability Report focuses on the sustainability strategy, practices, priorities, targets and performance of our operations across key markets during the financial year ended 31 December 2025.
+
+This Report covers all subsidiaries under the Group. Data from subsidiaries that were divested in the year is included in this Report up to the date of divestment. Data from all joint ventures, partnerships and associates where ST Engineering does not have management or operational control are excluded.
+
+This Report is approved by the Board and prepared with reference to Singapore Exchange Limited (SGX) Listing Rules 711A, 711B and Practice Note 7.6, International Financial Reporting Standards (IFRS) Sustainability Disclosure S1 and S2 for climate-related disclosures, Global Reporting Initiative (GRI) Standards and the Sustainability Accounting Standards Board (SASB) Standards – Aerospace and Defence.
+
+Greenhouse Gas (GHG) emissions data are reported using the financial control approach.
+
+ST Engineering references the GRI Standard as it is the most widely used sustainability reporting framework and it addresses areas that are of interest to our stakeholders.
+
+SASB Standards focuses on the needs of investors and the Group adopts its disclosure requirements for Aerospace and Defence to provide our investors a clearer picture of our businesses.
+
+ST Engineering is a signatory of the United Nations Global Compact (UNGC) and is committed to its Ten Principles. This Report supplements our Communication of Progress.
+
+Stakeholders are advised to read the ST Engineering Annual Report 2025 for more information on the Group’s business and financial performance.
+
+Assurance and Verification ST Engineering is committed to providing a balanced and accurate sustainability report. Unless otherwise stated, the information disclosed in this report is a consolidation of data compiled from all subsidiaries under the Group globally.
+
+Our Internal Audit team performed a review on the sustainability report for 2025 as mandated by SGX. All recommendations highlighted during the internal review were taken into consideration during the development of this Sustainability Report.
+
+Our GHG emissions data reported is verified with limited assurance under the Greenhouse Gas Protocol Standards by DNV Business Assurance Singapore Pte. Ltd. This includes Scope 1, Scope 2, Scope 3 Category 5 (Waste Generated from Operations), Category 6 (Business Travel) and Category 7 (Employee Commute) GHG emissions.
+
+3. A Marine subsidiary was ﬁned $400,000 in January 2025 due to a 2018 workplace accident involving a worker of a sub-contracting ﬁrm performing work in our premises 4. Based on 30 November 2025 data 5. We had zero fatalities in 2025 6. RFR = Recordable Frequency Rate; RSR = Recordable Severity Rate 7.
+
+The Board of Directors oversees the review by Management of material environmental, social and governance (ESG) factors for ST Engineering and takes them into consideration when setting the Group’s strategic direction. In our review this year, we reaffirmed the importance and relevance of our 10 material ESG factors and assessed such factors from the perspective of their impact materiality and financial materiality.
+
+We remain steadfast in positively impacting people’s lives and the health of our planet by operating responsibly in our communities and the wider global ecosystem. We create value by addressing real-world problems, including those related to climate change, urbanisation, pandemics, public safety and evolving security challenges. We harness technology and innovation to enable a more secure and sustainable world.
+
+In our efforts to decarbonise, we are focusing in the medium term on seizing opportunities and managing risks related to climate change across our global units. We have also linked Management’s long-term rewards and compensation to climate-related targets given its importance to the success of the Group.
+
+The Group actively integrates artificial intelligence (AI) across our own operations, products and services, to enhance operational efficiency, security and service delivery. We maintain oversight through the Group’s AI Governance Framework to ensure responsible and ethical use of AI.
+
+A Purpose-Driven Group At ST Engineering, we are dedicated to harnessing technology and innovation to foster a more secure and sustainable future. Our sustainability journey is driven by our commitment to building long-term resilience and the creation of sustainable value for all our stakeholders, including customers, employees, communities, shareholders, governments, and suppliers.
+
+In an increasingly uncertain world caused by geopolitical tensions, extreme weather, and industry disruptions, we are steadfast in our commitment to integrating sustainability into our strategy and operations to ensure our continued resilience.
+
+We expanded our group-wide assessment of climaterelated risks and opportunities referencing IFRS S2, building on our inaugural Task Force on Climate-related Financial Disclosures (TCFD) analysis conducted in 2022.
+
+The physical risk to our productive assets and our people is low in the short- and medium-term. We will continue to regularly review our assets against extreme climate and weather events.
+
+We identified medium transition risk in the medium-term, in the transition to a low carbon economy. We will continue to monitor the climate-related changes and evolving regulatory requirements.
+
+We identified and will monitor strategic opportunities that leverage our core capabilities to meet the growing demand for sustainable technologies, such as clean energy solutions, climate change mitigation and adaptation services.
+
+We remain committed to reducing our environmental footprint. In 2025, we implemented new initiatives across our operations, streamlined processes, deployed energyefficient technologies, and expanded solar installations. We have achieved a 27% reduction in emissions against our 2015 base year and 18% of our global electricity consumption is now sourced from renewable energy.
+
+Workplace safety remains our top priority. We continued regular senior management safety walkabouts and deployed innovative technologies to create safer working environments across our operations. We also launched a group-wide Active Caring programme, which was designed to cultivate a proactive safety mindset among our people - empowering every employee to look out for one another. We had zero fatalities in our operations this year.
+
+Investing in our people remains central to our strategy. We launched our global employee engagement survey to gain deeper insights into our workforce’s needs, enabling us to design targeted initiatives that enhance the overall employee experience. We have also amplified our efforts to strengthen our employees’ understanding of our leadership dimensions and attributes, in our pursuit of cultivating exemplary leadership behaviours and nurturing a more vibrant organisational culture. Our strength lies in our diverse workforce and we remain dedicated to fostering an inclusive environment where all employees can reach their fullest potential.
+
+Recognising the importance of going beyond fulfilling immediate needs to delivering sustained social impact, we increased our participation in regular employee volunteering programmes and collaborated with non-profit partners to provide multi-year funding. By doing so, we aim to support them in scaling their programmes and building capabilities, to deliver meaningful impact to the communities. In 2025, we contributed $3.0m to community causes.
+
+We updated our reporting boundary to cover all subsidiaries under the Group referencing IFRS Sustainability Disclosure Standards. We continued to work closely with our internal stakeholders to strengthen the accuracy, traceability and transparency of our data.
+
+In addition, we expanded our Scope 3 data collection to build a more comprehensive carbon inventory across our value chain. Given the complexities of estimating Scope 3 emissions, we will progressively fine-tune the reporting process and methodology in consultation with both internal and external stakeholders to establish a robust foundation for Scope 3 reporting.
+
+SUPPLY CHAIN A sustainable and resilient supply chain is important to our continued success, particularly amidst geopolitical tensions and political uncertainty. Our Supply Chain Resilience Framework continues to play a critical role in identifying key risks and developing mitigation strategies. Additionally, we are committed to upholding human rights across our supply chain and ensuring ethical sourcing practices. This year, we initiated assessments to identify and address risks in our supply chains. We continue to deepen partnerships with suppliers to foster more resilient and mutually beneficial relationships.
+
+We remain committed to supporting our customers in their sustainability journey by providing more sustainable quality products and services.
+
+Group-wide, we leverage opportunities in three focal areas – reducing GHG emissions, tackling urban and city challenges, and contributing to the circular economy; through enhancing our existing capabilities and tapping on the strengths of our diverse business. Our annual venture building business challenge, In. Vent, fosters and develops promising and scalable business ideas, whilst accounting for their sustainability considerations.
+
+TECHNOLOGY AND INNOVATION We are advancing AI capabilities to help our customers enhance their operational decision-making, raise their productivity and operate with greater confidence in dynamic and demanding environments. Similarly, we are also adopting AI throughout our own operations and corporate functions to ensure that we raise our own productivity levels. To support these efforts, we will be investing $250 million over the next five years to build new AI capabilities and increase our AI talent pool.
+
+We also announced at our Innotech 2025 Conference, that we will be developing Physical AI solutions, in collaboration with our research partners.
+
+Manned-Unmanned Teaming Operating System (MUMTOS) that will enable autonomous systems to adapt, coordinate and make decisions in complex environments.
+
+Our latest sustainability-linked products and services include the flagship 1-MW hydrogen electrolyser, HubGen. The containerised electrolyser brings hydrogen closer to where the demand is. This eliminates the need for trucked-in gas while offering a cleaner energy alternative and accelerates decentralised hydrogen adoption. The HubGen 1-MW electrolyser represents a key outcome of our innovative energy solutions capabilities in advancing the global energy transition, energy sovereignty and sustainable growth.
+
+ST Engineering remains committed to sustainability, whether in our own operations, or through enabling our customers and other stakeholders. We seek to leverage our diverse capabilities and partner with innovative firms and institutions to deepen our expertise and broaden our offering of technologies, as we pursue greater sustainability in our businesses and operations globally.
+
+The Group’s success hinges on delivering sustainable value to our stakeholders. Our business practices are built upon our commitment to long-term thinking and consideration of multiple stakeholders’ interests, while harmonising current customer needs with future global requirements.
+
+We believe in doing our part by conducting our business sustainably, ethically and responsibly to build trust among our stakeholders while managing risks to our business. This includes shaping a sustainability-conscious culture among our employees, through mandatory e-learning modules on sustainability. Our courses introduce all fulltime employees worldwide to the foundational concepts of sustainability, ST Engineering’s approach to sustainability initiatives, as well as best practices to reduce our carbon footprint, conserve energy, save water and cut back on waste generation.
+
+We strive to enable our customers on their journey by offering products and solutions that will help them grow and operate sustainably. Our people and the communities we operate in are vital to our global success. We support inclusive development and foster an ecosystem that promotes the continuous growth of our businesses.
+
+We facilitate this by contributing to the communities that we operate in and investing in the development of our people. Amid volatile markets and an uncertain world, integrating sustainability into our strategy and operations is key to ensuring our businesses remain resilient and relevant.
+
+We believe that our success hinges on nurturing a sustainable culture within the Group, led by committed leadership, and instilling a sense of responsibility among employees at every level. The Board holds ultimate accountability, provides strategic direction and considers sustainability issues, including the management of key ESG factors including climate-related risks and opportunities, in the formulation of the Group’s strategies and policies.
+
+The Board’s Risk and Sustainability Committee (RSC) oversees matters related to risk, internal controls and sustainability. The Group President and Chief Executive Officer (P&CEO), supported by the Group Executive Committee (EXCO) and the Group Senior Business Council (GSBC), is responsible to the Board for implementing these strategies and directions.
+
+The Group Chief Strategy and Sustainability Officer and President, New Ventures ensures that sustainability is a core part of our business strategy, and that ESG considerations are integrated into our business strategies and operational plans. To promote accountability, sustainability performance targets are incorporated into Management’s remuneration framework.
+
+The Group’s Sustainability Working Committee (SWC), comprising operations leaders across all our businesses, serves as a key platform for integrating and executing all sustainability and climate-related efforts. The Group SWC is chaired by the Group Chief Strategy and Sustainability Officer and President, New Ventures and sponsored by the Group Chief Financial Officer (GCFO).
+
+Sustainability is the responsibility of every ST Engineering employee at every level. Our management teams across businesses and Group functions play vital roles in shaping and executing our strategy. They collaborate across the Group in critical areas such as technology and innovation, operations excellence, and sustainability. This collaborative effort is supported by an annual planning process that is integrated with our strategic and financial planning, alongside our governance and Enterprise Risk Management (ERM) frameworks.
+
+ST Engineering is a signatory of the UNGC. We support its Ten Principles and are committed to advancing the broader goals of the UN Sustainable Development Goals (UN SDGs). References on the practical actions taken to implement the UNGC principles in each of the four issue areas (human rights, labour, environment and anti-corruption) can be found in the UNGC index pages.
+
+We affirm our support for all 17 UN SDGs and have identified six goals to which the Group correlates strongly with, through our internal practices and our products and services.
+
+In assessing materiality, ST Engineering considers factors that impact our businesses and our stakeholders from both financial and non-financial perspectives. Our key stakeholders, identified as part of the Group’s ERM process based on the extent to which these parties can impact or be impacted by the Group’s activities, include customers, employees and other workers, local communities, suppliers and collaborators, shareholders and investors, and regulators and governments.
+
+ST Engineering’s business and sustainability approach form the foundation for identifying topics with actual and potential impacts. We considered the industry domains that the Group operates in, which includes but are not restricted to, aerospace and defence, maritime, information and communication technologies, transportation and smart cities; as well as our stakeholders’ expectations.
+
+In 2022, we performed internal assessments against external standards such as GRI Standards, SASB – Defence and Aerospace Standards and SGX Core ESG Metrics, and assessed the significance of the topics identified. We prioritised each topic by engaging with relevant stakeholders through a combination of surveys and interviews. The Group identified 10 material factors spanning four broad areas of Economic, Environmental, Social and Governance.
+
+In 2025, we conducted a review of our 10 material factors to re-assess the key sustainability-related impacts, risks and opportunities (IROs), including referencing IFRS S1 and S2 Standards for climate-related aspects under the Environmental Protection material factor. We took the double materiality approach, to outline the scale, scope, irremediable character and likelihood of occurrence from both the non-financial and financial lenses, over different time horizons (short-term, medium-term, and long-term).
+
+The review involved internal stakeholders comprising senior management and representatives from the business areas and Group functions, covering our 10 material factors.
+
+Through the assessment, impact materiality and financial materiality scores were assigned to each IRO, to identify the most significant IROs, which the Group will monitor closely. Action plans and metrics were also identified during this exercise.
+
+The outcomes from the assessment were reviewed by the Management. There were no changes to our material factors from the previous reporting period.
+
+All material factors’ IROs impact the business’s bottom line of “People, Planet, Profit”.
+
+The global technology landscape is constantly evolving, with the proliferation of AI, emergence of quantum technologies and push for low-carbon solutions. These major trends present opportunities to embrace higher levels of automation, enhance sustainable practices, and adopt greater levels of cybersecurity vigilance. However, it is also critical to balance rapid innovation with responsible governance.
+
+Key value chain risks include supply chain disruption, material price volatility, suppliers’ ESG performance and compliance with evolving ESG standards. These risks must be well-managed to avoid disruptions to production schedules that could result in decreased operational efficiency, productivity losses and reputational damage.
+
+Key risks include the tightening of ESG regulations and potentially limited capacity and/or resources to cater to an increase in demand for sustainable goods and services.
+
+On the other hand, there are corresponding opportunities in the development of sustainable products and services that will enable customers to achieve their ESG goals, as well as the implementation of continuous improvement initiatives to enhance operational productivity and reduce costs.
+
+By fostering resilient and mutually beneficial relationships with our suppliers, we can enhance our collective ESG performance and strengthen our value chain.
+
+Businesses can tap into these opportunities to expand markets, build greater customer trust and transform their operations to stay ahead of competition. Innovation with operational agility can unlock new capabilities, accelerate go-to-market and lead to positive impact on revenue.
+
+We are committed to delivering a sustainable and balanced triple bottom line of “People, Planet, Profit”. Inclusive growth and productive value creation for our stakeholders are key to our long-term viability.
+
+We improve lives and make the world more secure and sustainable through technology and innovation.
+
+We depend on a resilient and sustainable supply of goods and services to meet our business needs.
+
+Our ability to harness disruptive technology and direct our engineering expertise towards building innovative products and solutions allows new business growth and differentiates us from our competitors.
+
+We are committed to managing our suppliers ethically and working with them to ensure a responsible and resilient supply chain.
+
+The risk of climate-related hazards worldwide has driven greater demand for climate adaptation and carbon reduction measures. Active actions are taken to reduce greenhouse gas emissions, primarily by transitioning away from fossil fuels and towards renewable energy sources. Key strategies include implementing an internal carbon tax, improving energy efficiency in buildings and key processes, switching to clean energy sources, asset electrification and development of low-carbon technologies.
+
+While our products and solutions are supported by rigorous safety and quality assurance processes, we recognise that continuing vigilance is essential to manage potential risks related to safety and reliability. These considerations strengthen our quality culture so as to uphold our reputation for product excellence and mitigating impacts such as reduced consumer confidence and financial loss.
+
+The impact of climate change on businesses drives demand for sustainabilitylinked solutions. This creates business opportunities for our solutions such as advanced cooling systems, climate hazard monitoring and analytics, low-carbon technologies and renewable energy-based solutions.
+
+We continue to monitor climate-related developments, technologies and business opportunities closely.
+
+Climate change is an issue of urgency and importance. A low-carbon business strategy is not only good for the environment, but also enables us to better respond to climate change-related regulations and price volatility of hydrocarbon resources.
+
+Customers rely on us to meet their operational needs. Our products must be compliant with all relevant regulations and be safe to produce, operate and maintain. It must also be reliable over the product’s lifecycle.
+
+In addition, our services must meet our customers’ requirements and be delivered at the promised quality and within the committed turnaround time.
+
+Cities and organisations worldwide are striving to lower their carbon footprint, reduce operating costs, and safeguard their livelihoods while adapting to the impacts of climate change.
+
+There is an increasing risk of global talent competition. This competitive landscape presents an incentive and opportunity for us to strengthen our company culture, and foster a more uplifting and supportive working environment. By doing so, we can enhance employee engagement and satisfaction, making ST Engineering a more attractive place to work. If these opportunities for change are not pursued in a timely manner, we may experience lower talent retention and productivity.
+
+A potential risk we face is the exposure of employees to workplace hazards. To mitigate the risk, we are continually developing innovative technologies focused on predictive safety measures and hazard detection, strengthening our safety culture.
+
+Our community programmes are designed to deliver meaningful and lasting social impact, and we continuously uphold high standards of accountability and stewardship in how these initiatives are executed. In doing so, we remain attentive to potential risks such as misallocation of funds to unintended organisations, regulatory non-compliance or safety considerations during activities that could result in fnancial and legal liabilities, and negative publicity.
+
+With a more resilient safety culture, we can enhance employees’ sense of security and retention, whilst lowering medical costs and improving productivity. Additionally, these solutions can be adapted as solutions for our external customers, generating more revenue.
+
+These risks are managed by conducting due diligence on prospective beneficiaries, engaging government agencies to understand local regulations and putting in place proper procedures and documentation to safeguard our interests.
+
+On the other hand, our community efforts could lead to positive outcomes, including new business opportunities and attraction and retention of talent, which will result in an increase in community impact, business profitability, reputation and employee engagement.
+
+We are only as strong as our people. With a capable, motivated and agile workforce, we are able to strengthen our talent pipeline to pursue sustainable growth.
+
+We are committed to “Safety Before Profit”. Our aspiration is to achieve a zero-accident, safe and healthy workplace that protects employees and workers from injury, stress and illness.
+
+We are committed to being a good corporate citizen in the places where we operate. Making a positive impact in our host communities is aligned with our core value of compassion.
+
+By doing so, we aim to reduce absenteeism and turnover while increasing productivity and employee morale. Our commitment to safety extends beyond our employees to include all visitors and contractors working on our premises.
+
+ST Engineering’s approach to managing the material factors are included in each material factor’s section. The Group will review and assess each material factor’s IROs from time to time as the ESG landscape evolves.
+
+In today’s complex and rapidly evolving global environment, organisations face heightened regulatory pressures stemming from shifting geopolitical dynamics, cross-border trade disputes and the proliferation of new sanctions regimes.
+
+The proliferation of generative AI (GenAI) tools and evolving cyber threats increase our exposure to data breaches, deepfake attacks, malware, data tampering, service disruptions and data exfiltration.
+
+As the Group expands its global footprint across multiple jurisdictions, the risk of exposure to bribery and corruption increases, particularly in engaging intermediaries. These factors heighten the complexity of international operations, which can result in unintentional violations of regulations.
+
+These challenges drive opportunities to strengthen our cyber defence capabilities through AI-enabled detection and response systems antideepfake technologies and enhanced GenAI expertise. By investing in these areas, we can improve incident response, drive operational efficiencies and reduce costs while building organisational resilience against emerging threats.
+
+Hence, a strong corporate culture, anchored by welldefined policies and reinforced by a clear tone from the top, promotes sound governance across the Group and cultivates stakeholders’ trust and confidence in the Group.
+
+We remain steadfast in our commitment to ethical and responsible business conduct, underpinned by strict adherence to all applicable laws and regulations across the jurisdictions where we operate.
+
+Digital technology and highly connected economies and businesses bring new vulnerabilities from a proliferation of cyber threats.
+
+We protect our data and systems including those entrusted to us. We also comply with all applicable data protection laws and regulations in the various countries we operate in.
+
+We maintain zero tolerance for fraud, bribery, corruption and other forms of misconduct across our operations. These principles are foundational to our governance framework and essential to sustaining stakeholder trust.
+
+The Group’s economic performance is crucial to our sustainability goals. We contribute to the communities where we operate through local procurement, direct and indirect employment, dividends paid to shareholders, taxes paid to governments, and investment in community programmes. Continuous improvement (CI) is important to drive the productivity and profitability of our business.
+
+Our CI initiatives have allowed us to streamline our workflow processes and minimise inefficiencies. This empowers our employees to focus on meaningful, valueadding work that contributes to greater job satisfaction and fulfilment. We drive CI throughout the company by fostering a culture of continuous learning, establishing crossfunctional committees and encouraging employees at all levels to identify and implement improvements.
+
+Throughout the years, we have cultivated a strong culture of CI to enhance our processes, that empowers us to work more intelligently and efficiently. Our CI committee oversees initiatives, facilitates sharing of best practices across the business units, and drives continuous learning. We invest in upskilling our employees through CI training programmes and create awareness through seminars and workshops. This approach encourages employees to actively identify opportunities to optimise our processes and resources, improve productivity, and enhance our economic performance.
+
+Implemented several digital transformation, automation and AI-enabled initiatives such as warehouse digitalisation, automated drilling machines and development of digital safety systems with AI.
+
+Our Commercial Aerospace business implemented an automated multi-spindle perforated drilling system using robotics, advanced tooling and optimised programming.
+
+The latest generation robot design enables greater reach, precision and drilling points while reducing energy consumption and downtime. The system ensures consistent quality, reduces human error and enhances safety through the redesigned system.
+
+Together, these advancements improve productivity by cutting overall cycle times by 62% and increasing throughput.
+
+Automation and digitalisation of processes can help reduce resource requirements and lead time for labour intensive tasks, enable real time data monitoring, identify anomalies and pre-empt potential problems, correcting them before they arise.
+
+To enhance the efficiency and quality of depot repair service for our electronics products, our Digital Systems business introduced the Advanced Diagnostics Station 2.0. This upgraded system integrates mixed-signal test capabilities with advanced diagnostic functions, enabling comprehensive testing of multiple integrated circuits in a single operation.
+
+It supports identification of unknown integrated circuits using test probes, clips or offline fixtures, and incorporates boundary scan technology to facilitate the testing of complex large-scale integration devices.
+
+By streamlining the depot repair process, the Advanced Diagnostics Station 2.0 contributes to greater resource efficiency and reduced equipment downtime. Ultimately, this innovation has enhanced the overall effectiveness of our repair processes.
+
+To optimise resource management and strengthen inventory control, our Land Systems business implemented the Autonomous Technical Store, a continuous-access, unmanned facility powered by radio-frequency identification technology, computer vision, smart cabinets, weight sensors and real-time monitoring. Previously, inventory management involved on-site personnel handling physical and manual documentation.
+
+It now digitalises and automates component retrieval and returns while maintaining live inventory records. This has resulted in improved retrieval speed, enhanced inventory precision, optimised stock levels with reduced write-offs and freed warehouse capacity for production.
+
+The system also enhances workplace safety through reduced after-hours staffing, supports digital documentation and minimises internal facility travel.
+
+To manage reporting across multiple stakeholders, including customers and subcontractors working on shared projects, our Mobility Road Maintenance team from the Urban Solutions business developed the Maintenance Management System, a centralised digital platform that consolidates all reports from stakeholders.
+
+This system streamlines stakeholder communications, integrates maintenance workflow and enables real-time updates to ensure more responsive and transparent maintenance operations.
+
+Our Marine business advanced its digitalisation journey with AI-enabled initiatives to enhance productivity and strengthen workplace safety. A key initiative is the implementation of the Electronic Safety Observation Card (eSOC), which streamlines environment, health and safety management. With eSOC, observations are submitted online, enabling real-time tracking, faster response to potential risks and more accurate data analysis. Complementing this, the Electronic Permit-to-Work system has revolutionised permit management. Applications, endorsements and approvals are now handled digitally, and accessible via mobile devices.
+
+The system automatically flags incompatible works within seconds, reducing delays and improving coordination. To further enhance safety intelligence, we are in the process of incorporating GenAI features, which will provide recommendations and insights using historical safety data once fully implemented. Additionally, safety risk heat map, based on Hazard Identification and Risk Assessment principles, is currently being developed to visualise risk levels across locations. This digital approach ensures a more reliable process, reinforces Environmental Health and Safety (EHS) compliance and creates a safer, more efficient work environment.
+
+Amidst a dynamic economic environment, an organisation’s ability to leverage technology and innovation is key to its long-term success. Our continued commitment to investing in R&D and fostering an innovative culture ensures that technology and innovation are at the core of our business.
+
+We respond to a rapidly evolving global technology landscape, driven by advances in AI, quantum technologies and growing availability of low-carbon solutions. These technologies are not new to us but offer opportunities to embrace higher levels of autonomous intelligence, solve difficult problems in new ways and reduce carbon emissions.
+
+To respond effectively, we uphold responsible and ethical technology management practices including AI governance best practices, development of quantum-secure communication to strengthen data and network security, and innovation in low-carbon materials and solutions to reduce environmental impact.
+
+These are strategic priorities that enable us to lead in both innovation and sustainability, expand into new markets, and differentiate us from competitors.
+
+We prioritise R&D investments that are closely aligned with our business strategy and product roadmaps. We continuously monitor global technology trends and sharpen our approach to stay ahead of emerging technology developments.
+
+R&D investments are identified by each business area to complement its business strategy and product focus to develop its technological leadership. Our GTO identifies and develops strategic technology capabilities, with a strong focus on advanced technologies that can be tapped upon by the various business areas.
+
+These include technologies such as quantum, future communications, advanced materials and alternative energy.
+
+We cultivate a culture of innovation through multiple initiatives, including design thinking training, crossbusiness webinars and design clinics. Annually, we host our InnoChamp competition where we recognise key innovations on products and services from our existing businesses delivered to customers and partners. Our internal venture building programme, In. Vent, further expands our Group’s capacity to innovate and create new businesses for future growth.
+
+Our Commercial Aerospace team won first prize at InnoChamp 2025 for developing an advanced icing model enabling Supercooled Large Droplet (SLD) certification of Nacelle Anti-Icing (NAI) technology. By combining a representative icing wind tunnel test with a correlated physics-based model, the team captured complex icing behaviour under extreme conditions.
+
+This breakthrough ensures accurate prediction of NAI performance and compliance in SLD environments, which is critical for ensuring aircraft safety and resilience in severe weather. It reflects our commitment to purposeful innovation that delivers real-world impact and supports sustainable progress in aerospace operations.
+
+We complement our in-house R&D efforts by broadening our outreach to leverage external capabilities.
+
+Open Innovation – We unlock value from our businesses, innovation partners and startups by providing platforms such as innovation challenges for them to engage each other and incubate new solutions to fill market gaps.
+
+Quantizant emerged as a finalist from In. Vent 2025 - ST Engineering’s annual business-building challenge designed to drive future growth, with its comprehensive solution for an AI-powered post-quantum platform. Positioned as not just another tool or algorithm, but rather, an integrated approach that targets the practical challenges faced by financial services institutions (FSIs). Today, Quantizant’s step-by-step roadmap offers FSIs a clear and structured way to modernise efficiently and securely. As regulatory expectations and cybersecurity risks intensify, Quantizant strengthens sector resilience in a future shaped by quantum computing.
+
+We are investing strategically in AI to enhance operations and deliver innovative customer solutions. Our GEC and GTO proactively explore emerging AI technologies and integrate these into cutting-edge AI solutions through common reusable AI modules.
+
+We are committed to responsible AI governance, establishing frameworks for ethical development, risk assessment, and regulatory compliance. Solutions like AGIL® SecureAI demonstrate our focus on AI security, positioning us to lead responsibly in this transformative technology.
+
+At our InnoTech 2025 Conference, we announced that we will be developing Physical AI solutions in collaboration with our research partners. One such solution is MUMTOS, which will enable autonomous systems to adapt, coordinate and make decisions in complex, real‑world environments.
+
+We continue to advance our AI capabilities to help customers enhance operational decision‑making, improve productivity and operate with greater confidence in dynamic and demanding settings. At the same time, we are integrating AI across our own operations and corporate functions to strengthen efficiency and drive higher performance.
+
+To accelerate this transformation, we are investing $250 million over the next five years to build new AI capabilities and expand our AI talent pool. We target to upskill 4,000 AI engineers and have 1,000 AI developers. As of 2025, we have upskilled 1,800 engineers and we have 200 developers driving our AI capability building.
+
+As AI and GenAI technologies become deeply embedded across industries, they also face heightened exposure to risks such as prompt injection, jailbreaking and data leakage. To address this emerging challenge, we developed AGIL® SecureAI, a comprehensive solution designed to safeguard AI systems through continuous assessment, monitoring and risk mitigation.
+
+By strengthening the resilience and integrity of AI deployments, AGIL® SecureAI enables government agencies and enterprises to adopt AI responsibly and securely, fostering trust and compliance in an increasingly complex digital landscape.
+
+Throughout 2025, we organised a series of AI innovation seminars aimed at inspiring innovation across the company. The sessions featured internal speakers sharing practical applications of AI within their businesses, alongside external experts discussing how AI enhances business processes, products and services.
+
+These seminars provided a platform for teams to explore new ideas, validate emerging technologies and accelerate adoption across the organisation, strengthening our innovation culture, and advancing the sustainable development of intelligent solutions with real business impact.
+
+We have launched the ST Engineering AI Governance Framework that outlines our guiding principles and processes for the responsible design, development, deployment and use of AI systems.
+
+Complementing this framework are the AI control checklists which guide our AI developers in assessing risks and implementing appropriate controls across these principles, enabling responsible innovation through structured risk identification, mitigation and governance of AI systems.
+
+Our supply chain is integral to supporting our diverse range of businesses and extends across multiple geographies. The diversity of our supply chain is essential for ST Engineering to maintain our competitiveness and resilience.
+
+In today’s dynamic business environment, we remain vigilant to potential challenges such as supply chain disruptions and material price volatility, while actively pursuing opportunities to partner with our suppliers to continuously strengthen our supply chain, enhance sustainability and promote responsible and resilient sourcing practices.
+
+Our company’s offerings are typically at the systems-level and we procure finished electronics products. When we do buy electronics components, we mostly do so at subsystem level, and from reputable contract manufacturers. Our Supplier Code of Conduct requires our suppliers to determine if their products contain conflict minerals. Suppliers are to implement supply chain due diligence processes to identify links to conflict mineral sources and support efforts to eradicate the use of conflict minerals.
+
+We have adopted various sourcing strategies, which include the use of weighted criteria for tender contracts. This ensures that suppliers are assessed fairly, both technically and commercially. ESG assessment criteria have been included as part of our overall tender evaluation criteria, to reinforce our ESG expectations of our suppliers and encourage them to advance their sustainability journey.
+
+Our Supplier Code of Conduct communicates our business and ESG expectations to our suppliers. Our suppliers are expected to adhere to this code and failure to do so will trigger further action. We review and update our Supplier Code of Conduct regularly to reflect industry ESG practices.
+
+Our supplier screening process includes ESG screening criteria. This enhances our ability to identify suppliers with sustainability risks that include, but are not limited to, bribery and corruption cases, human rights violations, environmental violations and sanctions. We identify these risks using an accredited third-party tool to screen both new and existing suppliers for ESG violations.
+
+Furthermore, to complement our screening process, suppliers are required to complete an ESG questionnaire to self-declare their ESG status.
+
+Established a framework that manages and mitigates identified human rights risks in our supply chain.
+
+Suppliers that are identified in our screening process as having ESG risks or who do not meet our expectations are further reviewed and assessed before determining if corrective actions need to be taken. If suppliers violate our ESG criteria or are unwilling to comply with our Supplier Code of Conduct and take corrective actions, we will re-evaluate our business relationships with them.
+
+We refined the critical supplier evaluation process by categorising them into low, medium and high risk suppliers. Processes are in place for the Group to engage our critical suppliers on areas such as ESG risks and business continuity measures, ensuring that our supply chain risks are regularly monitored. In 2025, we did not identify any suppliers having significant negative environmental or social impact.
+
+In 2025, we refined our Supplier Code of Conduct to reference the Group’s Human Rights Framework, reinforcing our commitment to ethical sourcing and responsible business practices. In addition, we carried out assessments on selected suppliers to identify any potential human rights risks.
+
+We engage suppliers through our supplier management programmes and maintain close relationships. We also believe in tandem growth with our suppliers and aim to procure locally where possible.
+
+Furthermore, we continuously collaborate and engage with local companies to expand their capabilities, and work with suppliers to improve their ESG practices. This continuous engagement ensures that our suppliers are in turn, able to support the Group’s growth in technology, product capability and competitiveness.
+
+We support the growth and transformation of local SMEs through participation in the SkillsFuture Queen Bee Programme, a collaborative initiative formalised through a Memorandum of Understanding with SkillsFuture Singapore and the National Trades Union Congress (NTUC). The Memorandum of Understanding signing was witnessed by NTUC Secretary-General Ng Chee Meng; Chief Executive of SkillsFuture Singapore Tan Kok Yam; and GCFO of ST Engineering Cedric Foo.
+
+Our Land Systems business organised masterclasses and brought industry experts to provide SMEs with valuable insights and best practices. This enables our SMEs to access valuable training and funding, transforming their processes and upskilling their workforce in areas such as precision engineering, digital manufacturing and data analytics. This collaboration creates a positive cycle of mutual growth, ensuring our suppliers remain futureready and competitive.
+
+We expect our suppliers to deliver products and services that meet or exceed our quality standards and contractual requirements.
+
+Due to the Group’s diverse business portfolio, individual businesses have Quality departments that enforce industry regulations and ensure that quality standards meet contractual requirements. Where required, quality audits are performed to ensure our suppliers meet expectations.
+
+To better respond to supply chain disruptions, we established a Supply Chain Resilience Framework. This enables our procurement and business operations to adopt a consistent group-wide approach to assess supply chain risks.
+
+Various risk factors such as geopolitical, climate, financial and supplier risks are examined to determine strategies that minimise such risks.
+
+Climate change is an urgent and important issue that organisations need to address, as its longevity and success are closely intertwined with the preservation of the environment. Managing our environmental impact responsibly is essential for ST Engineering to maintain our long-term competitiveness and resilience.
+
+In today’s climate-conscious global environment, we remain vigilant to potential challenges such as climate-related hazards, regulatory pressures and the resulting urgent need for carbon reduction. We actively pursue opportunities to transition towards renewable energy, improve operational efficiencies and invest in low-carbon technologies, that strengthen our sustainability performance and promote responsible environmental practices.
+
+We continue to monitor climate-related developments, emerging technologies and business opportunities closely and strive to conduct our business responsibly without compromising the needs of future generations, recognising the impact of environmental degradation and climate change.
+
+We have robust environmental management systems that are based on well-established international standards. For example, in Singapore, our material businesses are certified to ISO 14001 Environmental Management Systems. We comply with all applicable environmental laws and regulations in the geographies we operate in and manage our environmental impact by minimising our footprint, reducing waste and conserving resources.
+
+We continuously work towards obtaining external assurance for our environmental data globally. Our material Singapore and U. S. businesses’ GHG emissions were previously externally validated in accordance with ISO 14064 Greenhouse Gases by accredited third-party certification bodies. In 2025, the Group transitioned our reporting to align with the GHG Protocol and obtained external limited assurance for our global GHG emissions.
+
+We aim to mitigate the noise pollution by certain segments of our operations.
+
+To keep the contamination of surrounding air to a minimum, we use air pollution control equipment such as scrubbers. We continue to monitor and minimise stack emissions, and the level of air pollutants.
+
+In our journey towards decarbonisation, we are adopting a two-pronged approach: actively reducing our GHG emissions and embedding environmentally responsible practices across our operations, while empowering customers with innovative products and solutions that reduce their carbon footprint. For more information on our sustainable products and solutions, please refer to the Sustainable Quality Products and Solutions section.
+
+We track our absolute Scope 1 and Scope 2 GHG emissions and emission intensity across all our businesses globally. We include the following gases for conversion to CO2 equivalent emissions in our GHG inventory – CO2, CH4, N2O, PFC5, HFC5, SF6 and NF3. Emission factors are derived from a variety of credible sources, including the Intergovernmental Panel of Climate Change’s (IPCC’s) Sixth Assessment Report, the United States’ Environmental Protection Agency, the United Kingdom’s Department for Energy Security and Net Zero, and the GHG Protocol’s emission factor databases.
+
+We are progressively expanding the tracking and disclosure of our Scope 3 GHG emissions. In this report, we have included Scope 3 disclosures for Category 5 (Waste Generated in Operations), in addition to Category 6 (Business Travel) and Category 7 (Employee Commute) GHG emissions. In 2025, we achieved a 27% reduction in absolute Scope 1 and Scope 2 GHG emissions from a 2015 base year. We also achieved a GHG emissions intensity of 10 tCO2e/$ million revenue, which is a 9% decrease from 2024.
+
+In 2025, we reviewed the climate-related risks and opportunities for the Group, building upon our first assessment in 2022, which we had published in our standalone TCFD Report. Findings from our 2025 Climate Scenario Analysis below cover the Group’s sites and businesses under our management control. At the same time, we have begun conducting climate-related risks and opportunities assessment for our supply chain, to assess the impact of climate change on our value chain.
+
+Climate Scenario Analysis related risks and opportunities may affect our Group under various climate scenarios across short- to long-term time horizons, offering an indication of our resilience. However, we also acknowledge that there are factors beyond climate change, which can influence our business’s resilience.
+
+We have assessed physical and transition risks for the Group’s businesses to understand the climate-related risks and opportunities. These findings are consolidated and reported to the Management for climate considerations to be embedded into our strategic decision-making process, thereby ensuring an effective management of these risks and opportunities.
+
+Under the climate scenario analysis, we identify risks associated with physical hazards to our facilities and operations from climate events. We also consider evolving climate-related regulations, expectations from customers and investors, alongside technology and market shifts requiring the adoption of new technologies.
+
+Our analysis is based on the Shared Socioeconomic Pathways (SSP) climate scenarios taken from the IPCC’s Sixth Assessment Report. Table 1 outlines the parameters used in our climate scenario analysis. Our physical risk assessment includes the use of a third-party climate risk analytics platform while our transition risk assessment is informed by current available knowledge on policy, technology and market developments.
+
+Given the complexity of climate science, these assessments carry a degree of uncertainty. Hence, caution should be exercised when interpreting the disclosures provided.
+
+Carbon emissions would remain high until 2050, before starting to decline post-2050 but no net-zero is achieved.
+
+1. Prioritisation of sites for assessment We prioritised the Group’s sites for the physical risk assessment based on their asset value and financial materiality.
+
+2. Assessing potential impacts from physical hazards We ran a desktop assessment using a third-party climate risk analytics platform to assess the exposure and potential impact of physical hazards to these sites, considering factors such as the site’s geolocation and asset value. Both acute and chronic physical hazards were considered in the desktop assessment.
+
+For sites identified as exposed to physical hazards, we reviewed these desktop findings with facility owners to validate them against on-the-ground conditions. This included checking whether the sites had previously been impacted by the identified hazards or if there has been an observed increase in hazard severity. Table 2 outlines the physical hazards affecting our prioritised sites and the mitigating measures that have been put in place.
+
+Global economy is oriented towards low material growth, resource and energy intensity.
+
+In line with the Paris Agreement’s aim of limiting the average global temperature rise to 1.5°C by 2100.
+
+3. Residual risk level assessment and risk management After corroborating the desktop findings with the facility owners, our businesses categorised the identified physical hazards into Key, Tier 2 or Emerging Risks, in line with the Group’s ERM Framework. Our businesses then assessed the residual risk level, after taking into consideration mitigation measures, for Key and Emerging Risks.
+
+Additional measures have been taken to address the physical hazards identified where needed. At the same time, our businesses will continue to monitor Tier 2 Risks to ensure timely escalation should they materialise.
+
+Overall, our physical risk assessment concluded that the Group’s residual risk level for physical risks is low in the short- to medium-term, due to sufficient mitigation measures in place.
+
+For long-term physical risks, we will continue to monitor the long-term climate trends and take precautionary and adaptive measures where relevant.
+
+We have embedded our climate risks and opportunities assessment as part of our Group ERM Framework. For physical risks, we will review them once every 3 years.
+
+Physical risk exposure for the Group’s assets in the short- to medium-term is low. The Group will continue to monitor longterm climate trends and adopt necessary measures if required.
+
+Our sites are situated on elevated terrain, which lowers the risk of flood‑related damage.
+
+1. Identification of relevant transition risks Transition risks emerge from the shift toward a low-carbon economy and encompass the challenges organisations face as policies, markets, technologies and stakeholder expectations evolve, in response to climate change.
+
+Our assessment evaluated four key categories of transition risks to understand the potential impact on our operations and strategy.
+
+Medium-term We observe more customers requiring the completion of ESG questionnaires as part of tender processes.
+
+2. Assessing potential impacts from transition risks Based on the long list of transition risks, our businesses then assessed the potential impacts. Table 3 outlines the key transition risks faced by the Group or some of our businesses.
+
+3. Residual risk level assessment and risk management After assessing the potential impacts of the various transition risks, our businesses similarly categorised these risks into Key, Tier 2 or Emerging Risks in line with our Group ERM Framework, and then ranked the residual risk level of the Key and Emerging Risks, with Tier 2 Risks being closely monitored should they increase in severity.
+
+Overall, our current assessment concluded that the Group’s residual risk level for transition risks is medium in the medium-term, and low in the long-term. No shortterm transition risks were identified. As part of our regular risk management process, our businesses have planned for additional mitigation measures where needed to address the risks identified.
+
+As part of our regular ERM process, we will continue to monitor the evolving climate trends and review our transition risks on an annual basis.
+
+Our Group has set a target to halve our absolute Scope 1 and 2 emissions by 2030.
+
+No short-term transition risks have been identified for the Group. Transition risk is assessed to be medium in the medium-term and low in the long-term.
+
+The SSP climate scenarios referenced in this report are based on the IPCC’s Sixth Assessment Report. These scenarios are theoretical models and should not be interpreted as forecasts. Additionally, the third-party analytics tool used for physical risk screening may not fully capture all risk exposures, potentially leading to under- or overestimation. While the scenario modelling and assessments provide valuable insights into possible climate-related impacts on our business, they are subject to inherent uncertainties.
+
+While climate change presents challenges, it also creates strategic opportunities for organisations to deliver innovative solutions. We identify opportunities where our capabilities align with growing demand for sustainable technologies, including clean energy solutions, climate change mitigation technologies and adaptation services.
+
+Our HubGen 1-MW hydrogen electrolyser represents our entry into the rapidly growing hydrogen economy, enabling us to participate in clean energy production and distribution value chains as we build capabilities in this emerging sector.
+
+Our Urban Solutions business is well-positioned to address this market through smart energy building solutions that optimise energy consumption and reduce carbon emissions.
+
+Our Urban Solutions and Land Systems businesses offer innovative heat mitigation and cooling technologies that address the growing need for efficient thermal management in warmer climate conditions.
+
+These identified opportunities present potential pathways for business growth while contributing to global climate objectives. Our diversified capabilities across the Group positions us to capitalise on policy momentum, meet evolving customer needs, differentiate in competitive markets and build long-term resilience. This strategic approach ensures that we contribute meaningfully to global climate objectives while building sustainable competitive advantages for longterm growth.
+
+Since 2022, the Group’s Risk and Assurance (R&A) function has incorporated climate-related physical and transition risks in the Group’s risk universe. We will continue to monitor the sustainability-related risks to ensure that they remain within acceptable levels while maximising the opportunities for all our operations and supply chain. These findings will be reviewed and form the foundation for initiatives tackling climate change in subsequent years.
+
+We integrate climate considerations into our capital planning process and operational decisions, and prioritise initiatives that lower our carbon footprint. Since 2023, we have implemented an internal shadow carbon price of $70/tCO2e for emissions associated with major capital expenditure, which is higher than Singapore’s 2025 carbon tax of $25/tCO2e. This internal carbon price will be reviewed periodically to reflect the evolving regulatory developments and support our long-term transition strategy.
+
+To reduce Scope 1 emissions, we conduct energy audits and replace equipment and fixtures with energy-efficient models during scheduled replacement cycles to improve energy efficiency. Additionally, we optimise energy utilisation across operational activities including delivery runs and engine test cell usage, while continuing to electrify our vehicle fleet.
+
+To reduce Scope 2 emissions, we installed solar photovoltaic (PV) systems across our global sites where practically feasible. Our businesses continuously streamline and re-engineer production and operational processes through smart building management systems and other advanced technologies.
+
+This includes the deployment of our AGIL® Smart Energy Building Solution where suitable, which has helped to reduce energy use from our buildings’ air-conditioning and lighting systems.
+
+Our businesses continue to progressively convert their internal combustion engine vehicle fleet to electric vehicles (EVs) where feasible. To further support this shift, we implemented our GoParkinTM Electric Vehicle Charging solution within our premises. This smart parking solution provides real-time data on the availability of EV charging stations, enabling users to easily identify charging-enabled lots. By enhancing access to EV infrastructure, GoParkinTM complements our fleet electrification efforts and reinforces our commitment to low-carbon technologies and cleaner mobility.
+
+We have transitioned a significant part of our energy consumption to renewable sources such as solar power throughout our businesses. Our Urban Solution and Commercial Aerospace businesses have commissioned new solar PV installations, contributing an additional 1,300 MWh of clean energy annually. Globally, 18%1 of our electricity consumption is derived from renewable energy. Together, these initiatives reinforce our commitment to reduce carbon emissions and build sustainable operating ecosystems across our facilities.
+
+We are committed to restoring natural ecosystems and promoting environmental stewardship as part of our broader sustainability efforts across our global operations. To date, we have achieved close to 40% of our $1 million tree planting contribution target over five years to support Singapore’s ‘City in Nature’ vision.
+
+Working with various partners, our employees planted trees and microforests at various locations in Singapore. These tree planting activities serve a dual purpose – while contributing to carbon sequestration, they also provide valuable educational opportunities for our employees to raise environmental awareness across our workforce.
+
+Beyond Singapore, ST Engineering MRAS, our Commercial Aerospace’s business unit in the U. S., participated in an Arbor Day tree planting event at Chapel Road Park in Havre de Grace, Maryland, where employee volunteers planted 130 native trees. This initiative supports Harford County’s long-standing efforts to restore local ecosystems. ST Engineering MRAS is proud to contribute to environmental stewardship and regularly engages in volunteer activities that strengthen its connection to the community.
+
+We acknowledge and commend the exceptional efforts of our employees and businesses in integrating sustainability into our operations through our annual Sustainability Champion Awards.
+
+At ST Engineering’s 2025 Annual Convention, we recognised our Marine business for its commendable decarbonisation efforts. Some of the key initiatives undertaken the include electrifcation of its vehicle fe et and material handling equipment, upgrading to energyeffcient equipment, maximising onsite solarisation and optimising processes to reduce fuel and electricity consumption.
+
+Across our operations, we continuously seek opportunities to replace ageing infrastructure with energy-efficient alternatives. Following energy audits and equipment replacement programmes, our Digital Systems business upgraded its chiller to a more energy-efficient unit that incorporated modular configurations with magnetic bearing technology to ensure optimal efficiency across varying cooling demands.
+
+The anticipated benefits of this initiative include lower operating and maintenance expenses, improved system reliability and a 28% reduction in electricity consumption annually.
+
+We use water from municipal sources, predominantly for building and equipment cooling, cleaning, general sanitation and operational activities, such as aircraft and vehicle washing. We monitor water usage, impact and management in our operations.
+
+In our Singapore operations, we conduct environmental aspect and impact evaluations as part of ISO 14001 Environmental Management System standards. Based on the results of the evaluation, we implement control measures to mitigate our environmental impact.
+
+These measures include raising awareness among our employees on the importance of water conservation, installing water saving devices such as water thimbles and flow reducing valves, performing regular checks to detect leakages in pipes and faucets, optimising our operations to reduce usage of water, installing rainwater harvesting systems and exploring water recycling opportunities.
+
+Aligned with our commitment to environmental stewardship, our Defence Aerospace business collaborated with its customers to reduce water consumption from aircraft washing by trialing extended intervals between washes.
+
+The initiative successfully maintained aircraft cleanliness and performance while significantly lowering water usage. The revised fleet-wide washing schedule helps conserve water and exemplifies how collaboration and innovation can drive sustainable operational improvements.
+
+Our Commercial Aerospace business designed and installed its first rainwater harvesting system at its operations site, after receiving PUB’s approval in late 2024.
+
+The system captures rainwater from the aircraft hangar roof, filters it through a vortex and bag filter system, and stores it in a 10m³ collection tank. The filtered water is then pumped for aircraft washing, helping to reduce reliance on potable water and supporting sustainable operations.
+
+We strive to reduce waste generated in our business and regularly promote 3R (Reduce, Reuse and Recycle) initiatives. We redesign processes to reduce the generation of waste, toxic waste and effluent. Recyclable waste materials are collected by licensed waste contractors for recycling. Since 2024, we have expanded our recycling programme to cover more materials and improve categorisation processes.
+
+Any toxic waste generated is handled in accordance with local laws. Our businesses define their priority substances of concern and adopt discharge limits based on these regulations. We adhere to all applicable laws and regulations regarding effluent discharge in the areas, which we operate in.
+
+Our customers depend on us to support their operations effectively. To achieve this responsibility, our products must be compliant with all relevant regulations, be safe throughout their production, usage and maintenance, and be reliable over the product’s lifecycle. Our services must meet our customers’ requirements and be delivered at the promised quality and within the committed turnaround time.
+
+Ensuring consistent quality in our products and services is essential to reduce defects and waste, and enhance safety and reliability. High quality directly contributes to the safety of our customers by minimising risks and ensuring dependable performance, which in turn strengthens their confidence in us.
+
+As the impacts of climate change intensify and businesses face increasing pressure to adapt and mitigate, the demand for sustainability-linked solutions will continue to grow. In response, our goal is to support our customers on their sustainability journeys through a suite of innovative and evolving products and services. By developing new solutions and continuously enhancing our existing offerings to meet future standards and specifications, we not only contribute to our customers’ decarbonisation progress but also drive the sustainable growth of our business.
+
+Quality training modules are integrated into our new employee onboarding programme to promote the right quality processes and behaviours. Employees are trained to internalise the quality behaviours of ability, customer focus, teamwork, integrity, outperformance, nimbleness and safety.
+
+We established a System Safety Community of Practice (COP) to aggregate system safety expertise across businesses. The COP seeks to enhance quality and safety in our products and solutions through cross-learning of best practices.
+
+We have robust quality management systems based on established international business and industrial standards. The majority of our operations are certified to ISO 9001 Quality Management Systems or equivalent. Our business adopts various ISO standards in accordance with respective business or industry specialisations where these standards apply. For instance, aerospace businesses are mostly certified to specialised quality standards like the AS9100 Quality Management Systems, which ensure these businesses are benchmarked to global airworthiness standards across the globe.
+
+We commemorated World Quality Day 2025 with the theme “Think Differently”, reinforcing our commitment towards embedding quality across the organisation. This year, we encouraged our Quality teams to transition from a traditional, compliance-focused approach to a more innovative and forward-looking one that integrates quality into every aspect of our business to drive lasting value, efficiency and innovation. In addition to cross-functional sharing, we hosted industry experts who offered fresh perspectives on enhancing product and service quality. These sessions sparked valuable insights and inspired teams to adopt and adapt proven strategies, advancing our pursuit of quality excellence. Together, we strive to build a culture where quality is not just a requirement, but an integral component of our organisational ethos.
+
+Our Land Systems business developed CANalytics to digitalise acceptance testing for the customer’s vehicles. It utilises the vehicle’s Controller Area Network bus, a communication protocol that enables real-time data exchange between onboard components, to capture richer datasets. The system automatically generates test reports, streamlines workflow processes and significantly enhances testing efficiency and accuracy. This innovation improves transparency with customers, eliminates the need for customer witnessing, increases testing capacity and data reliability, and contributes to our sustainability goals by reducing diesel consumption.
+
+Manual wheel hub cleaning operations have traditionally been a resource-intensive process, with challenges in consistency and potential health risks. To improve sustainability and operational quality, Commercial Aerospace business introduced automation to the aircraft wheel hub cleaning process. Powered by a vision-guided, 24/7 robotic solution, this innovation has transformed the way we work by delivering consistent cleaning quality, improving technician safety and wellbeing, and significantly boosting process efficiency. Notable achievements include reductions in chemical usage, man-hours and carbon emissions, alongside enhanced ergonomics, data consistency and customer confidence. This marks a major step forward in building a safer, cleaner and more sustainable operation.
+
+We regard sustainability to be a key factor in quality product development. We consider ecological impact and apply circular economy principles in the areas of water and energy conservation, pollution minimisation, waste reduction and product recycling. We continuously improve the sustainability and quality of our existing suite of products by employing the use of new technologies to improve our operational processes, reduce GHG emissions and energy consumption. To support our customers in their transition to a lower carbon economy, we work towards documenting PCF for our key products and solutions. In line with the Group’s strategy, we focus our suite of sustainability products and solutions in key areas of reducing GHG emissions, solving urban and city challenges and promoting the circular economy.
+
+To ensure all testing equipment are properly calibrated, the Digital Systems business implemented an Electronic Calibration Tracking System (eCal) that centralises the monitoring of inspection, measuring and testing tools. Automated reminders help maintain timely calibration, ensuring compliance and minimising downtime. By capturing accurate equipment records, eCal supports efficient usage and extends asset lifespan. The system ensures all our testing tools are consistently maintained to the highest standards, contributing to reliable performance and upholding the quality and integrity of our engineering outcomes.
+
+Our Urban Solutions business has deployed its GoParkin™ Electric Vehicle Charging Solution that supports EV charging integration at Dubai Mall. The platform offers real-time visibility, advanced analytics, and seamless user experiences through a mobile app.
+
+The system’s capability to unify car parking and EV charging services on a single cloud-based platform intends to support the nation’s effort towards sustainable urban mobility and transition to EVs.
+
+ST Engineering Energy Solutions, based in Germany, is dedicated to delivering energy solutions that help customers advance energy and climate resilience. Its flagship energy solution - the HubGen 1-MW hydrogen electrolyser - is the first in the HubGen hydrogen solutions product line, and features a decentralised approach to accelerate hydrogen adoption in the global energy transition.
+
+Through a containerised electrolyser, HubGen brings hydrogen closer to where the demand is, eliminating the need for trucked-in gas, while offering a cleaner energy alternative.
+
+HubGen supports sustainability goals and infrastructure resilience. It represents a key outcome of our innovative energy solutions capabilities in advancing the global energy transition, energy sovereignty and sustainable growth.
+
+TransCore’s AI-powered tolling system, implemented in New York City’s Central Business District Tolling Programme, exemplifies how smart infrastructure can drive sustainability. The solution leverages all-overhead technology to reduce vehicle volume in Manhattan’s Congestion Relief Zone, lowering emissions from idling and inefficient traffic flow. Its centralised transaction processing system applies complex pricing models that discourage peak-hour travel and encourage shared mobility services.
+
+The compact, overhead design minimises environmental disruption during installation and maintenance by providing automated vehicle identification and classification without in-ground sensors, reducing the physical footprint and maximising operational efficiency.
+
+TransCore’s solution delivers measurable improvements in air quality, travel speed and urban livability, setting a new benchmark for sustainable mobility in dense metropolitan environments.
+
+Our people are the cornerstone of our success. In a rapidly evolving global landscape, building a capable, motivated, and agile workforce is essential to sustaining innovation, resilience, and growth. We remain vigilant to challenges such as talent competition and shifting workforce expectations, while actively pursuing opportunities to attract top talent, build strong succession pipelines, and invest in our people. Our development initiatives are in place to enhance skills and foster a culture of excellence and continuous improvement.
+
+Our People Strategy focuses on three broad areas: building capability and capacity for sustained growth, developing a high-performing, engaged and future-ready workforce, and enhancing our people practices. We strive to strengthen our collective collaboration efforts to further our aspiration of building a global technology, defence and engineering powerhouse, and to enhance our global diversity and inclusion initiatives to foster a deeper sense of belonging and cohesion.
+
+We maintain a strong talent pipeline through targeted outreach and development programmes which seek to attract diverse, passionate and skilled individuals, in order to build a future-ready workforce. Our engagements with students and early-career professionals include fireside chats and site tours that offer hands-on exposure to our technology and innovation domains.
+
+We also focus our efforts on nurturing future generations in the communities we operate in, ensuring that we grow our local talent pipeline and workforce. In 2025, we hosted 1,115 interns and supported a number of students through scholarships, providing them with meaningful exposure to exciting projects and career possibilities across our diverse business areas, and inspiring them to build their future careers with us.
+
+For the seventh consecutive year, we have been ranked among the top five in Universum’s annual ‘100 Most Attractive Employers’ survey.
+
+The survey, conducted by the global leader in employer branding, gathered responses from over 2,300 Engineering and Natural Sciences students across Singapore’s Institutes of Higher Learning. In 2025, we marked our 14th year offering the Singapore-Industry Scholarship (SgIS), the only multi-industry scholarship programme in partnering with the Singapore government, to groom future leaders in technology, defence and engineering.
+
+We have awarded 157 scholarships to date. To support our scholars and their families, we host engagement sessions that explore career pathways, mentorship support and industry opportunities in ST Engineering.
+
+In Florida, U. S., our Commercial Aerospace’s business unit, Pensacola Aerospace, has partnered with the Mayor’s Office of Pensacola since 2019 to offer a scholarship programme, supporting local students pursuing postsecondary aviation education and developing the next generation of aerospace professionals. We have awarded 27 scholarships to date, celebrating academic excellence and reinforcing our commitment to workforce development in the local community.
+
+We aim to build the capabilities of our employees for future readiness in an evolving global environment and empower them for success through comprehensive learning and development initiatives.
+
+We enhance employee productivity through the adoption of digital tools and AI-enabled technologies, including robotic process automation. The phased rollout of our global HR system streamlines performance and learning management, while people analytics and data visualisation tools support informed decision-making and workforce planning.
+
+To ensure that our workforce is future-ready and agile to market needs, the CTCs at the respective businesses, in close partnership with NTUC and ST Engineering Staff Union (STESU), help identify skills needs in critical areas such as digitalisation, AI and automation and offer relevant upskilling and reskilling programmes to our employees. 700 employees are involved in close to 50 improvement projects, allowing them to apply their enhanced skill sets to achieve better outcomes for the business.
+
+Our Urban Solutions employees in Chennai, India, completed specialised training on platform screen door installation, commissioning, and maintenance, equipping them with advanced skills for efficient project delivery.
+
+This upskilling initiative enhanced their technical competencies and helped to reduce rework, save costs and minimise system downtime, thereby strengthening operational excellence and ensuring reliable service for our customers.
+
+Leadership development is crucial as it strengthens our ability to adapt, grow and succeed. To ensure a strong, ready pipeline of capable individuals who can navigate change, make sound decisions and engage employees, we organise leadership forums, career conversations workshops and curate detailed manager development programmes to help them build the necessary leadership capabilities.
+
+Our Leadership Development Framework is anchored on the following leadership dimensions, which collectively define the attributes and behaviours essential for impactful leadership.
+
+We offer international exposure and collaboration opportunities across the Group to help employees thrive in a global economy. Our mentorship programme connects employees with business leaders, fostering meaningful interactions and learning that develop future leaders, equipping them with the skills and attitude to succeed at ST Engineering.
+
+I’ve transitioned from a ship repair supervisor in the Marine business, where I developed technical and project management skills in a hands-on, outdoor environment, to a business development role in the United Arab Emirates (UAE), under the Defence and Public Security cluster. This experience has broadened my skill set, expanded my strategic thinking, and helped me identify my strengths and interests across diverse work environments.”
+
+“Collaboration fuels progress. My global journey at ST Engineering has empowered me to lead with purpose in delivering greater value for customers while growing alongside extraordinary teams.”
+
+“International experiences across China and the U. S. have been pivotal in shaping my global mindset and reinforcing an appreciation and commitment for innovation, collaboration and the courage to challenge established norms. From cultivating trusted partnerships in Asia to driving strategic alignment in the U. S., I have learnt to bridge cultural and operational differences effectively. I am grateful for the opportunity to grow with the Group and contribute to its continued global success.”
+
+We adopt a performance-based approach with direct linkage between performance and rewards. In the short, medium and long-term, sustained contributions are rewarded through a pay-for-performance principle where the Group’s KPI, business goals, individual performance, internal equity and industry practices are considered.
+
+Listening to and engaging with our employees are critical aspects of our strategy to improve employee experiences at work. We conduct regular town hall meetings, including our Annual Convention, as well as focus group sessions with our Group P&CEO and business leaders.
+
+Our communication channels provide employees with a platform for receiving updates and engaging in meaningful discussions on strategy, market trends and business challenges. By facilitating open dialogues and conducting regular employee surveys, we enable both employees and leaders to listen to diverse perspectives, foster more effective collaboration, and drive us towards greater success.
+
+The event saw a turnout of close to 3,500 colleagues from around the globe, including those who attended virtually.
+
+In line with the theme “Collaborative Innovation for Global Excellence”, participants gained valuable insights from our EXCO members on the strategic direction and business priorities for this year, and how collaboration across businesses and borders is vital for our collective success.
+
+The International Business Conference, held in Singapore, was a key platform for our global business leaders to network, discuss growth strategies, and develop collaborative synergies across the Group.
+
+Employees from Infa Systems, a subsidiary of our Urban Solutions business in Hong Kong, gathered for a dumpling-making experience that brought tradition and teamwork together.
+
+As they prepared Chinese dumplings from scratch, employees from different departments worked side by side, strengthening relationships in a fun and interactive setting.
+
+Our diverse workforce is instrumental in nurturing a dynamic culture that promotes the exchange of ideas, innovation, and personal growth. We foster this by creating an environment rooted in mutual respect and valuing a rich mix of capabilities, perspectives, and experiences.
+
+We are committed to fair employment practices and complies with all national and local labour laws and regulations in the regions where we operate. We offer merit-based equal opportunities to all employees and actively promote training and skills development to support their growth and success.
+
+We conduct regular workshops and training in inclusive practices to further enhance awareness, strengthen collaboration and sense of belonging.
+
+We embrace diverse perspectives, backgrounds and experiences of our employees, and create an inclusive environment that provides equitable opportunities, enabling our people to contribute to the best of their abilities.
+
+Recognising that nurturing the growth of our employees is essential for building a workplace where everyone can thrive, Women@ST Engineering continues to drive initiatives across the Group to support professional development and inclusive leadership. In Singapore, Women@ST Engineering proudly sponsors the ST Engineering Mentoring Circle, a group-wide mentorship programme that connects mentees from diverse backgrounds to support career growth, knowledge exchange and lasting professional relationships.
+
+Our Women@ Work committee in the U. S., an extension of Women@ST Engineering, organised a strategic summit in Pensacola, Florida to coincide with Women’s Equality Day.
+
+The summit focused on empowering women through leadership development, family caregiving and wellness, and featured the Strength Deployment Inventory assessment to deepen team collaboration and self-awareness. These efforts reflect our global commitment to cultivating inclusive leadership and supporting women across all stages of their careers.
+
+As part of our ongoing commitment to foster an inclusive workplace for Persons with Disabilities (PwDs), we organised courses to equip stakeholders with practical knowledge and skills to develop and implement effective recruitment strategies for PwDs.
+
+Participants also engaged in insightful discussions, exploring how the principles of job analysis and job redesign can be applied to make job roles more accessible and responsive to the diverse needs of PwDs. These initiatives are essential for promoting inclusion and cultivating a supportive environment where every employee can thrive.
+
+We are committed to providing all employees with a conducive workplace environment that is free from harassment, discrimination and other prohibited conduct. We do not condone personal bias or prejudice, and advocate for fair recognition across the Group.
+
+We do not discriminate based on age, race, nationality, religion, gender or marital status, and we uphold UNGC’s Principle 6 on eliminating discrimination. In 2025, there were no substantiated incidents of discrimination.
+
+Grievances related to harassment, discrimination or other prohibited conduct are managed through our formal grievance management process, which governs the reporting and handling of such cases. This ensures that all concerns are promptly investigated and resolved with fairness and transparency.
+
+We understand the impact that the Group has on its employees, workers in the supply chain, customers and local communities. We take actions necessary to manage such impact and help to achieve social sustainability and strengthen our ability to operate. In 2025, we developed our Human Rights Framework and conducted our first human rights assessment for selected areas of our operations and value chain, reinforcing our commitment to upholding ethical labour practices and safeguarding the dignity and wellbeing of all individuals we impact.
+
+We respect our employees’ fundamental rights to freedom of association, including the right to be members of trade unions.
+
+In Singapore, the Group recognises STESU as the collective negotiating body in respect of all the terms and conditions of service of the employees covered under the scope of the collective agreement. 25% of employees are represented by STESU and all employees are treated equitably regardless of their membership status.
+
+The third edition of the ST Engineering-STESU Education Awards provided support to close to 150 of our employees’ children in Singapore on their academic journeys. These education awards are a testament to our unwavering commitment to make a difference in the lives of our employees and their children, and to nurture future generations through the power of education.
+
+At ST Engineering, TWSH is an integral part of our business principles, which guides our operations and decisionmaking. We are committed to the fundamental principle of “Safety Before Profit”, which emphasises the importance of people over financial gain. Our aspiration is to achieve a zero-accident workplace, where all employees return home safely every day, supported by a robust system of safety policies, programmes, and practices.
+
+Providing a safe and healthy work environment is not just a legal obligation but also an ethical responsibility that promotes wellbeing and drives long-term success. By ensuring the safety of employees, contractors, and visitors, we create a space where everyone feels secure and valued, thereby instilling a sense of belonging and driving long-term success for the organisation.
+
+Our motto is “Safety Starts with Me”, where we believe that safety is everyone’s responsibility, from senior leadership to frontline workers. Everyone plays an active role in managing risks at their source to prevent potential incidents before they occur.
+
+Our trained risk assessment teams evaluate both routine and non-routine activities globally, implementing control measures to eliminate hazards early on before they occur. Beyond safety, we also identify and address occupational health risks such as heat stress and noise exposure through comprehensive assessments.
+
+We encourage all employees to actively report hazards at the workplace and participate in behaviour-based observations. In the event of an incident, we follow a thorough, transparent, and structured incident response procedure. Regardless of severity, all incidents are recorded, reviewed and investigated to ensure the right lessons are learnt, risk assessments are reviewed and relevant control measures are put in place or strengthened.
+
+We adopt a systematic 5M method (Man, Machine, Medium, Management, and Mission) in our incident investigation process to identify root causes and causal factors, and to take the necessary corrective actions. Learnings from incidents are also shared across the business to raise awareness and prevent recurrence.
+
+Our WSH efforts are led by the Operations Excellence Specialist Team (OEST) WSH, which regularly reviews, strategises and aligns implementation across the group, guided by our WSH Policy and Safety Pledge.
+
+A key leadership-driven initiative is the annual EXCO Safety Walkabout, where senior executives engage employees on-site to reinforce safety culture and ensure adherence to protocol. Our Urban Solutions businesses held a walkabout at the Jurong Region Line Tengah Depot to showcase safety excellence and digital innovation in a major infrastructure project, reflecting leadership’s visible commitment to a safe and productive work environment.
+
+Group Safe Work Environment Engagement Programme We expanded the SWEEP programme across all businesses globally to reinforce compliance with the Group’s EHS Cardinal Rules and raise hazard awareness. Each business area customises its SWEEP programme to address specific operational risks and challenges unique to its environment.
+
+Bi-yearly safety walkabouts led by senior leaders help instil a strong safety culture through site inspections and employee engagement.
+
+Employees receive training on the Active Caring programme and 5S methodology (a five-step systematic approach to workplace organisation and safety), and reaffirm their commitment through the ST Engineering Safety Pledge.
+
+To foster a proactive safety culture across the Group, we launched the Active Caring programme, encouraging a mindset shift from “That’s not my job” to “I care, so I act.” Developed by OEST (WSH), this initiative complements existing hazard and behaviourbased safety programmes and empowers employees to identify and address unsafe behaviours using the “Observe, Intervene, Feedback, and Report” approach. Through the programme, our staff are equipped with clear guidance and aligned with best practices, reinforcing a culture of care, accountability, and consistent safety standards across all business units.
+
+Across the Group, our businesses reference and where applicable, adopt and implement internationally recognised standards such as the ISO 45001 Occupational Health and Safety Management Systems to guide our workplace health and safety practices.
+
+By embedding these standards into our daily operations, we ensure our safety management system not only reflects best practices and regulatory requirements but also drives a proactive and shared commitment to safety across the organisation. Coupled with rigorous internal reviews and independent third-party assessments, we continuously validate that our practices uphold these high standards, reinforce compliance, and foster ongoing improvements in our overall safety performance.
+
+We hold our vendors and contractors to the same high standards of safety as our internal teams. As part of our vendor management process, we ensure they are fully informed of, and compliant with our WSH policies, and collaborate closely with them to address safety gaps and maintain accountability.
+
+Our on-site supervisory teams actively monitor safety compliance to ensure all requirements are met, with corrective actions taken when necessary. We also maintain strong partnerships with our contractors through regular meetings, where we share lessons learnt from past incidents and align on safety expectations, strengthening practices and fostering a safer work environment for everyone.
+
+Building a Safety-first Culture with our Contractors In Singapore, we uphold safety standards for all contractors engaged in relevant works to be certified with at least bizSAFE Level 3 or above. Our businesses have established internal procedures to ensure these certifications are verified before engaging them as our contractors.
+
+In addition, comprehensive safety and health briefings are conducted for all contractors prior to the approval of any Permit-to-Work. These measures ensure alignment with our WSH requirements and reinforce a culture of accountability and risk prevention across all contractors’ works.
+
+We hold regular briefings and meetings with contractors. For example, our Land Systems business conducts annual safety briefings to update contractors on internal safety requirements and shares lessons learned from past incidents to strengthen their safety practices and ensure alignment with our standards.
+
+We leverage cutting-edge technologies, such as robotics, automation, and IoT-based monitoring systems, to proactively prevent workplace incidents.
+
+At our Digital Systems’ warehouse, AGIL® Vision was one of multiple layers of safety mechanisms introduced to ensure only authorised staff with the appropriate level of personal protective equipment are allowed to operate various machinery or equipment.
+
+An alert will be sent to the team leader when an unauthorised or non-compliant personnel operates the equipment.
+
+Complementing this, we integrated geo-fencing technology for forklift operations within the warehouse, establishing virtual boundaries to define designated operating zones.
+
+This safeguard helps prevent forklifts from entering restricted or high pedestrian-traffic areas, significantly reducing the risk of collision with people or equipment.
+
+The health and personal wellbeing of our employees is a key priority. We offer a range of health and wellness programmes, including regular medical check-ups that incorporate audiometric examinations and heat stress monitoring.
+
+These are complemented by wellness workshops, mental health support services, and access to fitness initiatives, all aimed at helping employees maintain a healthy, balanced lifestyle while thriving in the workplace.
+
+Our Land Systems business launched its 2025 WSH Campaign in October, in conjunction with the WSH Council’s “Mental Wellbeing and Health Month”.
+
+A key focus of this campaign is a specially designed programme, developed in collaboration with SportSG, to support the health and wellbeing of the workforce. The programme includes body composition and flexibility assessments with personalised exercise plans created from these results to enhance fitness, mobility, and overall quality of life for older employees.
+
+Our Urban Solutions business continued to champion employee health and wellness through engaging activities that foster both physical fitness and mental resilience.
+
+This includes various badminton and basketball games for staff, creating opportunities for team bonding and stress relief. These initiatives were complemented by mental wellness programmes designed to help employees manage stress effectively and maintain a healthy work-life balance. Through these efforts, we aim to strengthen overall wellbeing, build strong social connections and promote a positive workplace culture.
+
+Since 2022, our Employee Support Programme has provided 24-hour access to confidential guidance for employees and their immediate family members, supporting both personal and work-related challenges. In 2025, we enhanced the programme with legal and financial consultations, as well as tailored support for parents returning to work.
+
+To raise awareness, we conducted roadshows and orientation sessions, supported by intranet ads and email broadcasts through the year. Similar programmes have been progressively expanded to our operations in the U. S. and Europe. In time, we aim to bring this to our global workforce, empowering our employees to focus on what matters most, both professionally and personally.
+
+We believe that education is key to fostering a strong safety culture. Our employees regularly participate in toolbox meetings, training sessions, and safety awareness campaigns. These initiatives ensure that every team member understands their role in maintaining a safe workplace and has the knowledge and tools they need to manage risks effectively.
+
+New employees and workers at ST Engineering undergo a comprehensive WSH induction program as part of the onboarding process. In addition, specialist safety training is provided for high-risk work-related hazards such as lifting, welding, and confined spaces.
+
+Our EHS e-learning module has also been developed to further support new employees. All incoming employees are required to complete this e-learning before confirmation in their roles, ensuring they are well-versed in the Group’s safety standards. Additionally, an online safety quiz is also implemented to ensure all staff are proficient in WSH.
+
+Our Digital Systems and Cyber Annual WSH Convention, themed “Report, Reform, Resilience,” focused on key workplace safety and health topics including industrial hygiene, hygiene monitoring, and SG Secure – promoting community resilience against terrorism.
+
+Our Defence Aerospace and Commercial Aerospace businesses jointly organised the 2025 ST Engineering Aerospace Safety Series, a month-long initiative reaffirming our commitment to aerospace safety. Under the theme “Inspiring Safety Through Leadership and Learning,” the series featured seminars where leaders shared valuable insights and best practices across the aerospace industry.
+
+Interactive activities, including safety quizzes and emergency drills, engaged employees and strengthened awareness of critical safety measures. Through these efforts, we continue to foster a culture of safety, collaboration, and continuous learning, ensuring that aerospace safety remains a top priority across all operations.
+
+Our Defence and Public Security cluster conducted a Safety Workshop that was attended by leaders from all businesses within the cluster. This workshop focused on reviewing proactive safety practices, using leading indicators and open reporting to strengthen our safety culture.
+
+Our commitment to safety was recognised at the 2025 WSH Awards, where we received eight awards.
+
+Our Land Systems and Commercial Aerospace teams earned two WSH Innovation Awards from the Singapore Manufacturing Federation for the Robotisation of Road Wheel Hub Sub-Assembly and Automated Picking and Screening System projects.
+
+In addition, our Marine team received two WSH awards by the WSH Council – WSH Awards for Supervisors, and Safety and Health Award Recognition for Projects (SHARP) for the Multi-Role Combat Vessel (MRCV) and Fairway projects, recognising excellence in safety management throughout the project lifecycle.
+
+Our Urban Solutions business received four Safety, Health and Environmental (SHE) Awards by the Land Transport Authority of Singapore. These include the Construction Safety Excellence Award (for Thomson-East Coast Line), two Construction Safety Merit Awards (for Thomson-East Coast and Downtown Lines) and a WSH Officer Recognition Award.
+
+1. For new cases recorded from 2025 onwards 2. 2023 and 2024 data are not restated and exclude TransCore 3. 2025 data covers all subsidiaries in the Group as per the reporting boundary and includes TransCore 4. A recordable incident is any work-related workplace incident that resulted in a loss of one or more man-days 5.
+
+We recognise that our lives and businesses are deeply intertwined with the communities we operate in. We persevere to do right and do good as we do well because we believe in building an inclusive, resilient and vibrant society in which people can thrive and stay safe.
+
+Guided by our Corporate Purpose, we engage our employees and stakeholders to identify community needs and opportunities for meaningful contributions, seek to improve lives through technology and innovation, and through philanthropy and employee volunteerism.
+
+Our contributions provide additional resources to benefitting organisations to sustain their operations and better serve the community. We support various causes, including healthcare and eldercare, education and environment. To encourage and facilitate employee participation, we actively promote a purpose-driven giving culture through corporate initiatives and engagements.
+
+Awarded the Charity Platinum Award for the seventh consecutive year.
+
+* Includes contributions from the Group, employees and other stakeholders. Matching grants from public and social development initiatives are excluded.
+
+Our U. S. employees with diverse skill sets participated in a hackathon organised by Ruby for Good, a volunteer-driven organisation that develops software solutions for non-profit organisations. The team enhanced digital platforms by fixing bugs, adding new features and improving user interfaces.
+
+We serve our communities through a combination of volunteer work, skills-based contributions, and monetary and in-kind support to build an inclusive, resilient and vibrant society.
+
+In 2025, we focused on delivering sustained impact with our contributions. We collaborated with selected nonprofit organisations to identify their needs and focus on long-term partnerships through multi-year donations and ongoing volunteering.
+
+These efforts help non-profits expand their programmes and secure consistent volunteer support which is crucial for the success of the programmes. By doing so, we aim to create stronger and more sustainable social impact within our communities.
+
+We aim to inspire social change and uplift lives, by collaborating and forging meaningful partnerships with the community, our employees and benefitting organisations.
+
+To foster a strong culture of giving, we create opportunities for our employees to serve actively in community outreach programmes. We also offer various forms of monetary donations, sponsorships and in-kind contributions.
+
+Recognising the importance of supporting elderly individuals, particularly those from lower-income backgrounds, our volunteers in Singapore participated in befriending programmes and interactive activities to help seniors lead active lives filled with dignity, meaningful connections and happiness.
+
+In 2025, our volunteers engaged with 700 seniors across various charities such as St John’s Home for Elderly Persons, Bright Hill Evergreen Home, Orange Valley Nursing Home and PAP Community Foundation Sparkle Care. These engagements uplifted spirits, built meaningful connections and gave our volunteers a deeper sense of purpose through service.
+
+ST Engineering MOVEment, our month-long flagship employee wellness initiative, once again rallied colleagues across the world to stay healthy, keep fit and do good.
+
+Now in its fifth year, ST Engineering MOVEment brought together about 8,600 employees across 24 markets, who collectively walked, ran and cycled a total of 1.05 million kilometres. This initiative raised over $870,000 for community causes, proving that when we MOVE together, we make a lasting impact.
+
+The funds raised were donated to various charities that are aligned with the Group’s supported causes. In Singapore, our donation of $550,000 to President’s Challenge 2025 will support selected beneficiaries. The remaining funds were contributed to other charitable organisations and events, including Hao Ren Hao Shi, PSALT Care, Singapore Botanic Gardens Herbarium and Earthopia 2025 in Singapore; Communities in Schools and Homes for our Troops in the U. S.; Special Olympics Deutschland in Germany; as well as Township of Langley Firefighters Charitable Society in Canada.
+
+We amplified our collective giving impact by leveraging matching grant opportunities available through public and social development initiatives. More than $670,000 of such grants were raised and allocated to the beneficiaries, increasing the value of our total contributions and demonstrating our commitment to maximise social impact through strategic resource allocation in our home market.
+
+In line with our commitment to regular giving and community support, we partnered with Hao Ren Hao Shi in Singapore, to uplift the lives of lowincome families through donations and volunteering initiatives. Over a six-month period, we volunteered at their community mart, Happy Mart@Fernvale. Our volunteers stocked shelves and assisted beneficiaries in their selection of groceries and household items. More than just logistics, our volunteers brought them warmth, empathy, and genuinely connected with them through shared stories and smiles. Through these meaningful interactions, our volunteers not only supported the community but also found personal fulfilment and purpose in giving back.
+
+Our employees from various business units in the U. S. teamed up to donate 800kg of clothing to the local charities. This effort supported families, children and individuals across seven states such as North Carolina, Alabama, Maryland, and Pennsylvania. Led by the Family Caregiving team under Women@Work, the campaign brought comfort and relief to families in need, strengthening local communities across states.
+
+Driven by a shared purpose, over 70 employees from our German joint venture, Elbe Flugzeugwerke GmbH (EFW) employees, devoted a day to giving back through three impactful initiatives. The team joined a bone marrow typification drive with VKS Deutschland providing hope for those fighting blood cancer, helped to refurbish the Panama adventure playground for children and assisted Hatikva e. V. in promoting cultural education. This day of service fostered a spirit of shared responsibility and made a positive impact on the community.
+
+In the month of October, our U. S. employees collaborated for World Habitat Day through a multi-state effort organised by Habitat for Humanity, a global non-profit housing organisation working in local communities globally. From installing flooring in Susquehanna to crafting furniture in Virginia, fitting windows in Miami and rebuilding tornado-devastated homes in Alabama, our teams turned compassion into construction. Despite being in different states, these four teams were united by the single cause, transforming structures into community foundations of hope.
+
+We firmly believe in the transformative power of STEM education. By providing resources and supporting diverse learning pathways across various industries and demographics, we aim to empower communities, with knowledge that enables them to build a brighter and better future.
+
+Our ST Engineering MRAS colleagues in Baltimore, U. S., hosted a vibrant STEM and Culture Day, bringing together employees, students, and community members for a hands-on celebration of innovation, diversity, and community engagement.
+
+The event featured interactive activities such as rocket launches, LEGO® challenges, robot dog demonstrations and the creation of homemade bouncy balls — all designed to spark curiosity and inspire interest in STEM.
+
+Beyond promoting STEM education, the event also served as a platform to strengthen community ties and support charitable causes, reinforcing our commitment to making a positive social impact through inclusive and educational outreach.
+
+Our Defence Aerospace business welcomed students from SHINE Children and Youth Services to our aerospace facility at Seletar Aerospace Park and introduced them to the world of aerospace and engineering.
+
+The students were given a comprehensive tour of our hangar and were shown how checks, maintenance and repairs were done on a Gulfstream aircraft. They also had the rare opportunity to fly a jet on the flight training simulator, with guidance from our instructors from Pacific Flight Services who are ex-Republic of Singapore Air Force pilots.
+
+Through this experience, the students gained a vivid, real-world understanding of how STEM fields can come together to deliver powerful practical applications in the aerospace industry. This immersive experience also ignited the students’ curiosity and enthusiasm for STEM careers while reinforcing our commitment to inspiring and nurturing the next generation of pilots, engineers, technologists and innovators.
+
+For many of the youths, this was their first close encounter with applied science and engineering in action - not from a textbook, but from lived experience. It was a day filled with questions, laughter, and wide-eyed wonder, as they began to see how their own strengths and interests might one day align with careers in technology, aerospace or engineering.
+
+In conjunction with International Volunteer Day, we hosted an innovation and invention workshop for 50 students aged 9 to 14. The event, centred around the inspiring theme of SG100, aimed to ignite young minds to envision a better future and develop creative solutions to improve lives in Singapore.
+
+Our volunteers guided students through a structured approach, incorporating design thinking and prototyping to transform their imaginative ideas into tangible innovations. The workshop not only nurtured creativity and STEM skills but also fostered essential life skills including teamwork, empathy, and confidence amongst participants. It was a meaningful day of learning and sharing between our volunteers and the next generation of innovators.
+
+We aspire to lead community betterment through our knowledge and expertise in technology and innovation to solve real-world problems and improve lives.
+
+For the second consecutive year, our U. S. entities proudly served as a Gold Sponsor of the Ruby for Good community hackathon. Ruby for Good is a non-profit initiative that delivers specialised software solutions to support other non-profits for underserved groups. Volunteers from our U. S. businesses joined engineers nationwide for a four-day event at Shepherd’s Spring Camp and Retreat Centre near Washington, D. C. Participants collaborated closely with non-profit organisations, such as Human Essentials, Court Appointed Special Advocate, and A Window Between Worlds, to understand their operational challenges and co-develop solutions.
+
+The team enhanced digital platforms by fixing bugs, adding new features, and improving user interfaces. These upgrades streamlined workflows, improved usability and strengthened the ability of these organisations to serve communities effectively.
+
+Committed to improving safety and responsiveness in care environments, our Land Systems business collaborated with Moral Welfare Home in Singapore to upgrade its alert system. The enhanced system now includes modified sound alerts integrated with visual indicators such as flashing lights and a digital board for real-time notifications, ensuring clearer and more timely communication during emergencies. This initiative strengthened operational efficiencies and enhanced the safety of residents.
+
+Good governance refers to having the appropriate people, policies and processes to manage the business and affairs of the Group, to enhance long-term stakeholder value while upholding high standards of compliance and ethical business practices.
+
+As a company listed in Singapore, we are bound by SGX listing rules and practice notes, all applicable requirements stipulated in Singapore’s Code of Corporate Governance (2018) and the Companies Act 1967. We comply with applicable laws and regulations in the jurisdictions where we operate.
+
+We are committed to conducting our business in a responsible and ethical manner, and comply with all applicable laws and regulations in the jurisdictions where we operate. We maintain zero tolerance for fraud, bribery, corruption and misconduct across our operations.
+
+A Marine subsidiary was fined $400,000 in January 2025 due to a 2018 workplace accident involving a worker of a sub-contracting firm performing work in our premises.
+
+The Board goes through regular training to enhance their collective knowledge and skills on topics such as corporate governance, anti-corruption and sustainability. Additionally, briefings by external consultants and industry experts are arranged to keep the Board abreast of developments in these areas. More details on the Directors’ training can be found in the “Director Induction, Training/Development” section of the Corporate Governance Report in our Annual Report.
+
+R&A also monitors key risks pertaining to the macroenvironment such as geopolitical tensions and provides updates to the RSC accordingly.
+
+During the year, Presidents of the business areas and relevant Group functions review their respective dashboards of key risks on a rotational basis at the quarterly RSC meetings. These key risks are aggregated to identify the top risk themes which impact the Group’s ability to achieve its strategic objectives. During these engagements, emerging risk trends, critical uncertainties, areas for improvement and action plans are thoroughly reviewed.
+
+We are committed to safeguarding creditors’ rights through robust corporate governance practices. We ensure timely and transparent communication, honouring of contractual obligations, compliance with applicable laws and regulations, fair and equitable treatment of all creditors, and maintaining financial prudence that enables us to meet our obligations towards our creditors when they are due. ST Engineering is rated Aaa by Moody’s and AA+ by S&P Global Ratings.
+
+Our Code of Business Conduct and Ethics forms the foundation of the Group’s commitment to ethical business conduct and regulatory compliance. All reporting lines, responsibilities and accountabilities are clearly defined in our businesses. Employees are advised to reach out to their direct line manager or R&A business partners for clarifications, and guidance on our Code of Business Conduct and Ethics. Employees are informed about the consequences of violating the standards in our Code of Business Conduct and Ethics.
+
+The Group’s operations are assessed for risks related to bribery and corruption as part of our ERM Framework. These risks may relate to third-party suppliers and intermediaries, corruption by employees, gifts and hospitality, donations and sponsorships to business partners and public officials. Our anti-bribery and corruption policy is included in our Code of Business Conduct and Ethics and is available to all our employees.
+
+Our Conflict of Interest policy provides guidance on the different types of conflicts, ranging from financial interest to stakeholder relationships. All employees are required to submit an annual declaration of conflict of interest. All declarations are subject to review by Management, and employees are to comply with the recommended actions to address any conflict.
+
+The Group has a Gifts and Hospitality policy, which sets out clear guidelines and principles on the giving and receipt of gifts and hospitality. This includes charitable donations and sponsorships, where beneficiaries and recipients are reviewed and subject to appropriate due diligence and approval by senior management.
+
+The appointment and re-engagement of all intermediaries are governed by formal policy and procedures that entail a risk-based and thorough due diligence review process supported by independent, established service providers. The due diligence process includes (a) onboarding and ongoing screening against sanctions lists and negative media publicity, (b) mandatory anti-bribery and corruption training, and (c) compliance with our anti-bribery and corruption policy and clauses as part of the terms and conditions of the agreement. In addition, intermediaries are subject to due diligence checks by established, independent third-party service providers prior to, and post appointment.
+
+The Group complies with all applicable laws, regulations, trade sanctions and embargoes (collectively referred to as ECR) governing the import and export of goods, services, software, technology, dual-use goods and information (collectively referred to as “Controlled Items”) of the jurisdictions that the Group operates in, including laws with extraterritorial application.
+
+The Group also strives to ensure that transactions undertaken by any party operating on behalf of the Group, including suppliers, agents, distributors and resellers, comply with applicable ECRs. Strict adherence to this policy is required.
+
+The Group Export Control Policy is applicable across all our businesses. It aims to ensure that all our exports are not used for unauthorised purposes and comply with the applicable ECRs. Our businesses have put in place trade control procedures to embed compliance in the day-to-day business processes, namely commodities classification and screening of customers.
+
+Compliance with ECRs and the maintenance of an effective trade control system are supported by Export Control Officers who are appointed at the Group, regional, country and line of business levels.
+
+Any identified violations are subject to immediate escalation, with corrective actions taken to address the issue and prevent recurrence. All violations are promptly recorded in a central database for management oversight and monitoring of timely corrective actions. Significant violations and remediation measures are reported to the RSC. Additionally, lessons learnt are distilled and shared with target employees.
+
+Our businesses are required to comply with all regulatory and internal policy requirements that are applicable to their trade activities, including proper record-keeping. Records maintained are made available for customer audit and inspection by government officials, as applicable.
+
+The Group adopts a risk-based approach to monitor its transactions. This includes procedures to review sales transactions against sanctions, as well as due diligence screening of customers.
+
+We review the classification of the export item including technical data, technology, software and hardware prior to sharing, transferring and releasing to a third party.
+
+An assessment will also be conducted to ascertain that the classification of export and re-export items, transactions and activities are correct. Additionally, an assessment will be made on whether additional due diligence is required if any “red flags” or diversion risks are detected.
+
+We review the status of the transaction under the applicable ECRs and determine if all the necessary licenses or authorisations have been obtained.
+
+We review all transactions against all applicable destination, party and end use restrictions.
+
+The Group has detailed policies for our employees, as well as training and compliance procedures that are accessible to employees.
+
+Our Code of Business Conduct and Ethics is disseminated to employees globally in the form of digital handbooks and video messages from the EXCO. To reinforce awareness and ensure compliance with our Code of Business Conduct and Ethics, the Group mandates that all employees complete the e-learning module and self-attestation on a yearly basis. Our employees also receive annual training to enhance awareness on the Group’s anti-corruption policies and procedures, and trade compliance. Targeted training is provided for employees whose job functions entail greater involvement with Controlled Items.
+
+To further strengthen our ethical business practices in the digital age, we have implemented an AI Governance Framework. This framework ensures that our use of AI aligns with our guiding principles and processes for safe, ethical and responsible design, development, deployment, and use of AI systems across the Group.
+
+Whistleblowing channels have been established for our employees and other stakeholders to report any potential violations of our Code of Business Conduct and Ethics, policies and regulatory non-compliances.
+
+Our whistleblowing channels provide our employees and other stakeholders with a platform to raise concerns, in confidence, about possible improprieties in business conduct, financial reports or other matters, without the fear of reprisal.
+
+We maintain a strict non-retaliation policy to protect individuals (whether internal or external) from any form of reprisal. Appropriate disciplinary actions will be taken in the event of any findings of breach or non-compliance of our policies or any regulations.
+
+Digital technology and highly connected economies and businesses bring new vulnerabilities from the proliferation of cyber threats. Cybersecurity threats evolve quickly and may include computer viruses, attempts to access information, denial of service and other breaches.
+
+It is commonly recognised that attempts to disrupt or improperly access information technology systems through cyber-attacks or otherwise may cause financial loss, reputational loss, business disruption, and/or data and proprietary information loss.
+
+We protect our data and systems, including those entrusted to us. We also comply with all applicable data protection laws and regulations in the various countries we operate in. Cybersecurity is an enabler for our businesses.
+
+We continue to strengthen our cyber and data resilience with a system of capabilities that comprises people, process and technology. This holistic approach manages cybersecurity risks and the associated data breaches by seeking to keep abreast of the threat landscape and environment. We also implement a multi-layered security framework to ensure there are relevant preventive, detective and recovery measures. We protect internal assets from emerging threats through layered cybersecurity controls, continuous digital footprint reviews and regular cyber exercises.
+
+Our employees are made aware that cybersecurity and data protection is everyone’s responsibility. We regularly train our employees on cybersecurity threats, data privacy and handling, relevant regulations, and best practices. Violations of cybersecurity and data protection policies by our employees will trigger mandatory remedial training, impact their performance evaluation and may result in disciplinary actions.
+
+In the event of a cyber and/or data security breach, employees are required to follow the Group’s escalation process. Additionally, we have a disaster recovery system in place across our core business operations that is designed to enable the recovery of data and the continuation of vital IT and business operations following disruptions caused by natural disasters, human error, technical failures or malicious third-party cyber-attacks.
+
+We continuously review and enhance measures designed to prevent, detect and respond to unauthorised activity in our systems against a constantly evolving cyber landscape and increasing sophistication of cyber-criminals.
+
+At the ST Engineering Cybersecurity Summit 2025, over 1,000 global leaders from government, industry and academia gathered to address the growing intersection of cyber, AI and quantum threats. The summit showcased 15 advanced innovations, including AGIL® Secure AI, Quantum Safe Encryptor, and more, designed to protect critical infrastructure.
+
+A key highlight was the launch of AETHER, an AI-enabled threat-elimination response service for SMEs, reinforcing ecosystem-wide cyber resilience. These efforts reflect our commitment to securing digital infrastructure in over 19 countries and 11 critical sectors. By fostering collaboration and innovation, the summit advances our sustainability goals of building resilient, secure and inclusive communities in an increasingly digital world.
+
+We hosted the ST Engineering Security Seminar to educate and raise cybersecurity awareness among our employees in response to the evolving threat landscape.
+
+Themed “Building Resilient Organisations in an Evolving Threat Landscape,” the seminar brought in cybersecurity professionals and industry experts to share insights on emerging cyber threats, defensive strategies and best practices for maintaining organisational resilience.
+
+By equipping our workforce with up-to-date knowledge and practical guidance on identifying and mitigating cyber risks, we strengthened our collective ability to protect critical systems and data.
+

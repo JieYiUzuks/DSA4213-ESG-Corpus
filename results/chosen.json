@@ -1,0 +1,5 @@
+{
+  "lstm": "lstm_lr3e-3",
+  "rnn": "rnn_lr1e-3",
+  "transformer": "transformer_lr3e-3"
+}

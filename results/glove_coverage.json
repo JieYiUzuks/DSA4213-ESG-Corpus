@@ -1,0 +1,112 @@
+{
+  "vocab_real_types": 5759,
+  "found_in_glove": 5387,
+  "type_coverage": 0.9354054523354749,
+  "train_token_coverage_excl_specials": 0.9586900797558464,
+  "randomly_initialised_rows_incl_unk_eos": 374,
+  "pad_row": "zeros",
+  "init_rule": "Normal(per-dim mean, per-dim std of found GloVe vectors), seed 42",
+  "rescale_factor": 1.8816454410552979,
+  "top_missing_words": [
+    [
+      "<num>",
+      4686
+    ],
+    [
+      "year_2025",
+      866
+    ],
+    [
+      "climate-related",
+      295
+    ],
+    [
+      "keppel's",
+      277
+    ],
+    [
+      "group's",
+      248
+    ],
+    [
+      "year_2024",
+      223
+    ],
+    [
+      "scope_1",
+      157
+    ],
+    [
+      "scope_3",
+      154
+    ],
+    [
+      "fy2025",
+      151
+    ],
+    [
+      "singapore's",
+      139
+    ],
+    [
+      "decarbonisation",
+      136
+    ],
+    [
+      "year_2030",
+      125
+    ],
+    [
+      "sia's",
+      118
+    ],
+    [
+      "cbre's",
+      110
+    ],
+    [
+      "year_2026",
+      102
+    ],
+    [
+      "tco2e",
+      93
+    ],
+    [
+      "year_2023",
+      87
+    ],
+    [
+      "sustainability-related",
+      76
+    ],
+    [
+      "company's",
+      72
+    ],
+    [
+      "year_2050",
+      72
+    ],
+    [
+      "scope_2",
+      70
+    ],
+    [
+      "scoot's",
+      66
+    ],
+    [
+      "year_2021",
+      59
+    ],
+    [
+      "nature-related",
+      52
+    ],
+    [
+      "year_2022",
+      44
+    ]
+  ]
+}

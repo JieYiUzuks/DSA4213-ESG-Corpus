@@ -1,0 +1,48 @@
+lstm_glove_init_s43 | device=mps | params=2,423,626 (trainable 2,423,626)
+ep 01  train 6.077  val 6.014  val_ppl 409.1
+ep 02  train 5.532  val 5.525  val_ppl 251.0
+ep 03  train 5.166  val 5.235  val_ppl 187.7
+ep 04  train 4.915  val 5.055  val_ppl 156.8
+ep 05  train 4.729  val 4.941  val_ppl 139.9
+ep 06  train 4.568  val 4.842  val_ppl 126.7
+ep 07  train 4.440  val 4.770  val_ppl 117.9
+ep 08  train 4.332  val 4.718  val_ppl 111.9
+ep 09  train 4.241  val 4.680  val_ppl 107.7
+ep 10  train 4.149  val 4.641  val_ppl 103.6
+ep 11  train 4.080  val 4.613  val_ppl 100.8
+ep 12  train 4.009  val 4.587  val_ppl 98.2
+ep 13  train 3.945  val 4.571  val_ppl 96.7
+ep 14  train 3.886  val 4.551  val_ppl 94.7
+ep 15  train 3.831  val 4.533  val_ppl 93.0
+ep 16  train 3.786  val 4.525  val_ppl 92.3
+ep 17  train 3.732  val 4.508  val_ppl 90.8
+ep 18  train 3.683  val 4.498  val_ppl 89.8
+ep 19  train 3.647  val 4.489  val_ppl 89.1
+ep 20  train 3.604  val 4.483  val_ppl 88.5
+ep 21  train 3.566  val 4.470  val_ppl 87.4
+ep 22  train 3.530  val 4.471  val_ppl 87.5
+ep 23  train 3.496  val 4.466  val_ppl 87.0
+ep 24  train 3.461  val 4.468  val_ppl 87.1
+ep 25  train 3.427  val 4.458  val_ppl 86.3
+ep 26  train 3.397  val 4.461  val_ppl 86.6
+ep 27  train 3.370  val 4.456  val_ppl 86.2
+ep 28  train 3.335  val 4.451  val_ppl 85.7
+ep 29  train 3.307  val 4.446  val_ppl 85.3
+ep 30  train 3.278  val 4.451  val_ppl 85.8
+ep 31  train 3.249  val 4.444  val_ppl 85.1
+ep 32  train 3.225  val 4.447  val_ppl 85.4
+ep 33  train 3.201  val 4.453  val_ppl 85.9
+ep 34  train 3.176  val 4.448  val_ppl 85.4
+ep 35  train 3.155  val 4.452  val_ppl 85.8
+ep 36  train 3.132  val 4.451  val_ppl 85.7
+ep 37  train 3.109  val 4.453  val_ppl 85.9
+ep 38  train 3.088  val 4.452  val_ppl 85.8
+ep 39  train 3.068  val 4.448  val_ppl 85.4
+early stop
+{
+  "test_loss": 4.4504126976247695,
+  "test_ppl": 85.66228933157163,
+  "params_total": 2423626,
+  "train_time_s": 259.73677671002224,
+  "infer_tokens_per_s": 139173.3804806458
+}

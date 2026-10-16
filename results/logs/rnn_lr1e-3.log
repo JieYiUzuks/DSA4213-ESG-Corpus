@@ -1,0 +1,94 @@
+rnn_lr1e-3 | device=mps | params=2,148,682 (trainable 2,148,682)
+ep 01  train 6.271  val 6.199  val_ppl 492.5
+ep 02  train 5.967  val 5.926  val_ppl 374.8
+ep 03  train 5.712  val 5.713  val_ppl 302.7
+ep 04  train 5.515  val 5.563  val_ppl 260.6
+ep 05  train 5.359  val 5.446  val_ppl 231.8
+ep 06  train 5.207  val 5.337  val_ppl 207.9
+ep 07  train 5.085  val 5.265  val_ppl 193.4
+ep 08  train 4.983  val 5.200  val_ppl 181.3
+ep 09  train 4.892  val 5.149  val_ppl 172.2
+ep 10  train 4.814  val 5.107  val_ppl 165.2
+ep 11  train 4.733  val 5.067  val_ppl 158.7
+ep 12  train 4.666  val 5.038  val_ppl 154.1
+ep 13  train 4.595  val 5.003  val_ppl 148.8
+ep 14  train 4.540  val 4.982  val_ppl 145.8
+ep 15  train 4.481  val 4.960  val_ppl 142.6
+ep 16  train 4.428  val 4.937  val_ppl 139.4
+ep 17  train 4.378  val 4.919  val_ppl 136.8
+ep 18  train 4.339  val 4.906  val_ppl 135.1
+ep 19  train 4.301  val 4.895  val_ppl 133.6
+ep 20  train 4.250  val 4.875  val_ppl 131.0
+ep 21  train 4.219  val 4.865  val_ppl 129.6
+ep 22  train 4.176  val 4.849  val_ppl 127.7
+ep 23  train 4.142  val 4.842  val_ppl 126.8
+ep 24  train 4.112  val 4.834  val_ppl 125.7
+ep 25  train 4.074  val 4.820  val_ppl 123.9
+ep 26  train 4.057  val 4.823  val_ppl 124.3
+ep 27  train 4.019  val 4.811  val_ppl 122.8
+ep 28  train 3.990  val 4.803  val_ppl 121.9
+ep 29  train 3.962  val 4.790  val_ppl 120.3
+ep 30  train 3.939  val 4.788  val_ppl 120.0
+ep 31  train 3.903  val 4.774  val_ppl 118.3
+ep 32  train 3.883  val 4.773  val_ppl 118.3
+ep 33  train 3.867  val 4.775  val_ppl 118.5
+ep 34  train 3.837  val 4.762  val_ppl 117.0
+ep 35  train 3.815  val 4.755  val_ppl 116.2
+ep 36  train 3.795  val 4.753  val_ppl 115.9
+ep 37  train 3.775  val 4.750  val_ppl 115.6
+ep 38  train 3.750  val 4.744  val_ppl 114.9
+ep 39  train 3.729  val 4.738  val_ppl 114.3
+ep 40  train 3.714  val 4.738  val_ppl 114.2
+ep 41  train 3.694  val 4.733  val_ppl 113.6
+ep 42  train 3.681  val 4.733  val_ppl 113.6
+ep 43  train 3.663  val 4.730  val_ppl 113.3
+ep 44  train 3.652  val 4.735  val_ppl 113.9
+ep 45  train 3.623  val 4.721  val_ppl 112.3
+ep 46  train 3.616  val 4.721  val_ppl 112.3
+ep 47  train 3.599  val 4.720  val_ppl 112.2
+ep 48  train 3.583  val 4.714  val_ppl 111.5
+ep 49  train 3.564  val 4.710  val_ppl 111.0
+ep 50  train 3.554  val 4.711  val_ppl 111.2
+ep 51  train 3.547  val 4.717  val_ppl 111.8
+ep 52  train 3.530  val 4.717  val_ppl 111.8
+ep 53  train 3.508  val 4.707  val_ppl 110.7
+ep 54  train 3.499  val 4.706  val_ppl 110.6
+ep 55  train 3.492  val 4.710  val_ppl 111.0
+ep 56  train 3.475  val 4.703  val_ppl 110.2
+ep 57  train 3.463  val 4.700  val_ppl 110.0
+ep 58  train 3.455  val 4.703  val_ppl 110.3
+ep 59  train 3.439  val 4.706  val_ppl 110.6
+ep 60  train 3.430  val 4.700  val_ppl 110.0
+ep 61  train 3.416  val 4.702  val_ppl 110.2
+ep 62  train 3.407  val 4.697  val_ppl 109.6
+ep 63  train 3.391  val 4.695  val_ppl 109.4
+ep 64  train 3.381  val 4.697  val_ppl 109.6
+ep 65  train 3.374  val 4.697  val_ppl 109.6
+ep 66  train 3.363  val 4.693  val_ppl 109.1
+ep 67  train 3.350  val 4.691  val_ppl 109.0
+ep 68  train 3.341  val 4.694  val_ppl 109.3
+ep 69  train 3.331  val 4.691  val_ppl 108.9
+ep 70  train 3.323  val 4.693  val_ppl 109.2
+ep 71  train 3.324  val 4.704  val_ppl 110.4
+ep 72  train 3.307  val 4.694  val_ppl 109.3
+ep 73  train 3.292  val 4.689  val_ppl 108.7
+ep 74  train 3.285  val 4.693  val_ppl 109.1
+ep 75  train 3.280  val 4.688  val_ppl 108.7
+ep 76  train 3.272  val 4.695  val_ppl 109.4
+ep 77  train 3.265  val 4.687  val_ppl 108.5
+ep 78  train 3.254  val 4.687  val_ppl 108.5
+ep 79  train 3.249  val 4.691  val_ppl 109.0
+ep 80  train 3.238  val 4.690  val_ppl 108.9
+ep 81  train 3.230  val 4.688  val_ppl 108.6
+ep 82  train 3.220  val 4.689  val_ppl 108.7
+ep 83  train 3.223  val 4.692  val_ppl 109.1
+ep 84  train 3.214  val 4.699  val_ppl 109.9
+ep 85  train 3.199  val 4.690  val_ppl 108.9
+early stop
+{
+  "test_loss": 4.677264337341832,
+  "test_ppl": 107.47565290825402,
+  "params_total": 2148682,
+  "train_time_s": 640.0958395395428,
+  "infer_tokens_per_s": 160897.03737459244
+}

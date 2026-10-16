@@ -1,0 +1,33 @@
+{
+  "tag": "transformer_lr3e-3_s44",
+  "model": "transformer",
+  "args": {
+    "model": "transformer",
+    "emb": 100,
+    "hidden": 256,
+    "layers": null,
+    "heads": 4,
+    "ff": 256,
+    "dropout": 0.3,
+    "lr": 0.003,
+    "wd": 0.01,
+    "bs": 64,
+    "epochs": 250,
+    "patience": 8,
+    "seed": 44,
+    "tag": "transformer_lr3e-3_s44",
+    "emb_weights": null,
+    "freeze_emb": false
+  },
+  "best_val_loss": 4.556747685570885,
+  "best_val_ppl": 95.27311727131686,
+  "test_loss": 4.547958849669409,
+  "test_ppl": 94.43944634259894,
+  "params_total": 1349474,
+  "params_trainable": 1349474,
+  "train_time_s": 634.23721491592,
+  "epochs_run": 97,
+  "best_epoch": 89,
+  "infer_tokens_per_s": 151133.3393910215,
+  "hardware": "macOS-15.1.1-arm64-arm-64bit-Mach-O | arm | torch 2.14.1 | mps"
+}

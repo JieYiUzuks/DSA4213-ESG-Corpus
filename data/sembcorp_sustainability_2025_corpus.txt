@@ -1,0 +1,4569 @@
+Sustainability Report
+Our Sustainability Framework
+Our Approach
+• Reporting Framework
+• Materiality​
+• Reporting Scope
+• Assurance
+• Supporting the Sustainable Development Goals
+• Sustainability Governance and Board Statement
+• Sustainability-linked Performance Incentives
+• Memberships and Associations
+Our Environmental, Social and Governance Priorities
+• Climate Action
+– Energy Transition
+• Empowering Lives
+– Human Capital Management
+– Community Investment
+• Resilient Business
+– Health and Safety
+– Risk Governance
+Climate-related Disclosures
+Supplemental Information
+• Performance Indicators
+• GRI Content Index
+• Independent Assurance Statement
+Sembcorp Banyan Energy Storage System at Jurong Island, Singapore
+
+Our Sustainability Framework GRI 3-2
+Energy companies play a transformative role in an inclusive energy transition.
+Delivering on this commitment begins with clarity on the sustainability priorities that shape our actions. Our refreshed Sustainability Framework reflects the material sustainability factors imperative for us to focus on and manage well, as we support Asia’s shift to a lower-carbon and responsible future.
+Performance
+Target
+Material Sustainability Topics
+Why This is Material
+Material Sustainability Factors
+2025 Performance against Targets1
+Reliability Factor
+(Gas-fired Power Plants)
+GHG Emissions
+Intensity
+Gross Installed Renewable
+Energy Capacity
+20352
+2028
+2025
+Energy
+Transition
+99.8%
+25GW
+Climate
+Action
+0.21
+tCO2e/MWh
+15GW
+0.26
+tCO2e/MWh
+97.2%
+Sector
+benchmark
+Climate Risks
+(addressed in Climate-related Disclosures)
+Climate change is reshaping markets and economies. As an energy and urban solutions provider, we play a key role in supporting a responsible energy transition aligned to national plans and policies, facilitating the shift to lower-carbon energy in ways that maintain reliability, keep energy accessible and meet the practical needs of the markets we serve. This transition will evolve amid changing market dynamics, and its pace and direction will shape the risks we
+manage and opportunities we pursue. Operations with Community Development Programmes
+Number of Employees and
+Partners Upgraded
+2025
+Ongoing
+Human
+Capital
+Management
+Empowering
+Lives
+1,983
+100%
+100%
+People power the transition. We invest
+in our workforce and the communities
+where we operate to build capabilities,
+deepen expertise and promote inclusive
+growth. When our employees and
+communities thrive, so does our
+collective future.
+Community
+Investment
+Work-related
+Fatalities
+Integrated Assurance
+Framework
+Implementation
+Employee Completion
+of Anti-bribery
+and Corruption Training
+Ongoing
+Ongoing
+Ongoing
+Health and
+Safety
+Resilient
+Business
+100%
+100%
+100%
+100%
+Contractor
+Risk
+Governance
+Resilience is built on the ability to
+anticipate, manage and respond to risk.
+For Sembcorp, this means maintaining
+strong governance, rigorous compliance
+and proactive risk management. It also
+means cultivating a safety-first culture
+while staying agile in navigating
+disruptions such as economic shocks,
+cyber threats, extreme weather or
+evolving policies. Our goal is to
+safeguard people, maintain business
+continuity and uphold the trust that
+stakeholders place in us.
+1 For details and additional context on the data presented, please refer to the corresponding sections in this report
+2 Target updated in December 2025. For more information, please refer to Our Climate Action Targets section of the Climate-related Disclosures 2025
+
+Our Approach
+For more information on how we
+support SDGs 7 and 13, please refer
+to the Supporting UN Sustainable
+Development Goals section on Our
+Approach to Sustainability webpage.
+Sustainability Governance
+In March 2025, we completed the
+divestment of Sembcorp Environment,
+an integrated waste management
+services provider. The pro-rated
+emissions of Sembcorp Environment
+have been included, while other
+sustainability data have been excluded
+from this report.
+In line with our purpose to drive the
+energy transition, we have adopted
+SDG 7 (Affordable and Clean Energy)
+and SDG 13 (Climate Action) as
+our priority SDGs. Our strategic
+targets support these SDGs. We
+recognise that the SDGs provide a
+holistic framework for sustainable
+development and will continue to
+manage other relevant areas to
+maximise positive impacts while
+minimising negative impacts.
+2. Rating the aspects internally and
+obtaining sentiments of key
+stakeholder groups through the
+relevant relationship holders
+within the company.
+3. Prioritising the aspects to develop
+the material sustainability factors,
+following which corresponding
+metrics and targets were
+developed.
+4. Validating the material
+sustainability factors, metrics and
+targets in consultation with our
+senior executives and the board.
+In June 2025, we increased our
+effective interest in Senoko Energy
+from 30% to 50%. The pro-rated
+emissions of Senoko Energy have been
+included in this report.
+GRI 2-9 | 2-12 | 2-13 | 2-14
+Sembcorp’s Board of Directors
+oversees the business affairs of the
+Group. The board provides leadership
+on Sembcorp’s overall strategy, which
+takes into consideration its material
+sustainability factors.
+Supporting the Sustainable
+Development Goals
+The United Nations (UN) Sustainable
+Development Goals (SDGs) were
+adopted by the UN in 2015 as a global
+development framework that seeks to
+end poverty, protect the planet and
+bring about peace and prosperity.
+The scale and ambition of the SDGs
+mean they cannot be achieved by
+governments alone, and require
+the collective effort of businesses,
+organisations and society. Sembcorp
+believes in playing its part to help
+meet these goals.
+Board of Directors
+Executive
+Committee
+Audit Committee
+and Risk Committee
+Reporting Framework
+Our Sustainability Report has been
+prepared with reference to the Global
+Reporting Initiative (GRI) Standards,
+Singapore Exchange Limited (SGX)
+Listing Rules 711A and 711B, Practice
+Note 7.6 Sustainability Reporting
+Guide and SGX Core Environmental,
+Social and Governance (ESG) Metrics.
+Climate-related disclosures are
+mandatory with effect from financial
+year (FY) 2023, and in this FY2025
+report, we have transitioned from
+the Task Force on Climate-related
+Financial Disclosures framework to
+the International Financial Reporting
+Standards (IFRS) Sustainability
+Disclosure Standards – IFRS S1
+(General Requirements) and IFRS S2
+(Climate-related Disclosures) issued
+by the International Sustainability
+Standards Board (ISSB). Our previous
+Sustainability Report was published
+in April 2025.
+Supervises the Group’s strategy and business affairs
+Monitor and report key business risks
+Executive
+Resource &
+Compensation
+Committee
+Reporting Scope GRI 2-2 | 2-3
+Our report provides information
+on Sembcorp and its subsidiaries
+and covers the period from January
+1 to December 31, 2025. It
+excludes operations, joint ventures,
+partnerships and associates where
+Sembcorp does not have control,
+with the exception of greenhouse gas
+(GHG) emissions data. GHG emissions
+data are reported using the equity
+share approach and with reference
+to the GHG Protocol and relevant
+local regulatory guidelines.
+Materiality GRI 2-14 | 3-1
+Our materiality assessment process
+takes guidance from the GRI
+Standards. The Board of Directors
+reviews and approves our material
+sustainability factors annually.
+Investment &
+Divestment Committee
+chaired by Group CEO
+Senior Leadership
+Council
+chaired by Group CEO
+Enterprise Risk
+Committee
+chaired by Group CEO
+In December 2025, we entered into
+a share sale agreement to acquire
+100% of Pioneer Sail Holdings Pty Ltd
+and Latrobe Valley Power (Holdings)
+Pty Ltd. The proposed acquisition
+includes the generation and retail
+business of Alinta Energy and Loy
+Yang B coal-fired power station in
+Victoria, Australia. Upon completion
+of the proposed acquisition, the
+emissions data from the acquired
+portfolio will be accounted for and
+reported in the next Sustainability
+Report. Other sustainability metrics
+will be reported once a full calendar
+year of data becomes available, subject
+to data access.
+Sets key
+performance
+indicators for key
+management
+executives
+As part of our transition to ISSB
+reporting, we have tightened our
+reporting scope across all metrics
+to align with financial reporting
+boundaries.
+Management of
+enterprise risks including
+climate-related risks
+Evaluation of investments and
+divestments including financial,
+operational, legal, compliance, and
+environmental and social risks
+Monitoring of the company’s strategy,
+policies, guidelines, financial and
+operational performance, including
+material sustainability factors
+For more information on our
+key acquisitions, divestments and
+concession expiry, please refer to the
+Company Announcements section
+on our News and Insights webpage.
+Climate Change Working Committee
+Acquisitions and greenfield projects
+• GHG emissions data: Pro-rated for
+current year
+• Other sustainability data: Excluded
+from our report until a full
+calendar year of data is available
+We undertook a comprehensive review in
+2025 to assess the continued relevance
+and materiality of our sustainability
+factors. The update in our material
+sustainability factors encapsulates
+the impacts, risks and opportunities
+from the global energy transition. Our
+refreshed Sustainability Framework
+on page 40 articulates our material
+sustainability factors and focus.
+chaired by
+Executive Vice President,
+Group CEO Office
+supported by
+Corporate functions including Sustainability, Asset Performance,
+Finance, Portfolio Management, Risk and Strategy
+Group
+Human
+Resources
+Our assessment followed a four-step
+process:
+Oversees and directs the management of Sembcorp’s climate-related risks and opportunities
+Assurance GRI 2-5
+We have engaged DNV Business
+Assurance Singapore Pte. Ltd. (DNV)
+to undertake an independent limited
+assurance of the sustainability
+performance data in our report.
+The Assurance Statement can be
+found on pages 84 to 87.
+Divestments and concession expiry
+• GHG emissions data: Pro-rated for
+current year
+• Other sustainability data: Excluded
+from our report for the full
+calendar year of data
+1. Identifying potential ESG aspects
+through the review of ESG rating
+reports, internationally-recognised
+ESG standards and frameworks,
+peer benchmarking, as well as
+global and industry studies on risks
+and sector trends.
+
+Our ESG Priorities
+Climate Action
+Our Approach
+Energy Transition GRI 3-3 | 305-1 | 305-2 | 305-3 | 305-4
+The following board committees
+provide oversight on sustainability
+and climate change matters:
+Why this
+is material
+The realities of the global energy system are challenging the progress towards decarbonisation. Global
+energy demand continues to increase, especially in Asia’s rapidly developing economies, even as renewable
+energy deployment scales rapidly. The transition to lower-carbon energy will require countries to overcome
+challenges including renewable energy intermittency, grid infrastructure constraints and policy uncertainties.
+Diverging national priorities are shaping the scale and pace of progress towards net zero. The transformation
+of energy systems will reshape the global economy, and require nations to manage trade-offs across
+geopolitics, economics and resources.
+• Executive Committee
+Provides oversight and supervision
+of the Group’s strategy and
+business affairs, including its
+Climate Action Plan
+Sustainability-linked
+Performance Incentives
+ESG KPIs are a part of the annual
+performance scorecard of our senior
+executives. These include health
+and safety indicators, as well as
+environmental indicators such as GHG
+emissions intensity and gross installed
+renewable energy capacity.
+Board Statement
+Sembcorp’s Board of Directors
+is collectively responsible for
+the long-term success of the
+company. The board takes into
+consideration sustainability issues
+in relation to Sembcorp’s business
+and strategy. It has determined
+Sembcorp’s material ESG factors
+and exercised oversight in the
+management and monitoring of
+these material factors.
+For more information on our
+performance against targets, please
+refer to the 2025 Performance
+highlights on page 41.
+Our
+approach
+As an energy company with thermal and renewable assets, we are cognisant of the complexity in addressing
+the energy trilemma of energy security, accessibility and sustainability. Given the evolving nature and volatility
+of energy markets in transition, integration between financial planning and growth is closely monitored
+annually and calibrated as needed. Key considerations include country electricity demand drivers, renewables
+deployment, grid capacity, and enablers for adopting and scaling up lower-carbon energy. This includes how
+local policies are shaping the market’s energy mix and investment risks in the transition to net zero. Reliable
+baseload generation continues to play an essential role in grid stability and energy accessibility.
+The Group’s plans are guided by a long-term view of net zero by 2050, and shorter-term plans consider specific
+market risks and opportunities. The board approves the Group’s strategy and monitors its performance annually.
+• Audit Committee (AC) and
+Risk Committee (RC)
+Endorse the Group’s policies,
+guidelines and systems to manage
+risks including climate-related
+risks. Report to the board on
+the adequacy and effectiveness
+of the Group’s internal controls
+and risk management systems
+Memberships and
+Associations GRI 2-28
+Our Group CEO serves as vice chair,
+Asia, World Energy Council.
+Participation in sustainability rating
+Climate Risks have been identified in our materiality assessment as a material factor; to avoid duplication,
+our climate risk disclosures can be found in our Climate-related Disclosures.
+Sembcorp’s Senior Leadership Council
+(SLC) and Enterprise Risk Committee
+(ERC) provide strategic direction for
+managing sustainability-related
+matters. The committees are chaired
+by our Group CEO and comprise
+senior executives who are accountable
+for the management of Sembcorp’s
+material sustainability factors.
+For more information on our climate-related risks and opportunities and how they are managed, as
+well as our Climate Action Plan and targets, please refer to the Climate-related Disclosures section on pages
+64 to 74. Our Climate Action Plan can also be found on Our Approach to Sustainability webpage.
+As of March 23, 2026, Sembcorp
+Industries received an MSCI ESG
+Rating of AAA
+• Executive Resource &
+Compensation Committee (ERCC)
+Assists the board in reviewing
+the remuneration framework
+and endorses key performance
+indicators (KPIs) of our key
+management executives,
+including ESG KPIs
+Emissions and plant performance parameters are integrated and tracked quarterly on various enterprise
+platforms, including our Integrated Assurance Framework (IAF). Emissions impact is monitored and
+reviewed as part of our annual strategic and financial planning exercise, investment approvals and portfolio
+management process. We work with partners to grow our renewable energy capacity, support reliable
+energy needs and explore new decarbonisation solutions. We apply digital tools and engineering excellence
+to operate our plants optimally, and implement measures to mitigate cyber risks and other disruptions,
+contributing towards energy reliability.
+Sustainability Contact GRI 2-3
+We welcome feedback on our
+sustainability factors and reporting
+at sustainability@sembcorp.com
+The SLC convenes twice a month,
+where sustainability-related
+performance and updates are
+presented regularly. The ERC convenes
+quarterly, and climate-related risks are
+monitored as part of our ERC platform.
+The Group Sustainability function leads
+the integration of sustainability matters
+for the company and reports to the
+group chief financial officer.
+For more information on the
+roles and responsibilities of the
+board, please refer to the Corporate
+Governance Statement on pages
+91 and 92.
+We recognise the interlinkage and impact of climate change on biodiversity and have established an early
+detection process to assess environmental and social risks. Our environmental and social risk screening
+process, which utilises tools such as the Integrated Biodiversity Assessment Tool, is incorporated into our
+investment approval process, and key risks are assessed to inform investment decisions.
+Our
+policies and
+frameworks
+• Climate Action Plan
+• Group Health, Safety, Security and
+Environment (GHSSE) Policy Statement
+• Group Internal Carbon Pricing Framework
+Reference
+standards
+and
+frameworks
+For more information on our
+governance of climate-related
+matters, please refer to the Energy
+Transition section and Climate-related
+Disclosures section on pages 45 and
+56 respectively.
+• GHG Protocol
+• International Organisation for
+Standardisation (ISO) 14064-1 and -2:
+Greenhouse Gases
+• IFRS Sustainability Disclosure
+Standards 1 and 2
+Our
+governance
+Sembcorp’s Climate Change Working Committee (CCWC) oversees the development of plans, processes
+and reports that address the Group’s climate-related risks and opportunities. Its role includes reviewing and
+developing policies and frameworks, assessing risks and opportunities, setting targets and implementing
+relevant initiatives, as well as facilitating reporting and performance disclosure. This committee is chaired
+by the Executive Vice President, Group CEO office, and supported by Group Sustainability as secretariat.
+The committee meets quarterly and provides updates to our ERC, as well as the board’s RC.
+The ERC and RC meet quarterly to review and enhance the effectiveness of the Group’s IAF, including its
+risk management plans, systems, processes and procedures. The committees regularly review group-wide
+risks, including climate-related risks. The ERCC supports the inclusion of ESG KPIs and targets such as GHG
+emissions intensity and gross installed renewable energy capacity for key management executives.
+
+Our ESG Priorities
+Climate Action
+Sustainable Finance: Annual Update 2025
+In August 2021, Sembcorp launched its Sustainable Financing Framework (SFF). The framework outlines three KPIs –
+KPI 1: GHG emissions intensity1, KPI 2: GHG absolute emissions and KPI 3: Gross installed renewable energy capacity3.
+DNV provided a second party opinion, confirming alignment of the framework with the Sustainability-linked Bond
+Principles 2020 and Sustainability-linked Loan Principles 2021.
+The sustainability-linked loans and sustainability-linked bond issuances cover KPI 1 and KPI 3, and the performance
+of both KPIs has been externally reviewed by DNV. We met the targets for KPI 1 and KPI 3 in 2023 and 2024
+respectively, and these targets have also been met in 2025.
+2025 marks the Sustainability Performance Targets (SPTs) observation date for the two KPIs. With KPI 1 and KPI 3
+having been met, this will be the final performance update in relation to our performance against the KPIs set out in
+the sustainability-linked loans and sustainability-linked bond issuances.
+Performance against SPTs as at December 31, 2025
+Our
+performance
+• Absolute GHG emissions (Scope 1 and 2) reduced to 7.7 million tonnes of carbon dioxide equivalent
+(million tCO2e), primarily due to the divestment of Chongqing Songzao coal-fired power plant in
+December 2024.
+• GHG emissions intensity1 reduced to 0.21 tonnes of carbon dioxide equivalent per megawatt-hour
+(tCO2e/MWh), driven by the reduction in absolute GHG emissions and increase in our renewable
+energy generation.
+•
+Scope 3 emissions2 remained relatively stable at 15.3 million tCO2e in 2025.
+• Our gross installed renewable energy capacity3 grew from 13.1GW in 2024 to 15.0GW in 2025.
+The renewable energy generated by our operating assets is equivalent to approximately 10.4 million
+tCO2e emissions avoided4. As at December 31, 2025, our global energy portfolio mix, based on
+gross installed capacity, stands at 33% from Gas and Related Services and 67% from Renewable
+Energy. This portfolio mix supports reliable energy delivery while enabling a sustainable transition
+to low-carbon alternatives.
+•
+Our gas-fired power plants delivered a reliability factor of 99.8% benchmarked against the Strategic Power
+Systems, Inc. (SPS)’s global Operational Reliability Analysis Program (ORAP®)5 factor of 97.2% as at 3Q2025.
+•
+In 2025, over 100 environmental and social risk screenings were conducted for potential investment projects.
+KPIs
+2020
+Baseline
+2025
+SPTs
+2025
+Performance
+SPTs
+Achieved
+KPI 1:
+GHG emissions intensity1
+(tCO2e/MWh)
+0.54
+0.40
+0.21
+Absolute Scope 1, 2 and 3 GHG Emissions (ktCO2e)
+Absolute GHG Emissions (Scope 1 and 2) (million tCO2e)
+and Emissions Intensity (tCO2e/MWh)
+16,988r
+15,230r
+15,340
+KPI 3:
+Gross installed renewable energy capacity3
+(GW)
+2.6
+10.0
+15.0
+0.29
+0.27
+10,184
+9,054
+7,425
+0.21
+10.5
+For more information on the SFF, Second Party Opinion and Independent Limited Assurance Report, please refer
+to the Sustainable Financing section on Creating Shareholder Value webpage.
+9.3
+7.7
+2023
+2024
+2025
+■ Scope 1 ■ Scope 2 ■ Scope 3
+Gross Installed Renewable Energy Capacity (GW)
+25.0
+13.1
+15.0
+9.4
+2023
+2024
+2025
+Absolute GHG emissions GHG emissions intensity
+2023
+2024
+2028 target
+2025
+r We restated the total Scope 3 GHG emissions for 2024 and 2023. For more information, please refer to Supplemental Information: Performance Indicators
+section on pages 76 to 77
+1 GHG emissions intensity refers to the Group’s total GHG direct emissions (Scope 1) from its activities, indirect emissions (Scope 2) from its energy
+consumption and biogenic emissions from bioenergy feedstocks, divided by total energy generated and purchased, as calculated using an equity share
+approach for all operations referencing the GHG Protocol. It covers subsidiaries, joint ventures and associates
+For more information on our Climate Action Plan and targets, please refer to the Climate-related Disclosures section on
+pages 71 to 74.
+2 Indirect (Scope 3) GHG emissions reported include: Fuel- and energy-related activities (Category 3), Use of sold products (Category 11), and Investments
+(Category 15); which together account for majority of our Scope 3 emissions
+3 Gross installed renewable energy capacity refers to gross capacity of the plant at commercial operation date (in megawatt alternating current for wind,
+solar and hydropower, and in megawatt-hour for energy storage) as specified in the grid connection agreement or as permitted (assumes 100% ownership
+of the facility). Figure excludes acquisitions pending completion and projects secured or under construction
+4 Annual avoided emissions are calculated based on the methodology set out by the UN Framework Convention on Climate Change: Clean Development
+Mechanism, host country’s grid emission factor and the annual attributable generation. Annual attributable generation refers to equity-based generation
+which is calculated by multiplying electrical megawatt-hours produced by assets by Sembcorp’s equity stake in the assets
+5 The ORAP® is a voluntary database and benchmarking initiative covering over 3,000 turbine units globally. This Data has been obtained directly from
+ORAP®. All rights in and to such Data are reserved by SPS
+
+Our ESG Priorities
+Empowering Lives
+Human Capital Management GRI 3-3 | 404-1 | 404-2
+Why this
+is material
+In the fast-evolving energy transition landscape, employees and partners equipped with the right
+competencies and experience enable us to capture emerging opportunities, drive operational excellence
+and meet the energy needs of our stakeholders securely, accessibly and sustainably.
+Our
+policies and
+frameworks
+Reference
+standards
+and
+frameworks
+• International Labour Organisation
+Declaration on Fundamental Principles
+and Rights at Work
+• Singapore’s Tripartite Guidelines on
+Fair Employment Practices
+• Code of Conduct
+• Diversity and Inclusion Policy
+• Employee Grievance Handling Policy
+• Learning and Development Policy
+• Whistleblowing Policy
+• Talent Management Framework
+Our
+approach
+Our human capital management approach and practices are grounded in respect for and compliance with
+applicable national employment and labour laws, including those related to forced labour and child labour.
+We uphold the principles of non-discrimination and zero tolerance for harassment, and we support freedom
+of association and the right to collective bargaining in line with local regulations.
+The three focus areas of our human capital management are talent management, learning and development,
+and digital readiness.
+Our
+governance
+The Group Human Resources (GHR) function oversees talent management and development, employee
+compensation and rewards, as well as employee human rights and labour standards. The Learning Council,
+comprising representatives from key Lines of Business (LOBs) and chaired by the Chief Corporate & Human
+Resource Officer (CCHRO), meets at least twice a year. The Learning Council steers the capability-building
+agenda to support business priorities and goals. The ERCC reviews our overall talent management and
+remuneration framework to support management in driving a high-performance culture.
+Our
+performance
+• In 2025, we achieved an average of 26.5 learning hours per employee.
+• In 2025, a total of 1,983 employees and partners have been upgraded1. The significant increase was
+driven by enhanced HSSE programmes for contractors.
+Average Learning Hours (hours per employee)
+Talent management
+Performance management discussions and reviews are requisite for all employees. The structured process
+supports open communication on expectations of the role and establishes accountability for outcomes.
+It also facilitates career and development discussions. Compensation and rewards are determined based on
+individual and company performance outcomes. Beyond performance-based rewards, we offer benefits and
+wellness programmes to enhance employee engagement and retention. Succession planning is formalised
+for senior executives and critical roles, with key plans reviewed by the ERCC. We promote internal mobility
+and review succession plans regularly to provide career growth and opportunities while strengthening our
+key talent management bench.
+21.1
+24.0
+26.5
+Learning and development
+Our strategy focuses on four skill areas – Functional, Technical, Leadership and Essential. These skill areas
+are mapped to and support Sembcorp’s business development cycle and workforce planning needs.
+Through Sembcorp Academy, our integrated learning platform, we deliver blended learning, track
+progress and accelerate development. We foster professional growth through job rotations, on-the-job
+training programmes and special project assignments to enhance depth and breadth of experience.
+Key programmes include:
+2023
+2024
+2025
+• The Group Leadership Programme, which seeks to equip middle managers with comprehensive
+knowledge of Sembcorp’s businesses, enhance leadership capabilities, and nurture strategic
+networking for future collaborations.
+• The Upgrade Programme, which supports eligible employees and partners in obtaining a formal
+certification. This may include qualifications through Institutes of Higher Learning (IHLs) or targeted
+courses developed or supported by Sembcorp. Our partnerships with IHLs include the SkillsFuture
+Queen Bee programme for the energy and power sector.
+Digital readiness
+We foster digital adoption and equip employees with tools and skills to leverage technology and artificial
+intelligence, driving efficiency and productivity across our operations.
+For more information on the SkillsFuture Queen Bee programme, please refer to Sembcorp Solar
+Singapore SkillsFuture Queen Bee section on the Sembcorp in Singapore webpage.
+1 Upgraded employees and partners refer to Sembcorp employees, contractors and the general public who completed eligible programmes developed or
+supported by Sembcorp, as well as recipients of scholarships and / or bursaries funded by Sembcorp
+
+Our ESG Priorities
+Empowering Lives
+Community Investment GRI 3-3 | 201-1 | 413-1
+Community Investments (S$ million and %)
+Why this
+is material
+Behind the projects we build are the communities that live and work around them. We strive to make
+our presence a positive one that builds trust, creates shared value and supports inclusive development.
+Our
+performance
+• In 2025, Sembcorp contributed
+S$6.2 million in cash donations to
+support community initiatives globally:
+6.2
+Our
+approach
+We aim to make the energy transition inclusive for the communities where we operate. Our community
+investment strategy focuses on advancing SDG 7 (Affordable and Clean Energy), prioritising investments to
+improve awareness and access to clean energy, and supporting long-term development through practical
+and scalable solutions.
+4.4r
+4.9r
+–
+Over S$2.9 million were mandatory1
+contributions, of which 19% were
+invested in SDG 7-aligned projects.
+–
+Over S$3.3 million were voluntary
+contributions, of which 74% were
+invested in SDG 7-aligned projects.
+–
+Over S$23,000 were leveraged2
+contributions, benefitting a range
+of charitable causes.
+2023
+2024
+Ongoing
+target
+2025
+Our investment focal areas are: Green Infrastructure, Green Education, Green Capability Building and
+Community Uplift. While our first three focal areas address specific needs that seek to advance SDG 7,
+such as the deployment of solar energy and promoting clean energy awareness, our Community Uplift
+initiatives focus on fostering social mobility through education and healthcare support. These efforts lay
+the groundwork for communities’ awareness and access to green energy, and empower communities
+to progress towards a more sustainable future. Our local operations forge partnerships with stakeholders
+to shape community initiatives that are relevant, practical and aligned with our strategic priorities.
+■ Total community contributions
+• Percentage of operations with local community engagement and / or
+development programmes
+r
+We restated our community investment figures for 2024 and 2023 due to
+data aggregation error at one of our operations
+• All our operations supported charities
+and communities through local
+community engagements and / or
+development programmes in 2025.
+Focus Areas
+Performance
+Indicators
+2025 Impact
+Cumulative Impact
+from 2022
+• Renewable energy
+capacity deployed
+• Over 230kWp
+• Over 880kWp
+Green
+Infrastructure
+• Solar energy generated
+• Over 545,000kWh
+• Over 930,000kWh
+Green
+Education
+Building energy and
+sustainability literacy
+among youth and
+the public through
+experiential learning
+• Avoided emissions3
+• Over 368,000kgCO2e
+• Over 654,000kgCO2e
+Community
+Uplift
+Uplifting vulnerable
+communities
+through access to
+essential services,
+while fostering self-
+sufficiency, resilience
+and well-being
+Green
+Capability Building
+Helping charities
+and communities
+build sustainability
+capabilities and green
+skills, enabling the
+adoption of ESG
+practices
+Green
+Infrastructure
+Supporting charities
+and community
+organisations with
+solarisation and
+energy-efficient
+infrastructure
+solutions
+• Over 30 facilities
+• Over 110 facilities
+• Community facilities
+with solar energy
+systems installed
+• Business for Societal Impact
+Framework and Guidance
+Our
+policies and
+frameworks
+• Participants engaged
+• Over 405,000
+participants
+• Over 604,000
+participants
+Green
+Education
+Reference
+standards
+and
+frameworks
+• Total learning hours
+• Over 32,000 hours
+• Over 70,000 hours
+• Participants trained
+•
+Over 2,300 participants
+•
+Over 2,400 participants
+• Total learning hours
+• Over 284,000 hours
+• Over 304,000 hours
+Green
+Capability
+Building
+• Code of Conduct
+• Supplier Code of Conduct
+• Group Anti-bribery and Corruption
+(ABC) Policy
+• Group Community Investment and
+Sponsorship Compliance Policy
+• Group Know-your-counterparties Policy
+• Group Procurement Policy
+• Group Local Community Engagement
+and Grievance Mechanism Procedure
+• Group Community Investment Guidelines
+• Over 8,500
+students
+• Over 21,000
+students
+Community
+Uplift
+• People supported
+through education
+programme
+• People aided through
+healthcare programme
+• Over 27,000 people
+• Over 123,000 people
+Our
+governance
+The GHR function, supported by community leads in respective LOBs, oversees community investment efforts.
+The Sembcorp Energy for Good Committee, consisting of the Group CEO, CCHRO and President & CEO, Gas
+and Related Services, reviews, approves and monitors key community investment plans.
+1 Mandatory contributions are community activities that we undertook in response to the requirements of law, regulation or contract
+2 Leveraged contributions are contributions raised through our employee-matched funding programmes
+All proposed donations undergo a counterparty due diligence assessment conducted by the Group Ethics and
+Compliance (GEC) function to assess bribery, corruption and fraud risks. Initiatives that involve the purchase of
+equipment or products are carried out in accordance with the Group Procurement Policy and Supplier Code
+of Conduct. Regular internal community investment meetings are held to maintain alignment of policies and
+execution plans across LOBs as well as the sharing of best practices.
+3 Avoided emissions are calculated based on the methodology set out by the UN Framework Convention on Climate Change: Clean Development
+Mechanism, the latest available emission factors from the respective host country and the actual generation of the respective solar power systems
+
+Our ESG Priorities
+Resilient Business
+Health and Safety GRI 3-3 | 403-1 | 403-2 | 403-9
+Why this
+is material
+The nature of our operations involves exposure to health and safety risks that can impact employees,
+contractors and communities. A lapse can cause serious harm and disrupt operations. Maintaining high
+standards in workplace safety is therefore essential to protect lives.
+Our
+approach
+We recognise the right to life, health, and safe working conditions, and are committed to reducing health
+and safety risks in our operations. We believe that most incidents are preventable. The processes within our
+management system are digitally integrated – from work planning and execution to field assurance, and
+strengthen our risk control and verifiability.
+Our
+performance
+• Regrettably, one contractor fatality occurred at a site in India during the year. A stop-work order was
+immediately initiated at the affected site. Concurrently, an alert was issued to all operating locations
+across the Group to review and confirm safety measures. Thorough investigations were carried out to
+identify the root causes, and operations resumed after safety measures were reviewed and reinforced.
+•
+As part of our safe operations transformation programme launched in 2024, key safety management
+programmes were implemented in 2025. This includes our enhanced e-PTW which requires on-site photo
+evidence confirming that critical safety controls for the stipulated activity have been met before work can
+commence. Daily site verifications are undertaken to monitor compliance with all safety requirements, and
+key safety indicators are tracked. These initiatives facilitated timely safety interventions.
+• In 2025, there was a decrease in lost time injury rate and total recordable injury rate from 2024.
+The Plan-Do-Check-Act approach forms the basis of our systems and practice for all employees and
+contractors:
+Total Recordable Injury Rate
+(number per million man-hours)
+Lost Time Injury Rate
+(number per million man-hours)
+1.0
+1.0
+0.5
+0.5
+0.7
+0.2
+2023
+2024
+2025
+2023
+2024
+2025
+• Plan: Identify risks and hazards, develop mitigation plans through the mandatory method statement
+and risk assessment process for all site and / or operations work
+• Do: Implement safety regimes including mandatory safety training and retraining, toolbox meetings,
+permits-to-work (PTW) and critical controls verification
+• Check: Review effectiveness of control measures on-site and remotely, supported by video surveillance
+systems. Internal assurance against the relevant Occupational Health and Safety Standards is conducted
+by Group Integrated Audit (GIA) and GHSSE functions
+• Act: Strengthen controls and processes with digital tools which enable data-driven insights to trigger
+containment actions. Enforce consequence management, including issuing of warning notices and
+potential contract termination for violation of Sembcorp Safety Critical Controls. Incident notifications
+and investigations adhere to our Incident Management protocols, which focus on detecting the root
+causes and implementing appropriate improvements.
+Contractor safety management
+Contractors form a significant portion of our workforce. All contractors must comply with our health and
+safety requirements, including the use of Safety Buddy, our digitally-integrated safety management system.
+• ISO 45001: Occupational Health
+and Safety Management Systems1
+• GHSSE Policy
+• Contractor Safety Management Framework
+• GHSSE Management Framework
+Our
+policies and
+frameworks
+Reference
+standards
+and
+frameworks
+• International Association of Oil and
+Gas Producers (IOGP) Global Safety
+Performance Indicators
+• US National Institute for Occupational
+Safety and Health (NIOSH) Guidelines
+Our
+governance
+The GHSSE function oversees occupational health and safety. The management of health and safety is
+guided by the GHSSE Management Framework. The Group CEO convenes and chairs a monthly Group
+Safety Meeting with safety officers from LOBs to assess and improve safety performance. Every quarter,
+the board (via the RC) and the SLC receive updates that cover health and safety performance and targets,
+relevant health and safety incidents, as well as any regulatory updates and highlights of key initiatives.
+For more information on our approach to managing HSSE risks, please refer to the Corporate
+Governance Statement on page 102.
+1 For the coverage of sites certified, please refer to the Memberships, Certifications and Ratings section on Our Approach to Sustainability webpage.
+
+Our ESG Priorities
+Resilient Business
+Risk Governance GRI 3-3 | 205-2
+Why this
+is material
+Strong corporate governance and sound risk management underpin trust and sustainable performance.
+As our businesses grow and the risk landscape evolves, a compliance management system supported by
+robust internal controls and risk accountability helps us protect our people, operations and reputation.
+Our
+policies and
+frameworks
+Reference
+standards
+and
+frameworks
+Sembcorp’s IAF
+Reporting and Escalation to the
+Enterprise Risk Committee and the Board
+Three Lines of Defence
+1. Lines of
+Business
+3. Integrated
+Audit
+2. Corporate
+Functions
+• SGX Rulebook Practice Guide 9
+• Singapore Code of Corporate
+Governance 2018
+• Committee of Sponsoring
+Organisations of the Treadway
+Commission: Enterprise Risk
+Management Framework 2017
+• ISO 31000: Risk Management
+• ISO 27001: Information Technology
+•
+National Institute of Standards and
+Technology’s Cybersecurity Framework
+• Singapore Cybersecurity Act 2018
+• Singapore Personal Data Protection
+Act 2012
+Identify and assess
+risks and controls
+Design policies
+and procedures
+• Code of Conduct
+• Group ABC Policy
+• Group Conflict of Interest Policy
+• Group Cybersecurity Policy
+• Group Data Privacy Policy
+• Group Data Protection Policy
+• Group Gifts and Hospitality Policy
+• Group Investment and Divestment Policy
+• Group Know-your-counterparties Policy
+• Group Third Party Representative ABC Due
+Diligence Policy
+• Group Trade Controls Policy
+• Information Technology Acceptable
+Use Policy
+• Whistleblowing Policy
+• IAF
+Escalate any control
+deficiencies
+Review risks
+and controls
+Provides independent
+assessment on
+the adequacy
+and effectiveness
+of overall control
+environment
+Follow up on
+control deficiencies
+Our
+approach
+The Group’s principal risks, including
+compliance, health and safety,
+cybersecurity and relevant climate-
+related risks, are monitored and
+managed via the IAF. Principal risks of the
+Group are identified and accountability
+is established with the relevant risk
+owner and coordinator. The risk
+description, drivers and consequences
+are determined by risk owners. Key
+risk indicators and risk appetites are set
+to facilitate monitoring of risk status.
+Risk owners conduct a quarterly review
+of principal risks using a likelihood-
+impact matrix, and provide performance
+updates to the respective corporate
+functions. The updates are reviewed
+and aggregated for reporting to the RC.
+Our
+governance
+The Group Risk function drives the IAF process, which facilitates the quarterly reporting of the Group’s
+principal risks. Our risk management strategy and the IAF are set in place by our Board of Directors and
+supported by the RC and AC. The RC reviews the effectiveness of the IAF quarterly, including its risk
+management plans, systems, processes and procedures. The GIA function provides independent assurance
+to the RC and AC on the adequacy and effectiveness of our risk management, financial reporting processes,
+and internal control and compliance systems.
+The GEC function, led by the Chief Legal Officer, drives the enterprise compliance programme and provides
+a quarterly update through the IAF process to the RC.
+We have a zero-tolerance stance towards bribery and corruption. Our enterprise-wide compliance
+programme is designed to drive compliance with our policies, in particular those relating to ABC,
+counterparty due diligence and anti-money laundering.
+The Group Digital function, led by the Chief Operating Officer, leads the enterprise cybersecurity strategy
+and provides a quarterly update on control effectiveness in managing cybersecurity risks to the RC.
+For more information on the roles and responsibilities of the board, please refer to the Corporate
+Governance Statement on pages 91 and 92.
+Education and communication programmes help employees build the knowledge, skills and mindset
+needed to understand and respond in line with our Code of Conduct, policies, laws, as well as broader
+organisational risks such as cybersecurity threats. The completion of the annual Code of Conduct and
+cybersecurity e-learning modules is mandatory for all employees. In addition, targeted in-person ABC
+training is required for employees in high-risk roles.
+For disclosures on our Corporate Governance, please refer to the Corporate Governance Statement
+on page 90.
+Our
+performance
+• 100% of our LOBs1 implemented the IAF.
+• 100% of our employees2 received ABC training.
+• 100% of our employees2 acknowledged compliance to the Code of Conduct.
+For more information on our principal risks, including cybersecurity risk, and our approach to managing
+them, please refer to the Corporate Governance Statement, on pages 101 and 102.
+For disclosures on climate-related risks, please refer to the Climate-related Disclosures section on pages
+64 to 68.
+1 Coverage follows the reporting scope of this Sustainability Report
+2 Refers to employees as at October 31, 2025. New hires are given more time to complete ABC training and to acknowledge compliance to the Code of
+Conduct as part of their onboarding
+
+Climate-related Disclosures
+knowledge and competencies relevant
+to discharging their responsibilities.
+For more information on the
+CCWC, please refer to the Energy
+Transition section on page 45.
+Climate-related financial
+information has been included in
+Note B4 in the Notes to the Financial
+Statements on pages 160 and 161.
+Key topics discussed in our
+quarterly CCWC meetings during
+the year included:
+In 2022, SGX mandated sustainability
+training for all board directors of listed
+companies3. All our directors have
+attended the SGX-prescribed training.
+Sustainability-linked
+Performance Incentives
+Environmental, Social and
+Governance key performance
+indicators are a part of the annual
+performance scorecard of our
+senior executives. These include
+GHG emissions intensity and gross
+installed renewable energy capacity.
+Key members of Sembcorp’s
+leadership team hold deep leadership
+and management expertise in the
+energy sector.
+Governance
+Sembcorp’s Board of Directors oversees
+the business affairs of the Group. The
+board provides leadership on Sembcorp’s
+overall strategy, which takes into
+consideration its material sustainability
+factors. Our approach to managing
+climate-related risks and opportunities
+is outlined in the mandates and terms
+of reference of the relevant governance
+bodies, which include both board- and
+management-level committees as shown
+in our governance structure in Figure 1.
+Given that the disclosures
+arising from the IFRS Sustainability
+Disclosure Standards for Climate-related
+Disclosures involve emerging practices
+in the assessment and analysis of
+climate-related risks and opportunities,
+and are based on current expectations,
+estimates, projections and assumptions,
+caution should be exercised when
+interpreting the information provided.
+Board and Management
+Competencies
+The board’s Nominating Committee
+evaluates potential directors,
+considering skills, experience,
+• Approach and methodology
+for emissions target setting,
+climate scenario analysis and
+physical risk assessment
+•
+Scope 3 supplier-related emissions
+data management system
+•
+Climate-related Disclosures 2025
+In 2025, key updates to the
+board included:
+For profiles of our Key Executives,
+please refer to Our Leadership section
+on our webpage.
+Reporting Standards,
+Frameworks and Scope
+The disclosures in this report are guided
+by the relevant Singapore Exchange
+Regulation’s (SGX RegCo) requirement
+for Straits Times Index constituents to
+implement climate-related disclosures
+issued by the International Sustainability
+Standards Board (ISSB) from financial
+year (FY) 20251. SGX further requires
+external limited assurance for Scope 1
+and 2 greenhouse gas (GHG) emissions
+by FY20292; Sembcorp’s Scope 1
+and 2 emissions have been included
+in its Sustainability Report and have
+undergone external limited assurance
+since FY2017 and FY2019 respectively.
+Figure 1: Our governance structure
+Board of Directors
+Provides leadership on Sembcorp’s overall strategy, which takes into consideration its material sustainability factors
+Executive Committee
+Executive Resource &
+Compensation Committee
+Risk Committee
+•
+Group’s strategic and financial plan
+•
+Group’s updated carbon target
+setting approach and transition plan
+• Group’s key risks including
+climate-related risks and
+opportunities for investments
+in the Renewables segment
+The scenarios used in this report are
+derived from the Network for Greening
+the Financial System (NGFS), Coupled
+Model Intercomparison Project Phase 6
+(CMIP6) and a third-party risk analytics
+tool. These scenarios are not forecasts
+and should not be interpreted as
+predictions of future policy, market or
+climate conditions.
+Assists the board in developing the overall strategy for the Group
+and provides oversight and supervision of the Group’s strategy
+and business affairs
+Sets remuneration framework,
+reviews and endorses key
+performance indicators
+of our key management executives
+Endorses the Group’s policies, guidelines
+and systems to manage risks including
+climate-related risks. Reports to the board
+on the adequacy and effectiveness of
+the Group’s internal controls and
+risk management systems
+For more information on our
+realised opportunities in 2025, please
+refer to the News and Insights section
+of our webpage.
+This report references the International
+Financial Reporting Standards (IFRS)
+Sustainability Disclosure Standards –
+IFRS S1 (General Requirements) and IFRS
+S2 (Climate-related Disclosures), and
+complements the information set forth
+in our Annual and Sustainability Reports,
+which cover the same reporting period.
+This report should be read together
+with the Energy Transition section of
+our Sustainability Report. To avoid
+information duplication, references
+to the relevant sections are provided.
+Working
+Group
+coordinated by Group Human Resources
+Meetings → 3 to 4 times per year
+(as required)
+Senior Leadership
+Committee
+chaired by Group CEO
+coordinated by Group CEO Office
+supported by Lines of Business &
+Corporate functions
+Enterprise Risk
+Committee
+chaired by Group CEO
+coordinated by Group Risk
+supported by Lines of Business &
+Corporate functions
+Investment &
+Divestment Committee
+chaired by Group CEO
+coordinated by Group CEO Office
+supported by Lines of Business &
+Corporate functions
+Meetings → Fortnightly
+Meetings → Fortnightly
+Meetings → Quarterly
+The board approves major
+investments and divestments,
+considering risks, opportunities and
+trade-offs, including the emissions
+impact related to the transaction.
+• Reviews and develops annual
+performance scorecard of our
+senior executives
+• Develops and monitors the Group’s
+policies, guidelines and systems
+The intent of the ISSB climate-related
+disclosure requirements is to provide
+issuing companies with a standard basis
+for the disclosure of climate-related
+financial information to investors.
+• Develops and governs procedures
+and requirements for the approval
+and monitoring of investments
+and divestments
+• Develops and monitors the Group’s
+policies, guidelines and systems
+to manage risks including
+climate-related risks
+• Develops the Group’s strategy, plan
+and targets, including our climate
+action targets
+For more information on our Climate
+Action Plan and targets, please refer to
+the Strategy section on pages 71 to 74.
+• Assesses adequacy and effectiveness
+of the Group’s internal controls and
+risk management systems
+Scenario outcomes depend on
+multiple assumptions, including
+future energy demand, technology
+costs, carbon prices, regulatory
+developments and physical climate
+variables that involve significant
+uncertainty and are subject to change.
+Actual developments in global and
+regional energy systems may differ
+materially from those modelled.
+Accordingly, there is no assurance that
+the scenario modelling or assessments
+presented in this report are indicative
+of the actual climate-related impacts
+on Sembcorp’s businesses.
+• Monitors, reports and manages
+Group business performance.
+This includes sustainability updates
+and performance reviews
+Energy transition and climate risks have
+been identified as material to Sembcorp,
+and could reasonably be expected to
+affect Sembcorp’s prospects.
+• Provides oversight on risks in
+relation to investments, including
+environmental risks arising from
+physical hazards, social risks, carbon
+price impact risks and portfolio
+emissions impact on our targets
+• Assesses whether the Group’s
+management of key risks is
+commensurate with risk level
+• Monitors climate-related risks
+Climate Change
+Working Committee
+chaired by Executive Vice President,
+Group CEO Office
+supported by Corporate functions
+including Sustainability, Asset
+Performance, Finance, Portfolio
+Management, Risk and Strategy
+Meetings → Quarterly
+• Approves the Group’s material
+sustainability topics and factors
+• Assesses that investment decisions
+make progress towards strategic
+targets, and that proper due diligence
+has been performed
+For more information on our
+materiality assessment, please refer to
+the Materiality section on page 42.
+External Assurance
+We have engaged DNV Business
+Assurance Singapore Pte. Ltd. to
+undertake an independent limited
+assurance of our Scope 1 and 2
+emissions data.
+• Reviews and develops climate-
+related policies and frameworks,
+assesses climate-related risks,
+implements relevant initiatives
+and reviews performance,
+reporting and disclosures
+The disclosures and coverage of this report
+are consistent with the reporting entities
+reflected in our financial statements.
+• Reviews and endorses climate
+target setting and disclosures
+Sembcorp’s Climate Change Working
+Committee (CCWC) oversees the
+development of plans, processes and
+reports that relate to the Group’s
+climate-related risks and opportunities.
+The Group Sustainability function
+serves as the CCWC secretariat and
+drives climate-related workstreams
+across functions, including Asset
+Performance, Finance, Portfolio
+Management, Risk and Strategy.
+The Assurance Statement can
+be found on pages 84 to 87.
+1 SGX Group, ‘Practice Note 7.6 Sustainability Reporting Guide’ (2025)
+• Reviews and approves climate
+workstreams and / or initiatives,
+approaches and methodologies
+2 SGX Group, ‘Extended timelines for most climate reporting requirements to support companies’ (August 2025)
+3 SGX Group, ‘SGX RegCo announces start of sustainability training for company directors’ (March 2022)
+
+Climate-related Disclosures
+adoption of renewable energy, is
+reshaping power systems as countries
+strive to decarbonise while ensuring
+system reliability and accessibility.
+prioritisation. Risk owners conduct
+a quarterly review of principal
+risks using a likelihood-impact
+matrix and provide performance
+updates to the respective
+corporate functions. The updates
+are reviewed and aggregated for
+reporting to the RC.
+• Technology and market shifts:
+Structural changes in energy
+systems, risks of failing to adopt
+new technologies in line with
+industry’s and market’s speed
+of adoption, or technological
+progress outpacing the viability of
+our assets. The shifts in supply and
+demand of energy, oil and natural
+gas have brought about greater
+uncertainty and volatility.
+Achieving a resilient and effective
+energy transition will require strong
+enabling conditions4. These include
+clear and stable policy signals, a
+diversified clean energy mix, and
+energy-efficient planning and design.
+Investment in modern, flexible grid
+infrastructure capable of integrating
+storage, supporting interconnection
+and accommodating variable
+generation is essential. Robust
+industrial strategies and high levels
+of investment in clean technologies
+are equally important.
+Strategy
+Sembcorp’s strategy is guided by
+an annual review of the global
+market and industry outlook,
+which includes an assessment of
+macroeconomic and local industry
+conditions to identify portfolio risks
+and opportunities. This assessment
+underpins the Group’s five-year plan,
+its corresponding capital allocation
+and Climate Action Plan. The board
+formally deliberates on the plan and
+provides stewardship on the Group’s
+strategy and plan at the Board
+Strategy Retreat.
+Risk Management
+Our risk management strategy and
+the Integrated Assurance Framework
+(IAF) are set in place by our Board of
+Directors, with support from the Risk
+Committee (RC) and Audit Committee
+(AC). The RC reviews the effectiveness
+of the IAF quarterly, including its
+risk management plans, systems,
+processes and procedures. The Group
+Integrated Audit function provides
+independent assurance to the RC and
+AC on the adequacy and effectiveness
+of our risk management, financial
+reporting processes and internal
+control and compliance systems.
+• Physical hazards: The potential
+impact of physical climate hazards,
+such as extreme weather events,
+and changes in wind speeds and
+solar irradiance that may result in
+operational disruption or affect
+the energy generation in our
+power plants.
+Over the past decade, the levelised
+costs of solar and wind technologies
+have fallen significantly2, enabling
+unprecedented renewable energy
+buildout across Asia. However,
+deployment has accelerated faster
+than grid modernisation, exposing
+structural vulnerabilities. As more
+renewable energy is connected to the
+grid, it loses the stabilising effects that
+come with traditional power plants.
+This results in an energy system that
+is more sensitive to disturbances, and
+reinforces the importance of modern
+grid infrastructure and controls.
+The CCWC reviews, updates
+and prioritises the climate-related
+risks, taking into consideration
+the business, operational
+and regulatory environment.
+Key climate-related risks and
+opportunities undergo scenario
+analysis to assess the likelihood
+and magnitude of impact; these
+are discussed in further detail in
+the Strategy section that follows.
+The financial impact of relevant
+risks is then mapped against the
+financial materiality threshold of
+our IAF and subsumed under it for
+monitoring alongside other risks.
+Our list of potential climate-
+related risks and opportunities
+was developed as part of our first
+climate strategy exercise in 2017
+and is evaluated, updated and
+prioritised by the CCWC annually.
+We identified risks associated
+with policy, technology, market
+disruption and physical impact
+through performance analysis,
+internal stakeholder engagements
+and peer benchmarking. Key
+influencing factors that could
+reasonably be expected to affect
+our prospects include:
+The Group Risk function drives the
+IAF process, which facilitates the
+quarterly reporting of the Group’s
+principal risks. Principal risks of
+the Group are identified, and
+accountability is established with the
+relevant risk owner and coordinator.
+The risk description, drivers and
+consequences are determined by
+risk owners. Key risk indicators and
+risk appetites are set to facilitate
+monitoring of risk status. The risks
+are then quantified and measured
+against set quantitative impact
+parameters including financial,
+operational and health and safety
+thresholds, which inform the risk
+Currently, climate-related risks
+such as carbon exposure and
+renewable resource variability are
+considered in the Group’s principal
+risks. They are assessed against
+quantitative thresholds for GHG
+emissions and generation metrics of
+our equity holdings.
+Figure 2: Sembcorp’s IAF
+Sembcorp develops, owns and operates
+energy, urban and water assets,
+and partners with governments to
+masterplan and develop industrial
+parks and related ecosystems. Its
+energy business constitutes 86% of
+its adjusted EBITDA1. In light of the Paris
+Agreement and national plans towards
+a net-zero future, the energy business
+is most exposed to climate-related
+risks and opportunities. This report is
+focused on the risks and opportunities
+related to our energy business, which
+includes gas-fired and renewable
+energy generation, with the exception
+of physical risks, for which we assess all
+our subsidiaries where we have control.
+Reporting and Escalation to the
+Enterprise Risk Committee and the Board
+Three Lines of Defence
+• Climate policies and / or
+regulations: Sembcorp is
+subject to national policies and
+regulations that may encourage
+or disincentivise decarbonisation
+levers. These include the
+application of a carbon price
+on its gas-fired power plants
+in Singapore and the United
+Kingdom (UK), as well as
+renewable energy policy reforms
+in Vietnam and China.
+1. Lines of
+Business
+3. Integrated
+Audit
+2. Corporate
+Functions
+Policy signals: Renewable
+energy policy changes in
+China and Vietnam
+In China, renewable energy projects
+commissioned on or after June 1,
+2025 no longer qualify for the previous
+fixed feed-in tariff (FiT) benchmarked
+against local coal-fired power price5.
+Instead, electricity is sold through
+market transactions at prevailing
+market prices. To provide revenue
+stability, a contracts‑for‑difference-
+style mechanism allows developers
+to secure a fixed price via provincial
+auctions for a portion of their
+output. The former FiT system
+drove rapid renewables growth by
+delivering stable and low-risk returns.
+With significantly lower solar and
+wind costs and a maturing power
+market, the shift to market-based
+pricing is intended to better reflect
+supply-demand realities, promote
+competition and efficiency. The
+impact on developers depends on
+provincial implementation rules. In
+the near term, new wind and solar
+projects face increased uncertainties,
+with potentially lower effective
+tariffs, greater auction competition
+and increased exposure to market
+price fluctuations.
+Global electricity demand rose by
+4.3% in 2024, the largest recorded
+increase3, pushing energy-related
+emissions to a new record. Asia’s
+rapidly developing economies are
+at the epicentre of this growth.
+Expanding industrial activity, rising
+urbanisation, the proliferation of
+digital technologies, and the rapid
+uptake of artificial intelligence
+(AI) are collectively accelerating
+regional electricity consumption.
+Amid this complexity, diverging
+national priorities are shaping
+the scale and pace towards net
+zero. Developing economies
+must balance emissions reduction
+with energy security, accessibility
+and economic development.
+Differences in institutional capacity,
+resource endowments, financing
+availability and social contexts
+mean that the transition will not
+follow a single trajectory; rather,
+it will reflect country-specific
+realities and constraints.
+Charting the Course for
+Energy Transition in the Midst
+of Changing Energy Systems
+The world is undergoing a profound
+transformation in the way energy is
+produced, consumed and governed.
+A global energy supercycle, driven by
+surging electricity demand and rapid
+Identify and assess
+risks and controls
+Design policies
+and procedures
+Review risks and controls
+Escalate any
+control deficiencies
+Follow up on
+control deficiencies
+1 EBITDA: Earnings before net interest expense, tax, depreciation and amortisation, where adjusted EBITDA = reported EBITDA + share of results of associates
+and joint ventures, net of tax
+Provides independent
+assessment on
+the adequacy
+and effectiveness
+of overall control
+environment
+2 International Renewable Energy Agency, ‘Renewable Power Generation Costs in 2024’ (July 2025)
+3 International Energy Agency, ‘Global Energy Review (2025)’ (March 2025)
+4 World Economic Forum, ‘Fostering Effective Energy Transition 2025’ (June 2025)
+5 Wood Mackenzie, ‘China shifts to ‘High-quality’ renewable growth with new pricing mechanism following 264 GW boom in H1 2025’ (November 2025)
+• Climate positions and /
+or expectations: There
+are increasing expectations
+from investors, customers
+and regulators to set and
+meet emissions targets and
+climate transition plans, while
+providing reliable and accessible
+energy supply.
+
+Climate-related Disclosures
+Strategy (continued)
+such as regional power imports and
+energy storage solutions will be critical.
+Time horizons for assessing the
+impact of our climate-related risks
+and opportunities are aligned
+with our strategic and budget
+planning horizons:
+buoyed by record annual capacity
+additions, green open access reforms,
+grid-scale storage auctions and an
+accelerated transmission build-out3.
+The high penetration of renewable
+energy increases grid vulnerability
+arising from the intermittency of
+solar and wind output.
+• Short term: < one year
+• Medium term: one to five years
+• Long term: > five years
+The Shared Socioeconomic Pathways
+(SSPs) scenarios describe projections
+of population, economic growth,
+technological advancements and
+geopolitical trends in line with the
+Representative Concentration Pathways
+(RCPs) scenarios. RCPs set out the
+pathways for GHG concentration and
+the potential amount of warming by
+the end of the century. For physical
+risk assessments, we use the RCPs and
+SSPs, which provide more granular
+projections of climate physical hazards.
+Electricity demand is projected to
+rise, with Energy Market Authority
+(EMA) forecasting a compound
+annual growth rate of 2.4% to 4.8%
+from 2025 to 20347. This increase
+incorporates potential demand
+from additional investments in
+emerging high-demand industrial
+and digital sectors such as the
+advanced manufacturing sector and
+data centres – structural trends that
+reinforce the need for reliable low-
+carbon baseload capacity.
+Natural gas, supplying 94% of
+Singapore’s electricity generation10,
+will remain essential as a transition
+fuel. It will provide reliable baseload, as
+Singapore explores and scales hydrogen
+co-firing, renewable energy imports,
+carbon capture and other low-carbon
+technologies. This multi-pronged
+approach supports energy security, cost
+competitiveness and alignment with
+Singapore’s decarbonisation pathway.
+Vietnam’s FiT policy, launched in
+2017, triggered a rapid surge in solar
+and wind utility capacity. In 2023,
+the government began reassessing
+FiT eligibility. Projects that achieved
+commercial operation before
+obtaining the required construction
+completion acceptance certificate
+have only received partial payments
+at reduced tariffs from Vietnam’s
+state utility – Vietnam Electricity
+(EVN), although full FiT invoices
+have not been rejected. This has
+created regulatory risk concerns and
+uncertainty in Vietnam’s renewable
+energy market. Investors are awaiting
+government resolution, with
+expectations for progress in 2026.
+The NGFS scenarios database is
+one of the most widely used global
+reference datasets for climate risk
+analysis in the financial system. It
+references the Intergovernmental
+Panel on Climate Change (IPCC)
+Sixth Assessment Report (AR6)
+scenarios and provides country-level
+forecasts of macroeconomic variables
+covering our countries of operation.
+For more information on country-
+specific performance and outlook,
+please refer to the Operating and
+Financial Review section on pages
+18 to 29.
+In 2025, we refined our selection of
+transition risk scenarios to replace
+‘Below 2°C’ with ‘Delayed Transition’, in
+line with the observed market practice11.
+We added ‘Current Policies’ to model a
+low climate ambition scenario.
+Figure 3: Our approach to climate scenario analysis
+Transition risks
+Physical risks
+Under Singapore’s new energy policy,
+all new combined-cycle gas turbine
+(CCGT) power plants must be at
+least 10% more carbon-efficient
+than current units and at least 30%
+hydrogen-compatible by volume8.
+Currently, four hydrogen-ready CCGT
+power plants are under development
+or planned, including Sembcorp’s
+600MW hydrogen-ready CCGT
+power plant, which is scheduled for
+commercial operation in 2026.
+From February 2025, the Ministry
+of Power issued an advisory for co-
+located energy storage systems for solar
+tenders to enhance grid stability and
+cost efficiency4. Battery energy storage
+systems (BESS) support grid stability
+and enable dispatch of renewable
+energy during periods of low solar
+irradiance or wind speeds. Ministry of
+New and Renewable Energy-backed
+auctions from key Renewable Energy
+Implementing Agencies (REIA) now
+require hybrid and storage integration,
+marking a decisive shift to firm
+renewables5. In 2025, Sembcorp
+secured three such projects comprising
+around 1.1GWh of storage capacity.
+Scenarios
+Scenarios
+NGFS’ Current Policies, Delayed
+Transition and Net Zero 2050
+SSP1-2.6, SSP2-4.5
+and SSP5-8.5
+Electricity consumption has historically
+been strongly correlated with Gross
+Domestic Product growth, underscoring
+the challenge of sustaining economic
+expansion while reducing emissions.
+Scope
+Scope
+Supporting grid resilience:
+Integrating flexibility and storage
+As India progresses in its urbanisation,
+industrialisation and digital
+transformation, its energy demand
+is also surging, with the country
+projected to account for 35%1 of
+global energy demand growth over
+the next two decades. To meet this
+pressing need while delivering on
+its climate goals, India is pushing for
+its transition towards cleaner energy
+through progressive policies and
+ambitious renewable energy targets.
+Renewables and
+Gas and Related Services
+All operations under
+our control
+Climate Scenario Analysis
+Climate scenario analysis is a
+dynamic exercise that serves to
+envision potential future outcomes
+based on changes brought about by
+climate-related risks and opportunities.
+The analyses in this report contain
+quantification of anticipated effects
+developed to assess the resilience of
+our business and operations. We draw
+on data and assumptions provided by
+the NGFS, CMIP6 and a third-party
+risk analytics tool, which are subject
+to uncertainty.
+Analysis
+Analysis
+Stress test transitional variables
+to evaluate EBITDA impact
+Assess the portfolio’s
+risk exposure and evaluate
+EBITDA impact
+National industrial strategy:
+Supporting Singapore’s
+Manufacturing 2030 vision and
+green data centre roadmap
+Singapore is strategically positioning
+itself as a global hub in the AI race
+and digital innovation, underpinned
+by a resilient and sustainable energy
+system. The government’s second
+Data Centre – Call for Application
+requires applicants to source at least
+50% of their power from eligible
+green energy pathways6, signalling
+a national commitment to growth
+aligned with carbon accountability.
+Solar remains the only scalable
+domestic renewable resource, and
+Singapore has achieved its 2GWp
+target ahead of 2030. A new target of
+3GWp by 2030 has been announced
+by the Prime Minister and Minister
+for Finance9. However, solar energy
+intermittency and land constraints
+mean that complementary strategies
+As of December 2025, India’s total
+installed generation was almost
+510GW, of which more than 260GW
+came from non-fossil sources, taking
+their share above 51% for the first
+time2. Solar capacity crossed 130GW
+and wind capacity reached 54GW,
+Assessment of outcomes
+1 ETEnergyWorld, ‘India to drive up to 35% of global energy demand growth over next two decades: Puri at India Energy Week 2026’ (January 2026)
+Evaluate the resilience of our business and operations
+2 Press Information Bureau (PIB), ‘2025 marks highest-ever renewable energy expansion in India’s energy transition journey’ (December 2025)
+3 ETEnergyWorld, ‘Driven by renewable sources, India’s installed energy capacity rises by nearly 36% over 5 years’ (January 2026)
+The outputs illustrate the potential
+impacts of climate‑related risks and
+opportunities across our identified
+climate scenarios. The outputs
+should be interpreted strictly as
+scenario‑based analyses rather than
+forecasts or projections of future
+financial performance. We recognise
+that the resilience of our business and
+operations can also be affected by
+factors unrelated to climate change.
+4 Central Electricity Authority, ‘Advisory on co-locating energy storage systems with solar power projects to enhance grid stability and cost efficiency’
+(February 2025)
+5 PIB, ‘India’s renewable energy integration strategy enters next phase: government adopts nuanced, case-by-case approach to REIA bids with focus on
+grid strength, storage and market reform’ (November 2025)
+6 Infocomm Media Development Authority, ‘Launch of second data centre – Call for application’ (December 2025)
+7 EMA, ‘Electricity Demand and Supply Outlook (2025)’ (November 2025)
+8 Economic Development Board (EDB), ‘Singapore plans to build two more hydrogen-ready natural gas power plants by 2030’ (June 2024)
+10 EMA, ‘Singapore Energy Statistics 2025, Chapter 2: Energy Transformation’
+9 Singapore Budget 2026 Speech, ‘Protect Our Security and Sustainability’ (February 2026)
+11 Financial Stability Board and NGFS, ‘Climate Scenario Analysis by Jurisdictions: Initial findings and lessons’ (November 2022)
+
+Climate-related Disclosures
+Strategy (continued)
+Scope of
+stress testing
+• Renewables and Gas and Related Services segments which collectively contribute to more
+than 86% of adjusted EBITDA
+• Includes subsidiaries, joint ventures and associates
+Table 1: Climate scenarios adopted for analyses in 2025
+Ambition
+level
+Transition risk scenarios
+Physical risk scenarios
+Time horizon
+• 2030 – Considered as medium-term time horizon
+• 2040 – Considered as long-term time horizon
+Rationale
+for scenario
+selection
+1.5°C
+NGFS – Net Zero 2050
+Assumes that ambitious climate policies are
+introduced immediately, reaching global net zero
+around 2050. Physical risks are relatively low but
+transition risks are high
+• NGFS Net Zero 2050 Scenario seeks to present a high ambition view and inform us of the
+impacts from stringent and ambitious climate policies
+• NGFS Delayed Transition Scenario provides a moderate ambition view and is reflective of the
+observed market trends
+• NGFS Current Policies Scenario provides a low ambition view and informs us of the impacts
+from continuing in the current path resulting in significant global warming
+Financial
+metric
+• Adjusted EBITDA is a measure of our operating performance from all our subsidiaries, joint
+ventures and associates
+SSP1-2.6 (“Sustainability”)
+Global consumption is oriented towards low material
+growth as well as lower resource and energy
+intensity. Carbon emissions would fall from current
+levels and reach net zero by around 2075
+<2°C
+NGFS – Delayed Transition
+Assumes that annual emissions do not decrease until
+2030. Emissions are expected to exceed carbon
+budget temporarily and decline more rapidly post-
+2030. Physical risks are low but transition risks are
+high
+2.7°C
+SSP2-4.5 (“Middle-of-the-road”)
+Slow progress in achieving sustainable development
+goals. Carbon emissions would remain high until
+2050, before starting to decline post-2050 but no
+net zero is achieved
+Assumptions
+• Key parameters used for stress testing include regional energy demand, carbon price and
+electricity price
+• 2030 climate stress scenarios are assessed using our base case forecast in line with our
+strategic and financial planning exercise. It considers current and future energy demand,
+evolving regulatory environment and market outlook
+• 2040 climate stress scenarios are assessed using our forecasted data assuming renewables
+growth in line with market trends referenced from NGFS’ NDCs outlook and end-of-life of
+our gas-fired power plants
+•
+Assessments include all our gas-fired power plants with merchant capacities and renewables –
+ongoing operations, growth projections and concession expiry
+>3.0°C
+NGFS – Current Policies
+Assumes that currently implemented policies are
+preserved, leading to severe physical risks. Emissions
+grow until 2080 leading to about 3°C warming
+SSP5-8.5 (“Fossil-fueled development”)
+The push for economic and social development is
+coupled with exploitation of abundant fossil fuel
+sources and resource- and energy-intensive lifestyles.
+Carbon emissions will double from current levels by
+2050 and continue to rise until the end of century
+Table 2: Adjusted EBITDA simulations in climate scenarios
+NGFS, ‘Network for Greening the Financial System’ (2024)
+Adjusted EBITDA Impact (S$ million)
+IPCC, ‘Shared Socioeconomic Pathways considered in IPCC AR6’
+Gas and Related Services
+Renewables
+Total Adjusted EBITDA
+<200
+200–500
+>500
+<200
+200–500
+>500
+<200
+200–500
+>500
+other enablers are in place to support
+ambitious NDC commitments.
+Net Zero 2050 Scenario
+The results of our testing in Table 2
+illustrate our business segments’
+performance in the stress scenarios.
+2030
+Delayed Transition Scenario
+Current Policies Scenario
+Net Zero 2050 Scenario
+2040
+Delayed Transition Scenario
+Current Policies Scenario
+By 2040, if market realities continue to
+be in line with the DTS, there will be
+a low downside in the GRS segment
+and a high upside in the Renewables
+segment, reflecting the transition
+away from fossil fuels towards
+renewable energy.
+Upside
+Not significant
+Downside
+Assessment of transition risks
+Transition risks stem from uncertainties
+brought about by the global shift
+towards a low-carbon economy. These
+risks can arise from changes in climate-
+related policies and regulations, as
+well as technological advancements,
+amongst others. We conduct climate
+scenario analysis to stress test the
+resilience of our business. Our
+transition scenario analysis exercise is
+integrated into our annual strategic
+and financial planning exercise.
+leveraging partnerships, as well as
+the redeployment, repurposing and
+upgrading of our assets.
+Overall, the outcome of the analysis
+shows that our total adjusted EBITDA
+will remain stable in the medium term
+based on low and moderate climate
+ambition scenarios. In the longer term,
+renewable energy demand is expected
+to grow significantly.
+In 2030, if market realities continue to
+be in line with the Delayed Transition
+Scenario (DTS), our earnings remain
+stable. However, under a Net Zero
+2050 Scenario (NZS), we see a low
+downside in the Gas and Related
+Services (GRS) segment primarily due
+to a potential decline in gas-fired
+electricity demand, and an assumption
+that merchant market contracts will
+not accommodate carbon cost pass-
+through. There is a moderate upside
+in the Renewables segment based
+on the assumption that policies and
+Using our 2030 and 2040 forecast
+data, we stress-tested key parameters
+to assess their influence on our
+adjusted EBITDA in 2030 and 2040.
+creation for all our stakeholders.
+To drive growth, we consider various
+options including selective capital
+recycling, managing assets for value,
+Navigating the energy transition
+is not without its challenges of
+balancing macroeconomic and
+geopolitical factors, and value
+
+Climate-related Disclosures
+Strategy (continued)
+Scope of
+assessment
+• Subsidiaries where we have control
+Top Climate-related Transition Risk and Impacts
+Time horizon
+• 2030 – Considered as medium-term time horizon
+• 2040 – Considered as long-term time horizon
+Risk category: Transition risk
+Climate risk driver: Policy risk – increasing carbon prices
+Impact: Short-, medium- and long-term
+Rationale
+for scenario
+selection
+• SSP1-2.6 is an optimistic and low-emissions scenario which informs us of the potential impacts
+that may arise from low emissions
+• SSP2-4.5 is a “Middle-of-the-road” scenario and more reflective of the current state of affairs
+• SSP5-8.5 seeks to present an extreme scenario and informs us of the potential impacts that
+may arise from high emissions
+Across our portfolio, our gas-fired power plants in Singapore and the UK are subject to carbon pricing regulations,
+including Singapore’s carbon tax and the UK’s emissions trading scheme1 (ETS) and carbon price support2. Our gas-
+fired power plant in China is currently not subject to the China ETS.
+Financial
+metric
+• Adjusted EBITDA impact from property damage and loss of revenue
+Mitigating
+actions
+The impact from current and emerging regulations is mitigated through the change-in-law
+provisions in existing utilities and electricity contracts. These provisions allow for carbon cost pass-
+through to customers, which mitigates the financial impact of increasing carbon prices.
+Limitations on
+assessment
+• The third-party risk analytics tool references climate models and scenarios assumptions, which
+could result in underestimation or overestimation of risk exposure
+• Tropical cyclones are poorly represented in climate models and there is substantial uncertainty
+around their future evolution
+Inputs for
+anticipated
+effects
+• NGFS’ NZS and Current Policies Scenario (CPS) for carbon prices
+•
+For 2030, assessment includes all our gas-fired power plants with merchant capacities – ongoing
+operations and growth projections. For 2040, assessment includes assets still in operation.
+Financial
+effects
+In 2025, the cost of compliance under Singapore’s carbon tax, as well as the UK ETS and carbon
+price support mechanisms, collectively amounted to S$87 million3. However, with the carbon cost
+pass-through mechanism in our existing electricity contracts, there was no impact on our financial
+performance in 2025.
+accounting for any mitigation
+measures. Table 3 illustrates the
+output of the assessment.
+The table below provides an illustration of anticipated effects on our adjusted EBITDA in the
+climate scenarios for the relevant GRS business in Singapore and the UK. In the CPS, the impact on
+our earnings is not significant, as the carbon prices remain the same as announced. However, in
+the NZS, it is assumed that the higher carbon prices will not be fully passed through in merchant
+market contracts. This downside is expected to be mitigated by our renewables growth.
+Current Policies Scenario
+Net Zero 2050 Scenario
+(S$ million)
+<50
+50–100
+>100
+<50
+50–100
+>100
+As part of our ongoing monitoring
+system, we observed changes in
+wind speeds and solar irradiance
+against historical trends. To assess
+asset-level risk exposure to these
+factors, we used data from
+CMIP6, which provides the most
+current global climate model data
+available and forms the basis
+for the assessments in the IPCC
+AR6. Given the observed trends,
+we consider renewable resource
+variability as a physical risk.
+2030
+1. Identify asset exposure
+Our climate physical risk assessment
+is conducted annually using a third-
+party risk analytics tool. By using
+parameters such as asset location,
+value and type, the assessment
+provided insights into the exposure
+of our assets to a range of physical
+hazards, such as floods and storm
+surge, wildfire, extreme wind,
+heat wave, drought and extreme
+precipitation. The results of the
+assessments were aggregated
+to reflect the overall portfolio
+physical risk exposure, without
+We have observed cyclonic events
+in and around the locations of
+our operations based on available
+historical records. However, the
+third‑party risk analytics tool deployed
+did not provide future projections due
+to the high uncertainty surrounding
+the future evolution of tropical
+cyclones. Given the observed regional
+activity, we consider tropical cyclones
+to be a key hazard.
+2040
+Not significant
+Downside
+Table 3: Inherent physical risk exposure of our portfolio
+Gas
+Solar
+Wind
+Storage
+Urban
+Water
+Physical hazards
+Flood and storm surge4
+Low
+Low
+Low
+Low
+Low
+Low
+Wildfire
+Low
+Low
+Low
+Low
+Low
+Low
+In assessing physical risks, we
+applied asset geo-coordinates to
+third-party databases to evaluate
+potential impacts.
+Extreme wind
+Moderate
+Low
+Low
+Moderate
+Low
+Low
+and tropical cyclones. Increasingly,
+climate change is also causing shifts
+in global wind patterns and average
+temperatures, which may affect
+renewable energy generation.
+Assessment of physical risks
+Sembcorp’s assets may be exposed
+to both acute and chronic physical
+risks, which arise from the increasing
+severity and frequency of extreme
+weather events, such as floods
+Heat wave
+Low
+High
+High
+Low
+High
+Moderate
+Drought
+High
+High
+High
+Moderate
+Moderate
+High
+Extreme precipitation5
+High
+High
+High
+High
+High
+High
+1 An emissions trading scheme usually works on the ‘cap-and-trade’ principle where a cap is set on the total amount of certain GHGs that can be emitted
+by sectors covered by the scheme. Within this cap, participants receive free allowances and / or buy emission allowances at an auction or on the secondary
+market. These allowances can be traded with other participants as needed
+2 The carbon price floor was introduced on April 1, 2013 and is capped at £18/tCO2 as at December 31, 2025. It affects the fossil fuel-based electricity
+generation market in the UK by increasing the cost they face for each tonne of carbon dioxide emitted
+4 Risk of flooding from fluvial (river) and pluvial (surface) floods, typically caused by prolonged or extreme rainfall and / or from storm surge for coastal locations
+3 The figure may be subject to change upon mandatory external assurance post-publication of this report
+5 Risk of heavy downpours which can result in flooding even in areas outside designated flood zones
+
+Climate-related Disclosures
+Top Climate-related Physical Risks and Impacts
+Strategy (continued)
+renewable resource variability.
+The resulting impacts are
+summarised on pages 67 to 68.
+solar irradiance, based on the
+CMIP6 models, might impact
+renewables generation and
+revenue from our operations.
+Risk category: Physical risk
+Climate risk driver: Acute physical risk – extreme weather events such as floods and tropical cyclones
+Impact: Short-, medium- and long-term
+Floods and tropical cyclones present the most immediate concern to our priority assets. In particular, our gas-fired
+power plants in Bangladesh and Myanmar, industrial warehouses in Vietnam and a wind asset in China are most
+exposed to this risk.
+Drought and heat wave were not
+considered as top hazards as there
+were no significant impacts arising
+from historical events.
+2. Assess impact from
+physical hazards
+After the identification, we
+prioritised the assets based on
+asset value and expected loss.
+Subsequently, a screening filter
+using hazard probability measured
+by return periods1 was applied.
+Mitigating
+actions
+3. Prioritise key physical hazards
+We corroborated the key physical
+hazards listed in Table 4 against
+historical weather event footprint
+records and prioritised assets
+that have high exposure to the
+top physical hazards identified
+– floods, tropical cyclones and
+For renewable resource variability,
+we assessed how the potential
+changes in wind speeds and
+Our assets are designed and constructed in line with industry standards. For the sites identified
+as being at risk, we implement preventive measures to safeguard our assets against potential
+extreme weather events. Our gas-fired power plants have been constructed at an elevation, with a
+surrounding boundary wall to mitigate flood risk. We will continue to assess and monitor potential
+risks, and we insure our assets appropriately for any extreme weather events.
+Table 4: Key physical hazards relevant for our prioritised assets
+Inputs for
+anticipated
+effects
+• Outputs from the SSP1‑2.6, SSP2‑4.5, and SSP5‑8.5 scenarios were used in the physical risk
+assessment to determine which priority assets are most exposed to physical hazards
+• Country-specific inflation rates obtained from the International Monetary Fund
+Key physical hazards
+Potential impact
+Mitigation measures
+Financial
+effects
+Flood and
+storm surge,
+extreme
+precipitation
+In 2025, some of our assets in India and the UK were impacted by floods. In addition, an asset in
+Vietnam that was affected by Typhoon Yagi in late 2024, recorded property damage and revenue
+loss extending into 2025. Collectively, these events did not have a material impact on our financial
+performance for 2025.
+Tropical
+cyclone
+• Business interruption from
+extreme weather events may
+result in revenue loss
+• Property damage from extreme
+weather events may require
+repairs and construction,
+resulting in increased expenditure
+• We constructed our gas-fired power plants at an
+elevation higher than historical flood levels. Other
+measures adopted, subject to site conditions,
+include construction of boundary wall and storm
+water canal to prevent water ingress
+•
+We review and monitor risk exposure of our wind and
+urban assets against baseline requirements of industry
+standards to minimise damage from tropical cyclones
+Outputs from a third-party risk analytics tool were used to assess anticipated effects. Our assets
+in Bangladesh, Myanmar, China and Vietnam were found to be most exposed to the effects of
+climate-related physical risks. We identified these as priority assets and quantified the anticipated
+effects in the form of property damage and revenue loss based on insurance deductibles. The
+anticipated financial effects for these identified assets in 2030 and 2040 are illustrated as follows:
+Adjusted EBITDA Impact (S$ million)
+• Our inland gas-fired power plant has not
+experienced any severe drought events historically.
+Nonetheless, such events are covered under force
+majeure in our contracts
+Drought
+• Operation disruptions due
+to a lack of water may result
+in revenue loss and / or
+increased expenditure
+2030
+2040
+• We monitor ambient temperature and assess its
+impact on our gas-fired and wind plants, as well as
+our urban assets
+Heat wave
+•
+Increased cooling cost and
+reduced productivity due
+to heat waves may result in
+increased expenditure
+Changes in
+wind speeds
+and / or
+solar irradiance
+• Impact on renewable energy
+generation due to changing wind
+speeds and / or solar irradiance
+resulting in revenue impact
+• Wind speeds and solar irradiance analyses form a
+part of every renewable energy project investment
+case. Besides project-specific analysis, we also adopt
+geographic diversification to mitigate this risk
+• We conduct regular performance review of wind
+speeds and solar irradiance for our operational assets
+1 Return periods are statistical indicators used to describe the likelihood of a hazard event occurring within a given timeframe. They represent probabilistic estimates
+rather than precise predictions of when an event will happen or how severe it will be, subject to changing climatic conditions
+
+Climate-related Disclosures
+Top Climate-related Opportunities and Impacts
+Strategy (continued)
+Products and services: Deployment of renewable energy solutions
+Impact: Short-, medium- and long-term
+Risk category: Physical risk
+Climate risk driver: Chronic physical risk – renewable resource variability
+Impact: Short-, medium- and long-term
+Looking ahead, renewables growth across China, India, Middle East and Southeast Asia is expected to remain
+robust, with over 1,650GW of new build capacity between 2024 and 20281.
+Performance
+As at December 31, 2025, our gross installed renewable energy capacity stands at 15GW.
+Target
+Grow gross installed renewable energy capacity to 25GW by 2028.
+Renewable resource variability from changes in wind speeds and solar irradiance may impact our renewable
+electricity generation and, in turn, earnings from our Renewables business. This risk has the potential to result in
+both positive and negative financial impacts.
+Capital
+investment
+Our capital allocation plan is under review, and an update will be provided in due course.
+In 2025, we utilised S$616 million2 to grow our Renewables segment.
+Mitigating
+actions
+We assess the impact of renewable resource variability for potential investment projects and
+consider geographical and technological diversification as a mitigation strategy. We undertake
+regular performance reviews of our operational assets, utilising industry-standard weather
+forecasting tools and historical data.
+For more information on our key developments in the Renewables segment,
+please refer to the Operating and Financial Review section on pages 21 to 23.
+Inputs for
+anticipated
+effects
+Inputs for
+anticipated
+effects
+• SSP2-4.5 and SSP5-8.5 scenarios for changes in wind speeds and solar irradiance
+• 2030 and 2040 forecast assumes the generation capacity as of 2025. To isolate the impact
+of renewable resource variability, other influencing factors such as curtailment, operational
+constraints and unforeseen system disruptions are not considered
+• NGFS’ NZS and CPS for renewables generation and electricity prices. To isolate the impact
+of renewables growth in the climate scenarios, other influencing factors such as renewable
+resource variability, curtailment, operational constraints and unforeseen system disruptions
+are not considered
+• Sembcorp’s forecasted capacity for the renewables portfolio in 2030 and 2040
+Financial
+effects
+Financial
+effects
+Adjusted EBITDA for the Renewables segment was S$723 million in 2025. The financial
+performance and financial position of our Renewables segment are disclosed in Note B1 in
+the Notes to the Financial Statements on page 142.
+Using wind speeds and solar irradiance as the only variables, we quantified the impact of
+renewable resource variability on our 2025 electricity generation, benchmarking it against 2024
+levels. This analysis is based on a like-for-like comparison, only including the assets that were
+operational in both years while excluding the impact of new capacity additions. Our assessment
+indicates a generation gain of 5% compared to 2024, which, all else being equal, would
+translate to an estimated 4% increase in adjusted EBITDA in 2025 versus 2024.
+Our assessment of the anticipated effects of renewable resource variability on adjusted EBITDA
+in 2030 and 2040, compared with 2025 levels, illustrates a low impact.
+Our assessment of the anticipated effects of the deployment of renewable energy solutions on
+our adjusted EBITDA in the NZS shows upsides in earnings, mainly driven by increased renewables
+demand in the scenario datasets. Under the CPS, we observe a low downside in the 2040
+renewables earnings growth due to reduced renewable energy demand.
+SSP2-4.5
+SSP5-8.5
+Current Policies Scenario
+Net Zero 2050 Scenario
+(S$ million)
+<50
+50–100
+>100
+<50
+50–100
+>100
+(S$ billion)
+<1
+1–2
+>2
+<1
+1–2
+>2
+2030
+2030
+2040
+2040
+Upside
+Not significant
+Downside
+Upside
+Not significant
+Downside
+1 GlobalData (2025)
+2 S$616 million consists of S$466 million in capital expenditure and S$150 million in equity investment
+
+Climate-related Disclosures
+Strategy (continued)
+announced updated targets of 25GW
+renewables capacity and 0.15tCO2e/
+MWh emissions intensity by 2028,
+maintaining the absolute emissions
+target of 2.7 million tCO2e by 2030.
+Products and services: Deployment of firming1 technologies
+Impact: Medium- and long-term
+comprising renewables and firming
+systems. Australia’s legislated net-
+zero mandate provides confidence
+in the country’s commitment to
+decarbonisation, and we will partner
+with government and stakeholders to
+support their energy transition journey.
+In markets where the grid is constrained, energy storage is a key enabler for the continued growth of renewable
+energy. Energy storage technology provides firming for intermittent renewables by storing the energy to help
+maintain grid stability and dispatching the energy when needed.
+For more information on the
+proposed acquisition, please refer to
+the Events section on our Creating
+Shareholder Value webpage.
+Sembcorp India is currently working on round-the-clock (RTC) and firm and dispatchable renewable energy (FDRE)
+projects to ensure 24/7 power supply. India’s FDRE and RTC sectors are emerging as growth areas. In November
+2025, Sembcorp was awarded a 150MW FDRE and 50MW RTC power project by SJVN Limited and Solar Energy
+Corporation of India Limited (SECI) respectively in India. Sembcorp will install approximately 1.1GW of solar and
+BESS to meet the contracted capacity.
+Performance
+As at December 31, 2025, our gross installed renewable energy capacity stands at 15GW.
+Target
+Grow gross installed renewable energy capacity to 25GW by 2028.
+Following the early progress in the
+rapid scale-up of renewables, the
+energy transition has entered a
+more difficult and uncertain phase,
+requiring governments to balance grid
+integration with the intermittency of
+renewable energy, as well as energy
+security amid increasing energy
+demand. We recognise the critical
+role that energy companies play in
+providing reliable thermal baseload
+capacity as we continue to grow
+renewable energy capacity.
+From our assessment of the listed top
+climate‑related risks and opportunities
+identified for this reporting period,
+we have not identified any such risks
+or opportunities that give rise to a
+significant risk of a material adjustment
+within the next annual reporting
+period to the carrying amounts of
+assets and liabilities reported in the
+financial statements. Key estimates and
+judgments relevant to our operations
+and strategy are disclosed in the Notes
+to the Financial Statements 2025.
+Estimates and underlying assumptions
+are reviewed on an ongoing basis.
+Revisions to accounting estimates are
+recognised in the period in which the
+estimates are revised and in any future
+periods affected.
+Capital
+investment
+Our capital allocation plan is under review, and an update will be provided in due course.
+In 2025, we utilised S$616 million to grow our renewable energy portfolio.
+In view of this acquisition, Sembcorp
+expects its emissions to increase in
+the near-term before declining. As
+such, Sembcorp will not meet its
+2028 emissions intensity and 2030
+absolute emissions targets announced
+in 2023. Sembcorp is committed to
+not investing in any greenfield or
+standalone coal generation assets in
+the countries it operates that do not
+have a path for transition.
+For more information on our key developments in firming technologies, please refer to the
+News and Insights section of our webpage.
+For more information on the
+challenges of the energy transition and
+the dependencies on which our Climate
+Action Plan relies, please refer to the
+Strategy section on pages 59 to 61.
+Our updated climate action targets
+are as follows:
+Financial
+effects
+Our financial effects from the Renewables segment are reflected in the ‘Deployment of renewable
+energy solutions’ opportunity on page 69.
+Our Climate Action Targets
+We launched our climate change
+strategy in 2018 and unveiled our
+inaugural strategic plan in 2021,
+setting out our plans and targets for
+2025. In the short span of two years,
+we met our 10GW gross installed
+renewables capacity target and
+achieved emissions intensity of 0.29
+tonnes of carbon dioxide equivalent
+per megawatt-hour (tCO2e/MWh).
+Products and services: Deployment of decarbonisation solutions
+Impact: Medium- and long-term
+•
+By 2028, grow gross installed
+renewable energy capacity2 to 25GW
+• By 2035, achieve emissions
+intensity3 of 0.26tCO2e/MWh
+• By 2050, deliver net-zero
+emissions (Scope 1 and 2)
+We announced the proposed
+acquisition of Alinta Energy in
+December 2025. Alinta is an integrated
+Australian energy player with installed
+and contracted generation capacity
+across coal, gas, wind and solar, and
+offers access to 10.4GW of potential
+development pipeline in Australia
+In 2023, in response to the progress
+we made against our targets, we
+Over 100 countries have adopted net-zero pledges through legislation, policy documents or long-term strategies,
+covering approximately 82% of global emissions. Decarbonisation solutions such as green power import, green fuels,
+renewable energy certificates and carbon credits are expected to become increasingly relevant and in demand as the
+world transitions to a low-carbon economy.
+2018
+2021
+2023
+2025
+2028
+2035
+Targets
+(set in 2021)
+Target
+(set in 2023)
+Target
+(set in 2025)
+Set 2028
+climate action
+targets
+Set 2025, 2030
+and 2050
+climate action
+targets
+First Singaporean
+energy company
+to publish a
+climate strategy
+Renewables2
+Renewables2
+TARGET
+ACHIEVED
+25GW
+Emissions intensity3
+0.26tCO2e/MWh
+Sembcorp is well-positioned to capitalise on these emerging opportunities. Biomethane, which can be blended
+with natural gas, has the potential to replace natural gas partially. While it is relatively more affordable compared
+to other low-carbon options, it continues to be priced at a premium. Sembcorp is participating in the 300MW
+biomethane Call for Proposal launched by Singapore’s EDB. The sandbox aims to catalyse market development while
+testing commercial viability and operational frameworks. We are also exploring other innovations such as solid oxide
+fuel cells, which offer high-efficiency, low-emission power generation with the potential for carbon capture
+to complement the continued use of natural gas.
+10GW
+aligned with well
+below 2°C trajectory
+Our capital allocation plan is under review, and an update will be provided in due course.
+Capital
+investment
+2050
+Emissions intensity3
+0.40tCO2e/MWh
+For more information on our key developments in the Decarbonisation Solutions,
+please refer to the Operating and Financial Review section on pages 27 to 29.
+TARGET
+ACHIEVED
+aligned with well
+below 2°C trajectory
+Net zero
+Financial
+effects
+The decarbonisation solutions described are still at an early stage. Given the limited visibility on future
+demand of decarbonisation solutions at this point, we are unable to quantify the financial effects.
+2 Gross installed renewable energy capacity refers to gross capacity of the plant at commercial operation date (in megawatt alternating current for
+wind, solar and hydropower, and in megawatt-hour for energy storage) as specified in the grid connection agreement or as permitted (assumes
+100% ownership of the facility). Figure excludes acquisitions pending completion and projects secured or under construction
+3 GHG emissions intensity refers to the Group’s total GHG direct emissions (Scope 1) from its activities, indirect emissions (Scope 2) from its energy
+consumption and biogenic emissions from bioenergy feedstocks, divided by total energy generated and purchased, as calculated using an equity
+share approach for all operations referencing the GHG Protocol. It covers subsidiaries, joint ventures and associates
+1 Firming refers to technologies that enhance the reliability and stability of renewable energy sources to reduce its variability and intermittency
+
+Climate-related Disclosures
+Strategy (continued)
+2023–2025
+2026–2035
+By 2050
+Divestment of 2.6GW SEIL Energy India
+Limited coal-fired power plants in India
+Commencement of 600MW
+hydrogen-ready CCGT
+power plant in Singapore
+Divestment of 1.3GW Chongqing
+Songzao coal-fired power plant in China
+Phase out existing gas-
+fired power plants in line
+with respective countries’
+transition plans and net-
+zero targets
+Grow renewables capacity
+to 25GW by 2028
+Concession expiry of 0.7GW Phu My 3
+gas-fired power plant in Vietnam
+Selective capital recycling
+initiatives
+Support countries to
+increase low-carbon share
+in the grid mix
+Acquisition of 50% stake in 2.6GW
+Senoko Energy in Singapore and 100%
+stake in Alinta Energy in Australia
+uncertainties we face across our
+markets. Based on this assessment,
+we set our emissions intensity target
+within the well below 2°C trajectory.
+The target and methodology have
+been independently assured on a
+limited basis2. Our 2050 target of
+net-zero emissions remains consistent
+with the requirements to limit global
+warming to 1.5°C.
+Strategic investments in thermal baseload to support energy security
+Grew renewables capacity to 15.0GW
+in 2025
+Concession expiry or end-of-life of relevant gas-fired power plants.
+Older plants are expected to be used as flexible backup or undergo
+technological upgrade
+Invest in low-carbon solutions such as biomethane, solid oxide fuel
+cells, renewables firming and power imports
+Sembcorp’s diversified energy
+portfolio helps countries navigate
+the multi-faceted challenges of the
+energy transition. Renewables drive
+decarbonisation, while reliable thermal
+baseload capacity ensures security and
+stability for sustained growth. Alongside
+firm and hybrid renewables projects,
+Sembcorp’s gas-fired generation
+portfolio delivers efficient and accessible
+energy during this transition. Our gas-
+fired power plants achieved industry-
+leading reliability of 99.8% in FY2025 –
+outperforming the global benchmark1.
+With past and current changes to
+our portfolio, our base year emissions
+have been re-based to account for
+emissions arising from the proposed
+acquisition of Alinta Energy and
+other acquisitions, divestments and
+concession expiry. The 2023 base
+year emissions take into account
+key corporate actions with effect
+from 2024, referencing the GHG
+Protocol on base year recalculation.
+This updated base year data which
+accounts for emissions on an equity
+basis (including joint ventures and
+associates) was consequently used
+to set the 2035 target.
+0.39
+tCO2e/MWh
+0.26
+tCO2e/MWh
+Since our Investor Day in 2023,
+there have been key changes to
+our portfolio including:
+0.29
+tCO2e/MWh
+0.21
+tCO2e/MWh
+Net
+zero
+Our target review approach
+As an energy company supporting
+the energy transition, we are attuned
+to the changing facets of energy
+systems and technologies, as well as
+its risks and opportunities. We seek
+to be responsive to market dynamics
+and local realities and will review our
+targets as part of our strategic review
+cycle, or in cases of major trigger
+events such as mergers, acquisitions
+(M&A) or divestments that result in
+a change of more than 10% of base
+year emissions intensity.
+2023
+Base year
+2035
+Target
+2025
+2026
+2050
+Target
+Note
+The trajectory is presented for illustration purposes. The
+path to net zero is not expected to be linear and is subject
+to the transition readiness of the markets we operate in
+GHG emissions intensity (actual)
+GHG emissions intensity (adjusted for M&As, divestments and concession expiry)
+GHG emissions intensity aligned with well below 2°C trajectory
+Our target setting approach
+Recognising that the pace and
+scale of transition to net zero will
+depend on each country’s capacities,
+constraints and local realities, we
+have adopted a country-specific
+lens to establish the Group’s future
+trajectory. We used publicly available
+scenario datasets (including regional-
+or country-specific scenarios where
+available) published or used by the
+IPCC AR6 and third-party databases,
+such as the NGFS, BloombergNEF and
+Inevitable Policy Response by United
+Nations Principles for Responsible
+Investment. These scenarios and
+resultant trajectories reflect structural
+differences across countries and
+represent the contribution of our
+markets. The country-level trajectories
+are weighted based on Sembcorp’s
+country concentration and aggregated
+to derive our group-level trajectories.
+• Transfer of 67%-owned Phu My
+3 Build-Operate-Transfer power
+project joint venture in Vietnam,
+a 0.7GW gas-fired plant, to EVN
+upon its concession expiry in 2024
+•
+Divestment of 49%-owned joint
+venture Chongqing Songzao power
+plant in China, a 1.3GW coal-fired
+plant, previously impaired in 2021,
+was completed in 2024
+• Increase of stake in Senoko Energy
+Singapore from 30% to 50%
+in 2025. Senoko has 2.6GW of
+registered generation capacity
+• Proposed acquisition of 100%
+interest in Alinta Energy Australia
+in December 2025. The Alinta
+portfolio includes 3.4GW
+of installed and contracted
+generation capacity across coal,
+gas, wind and solar assets
+• Manage emissions
+Some of our older gas-fired power
+plants are expected to be used
+as a flexible backup or undergo
+technological upgrades, while
+others will reach concession
+expiry or technical end-of-life.
+• Grow renewables
+Growing our renewable energy
+capacity continues to be a key
+lever to advance the energy
+transition. Increasingly, energy
+storage technologies will be
+an enabler to manage the
+intermittent nature of renewables
+and integration with the grid.
+Sembcorp’s existing gas-fired power
+plants remain crucial in meeting the
+energy demands of Asia. Our highly
+contracted position on these assets
+provides steady and predictable
+cash flow to fuel the growth of our
+Renewables business, as we manage
+our gas-fired generation portfolio to
+support Asia’s energy needs.
+These trajectories collectively formed
+a range that provided a backdrop to
+our strategic review process, which
+is informed by the macroeconomic
+outlook and industry conditions, as
+well as the risks, opportunities and
+Our Climate Action Plan
+The path to net zero is not expected
+to be linear and will be dependent
+on numerous factors, including
+clear and stable policy signals and
+commitment, as well as modern grid
+infrastructure that integrates flexibility,
+interconnection and storage. The
+transition to a lower-carbon future
+requires transformative changes to
+energy sector players and systems,
+particularly in markets that are deeply
+entrenched in fossil fuel infrastructure
+and power purchase agreements.
+As the world reduces its reliance on
+fossil fuels, reliable and accessible
+renewable energy, as well as low-
+carbon feedstock, must be scaled up
+to meet the needs of industry. We
+believe that gas will play an important
+role in the transition.
+Our decarbonisation levers
+We will pursue three key levers to
+meet our 2035 and 2050 targets.
+For more information on
+our strategy for Renewables,
+please refer to the Operating
+and Financial Review section
+on pages 21 to 23.
+1 Benchmarked against Strategic Power Systems, Inc. (SPS)’s global Operational Reliability Analysis Program (ORAP®) factor of 97.2% as at 3Q2025. The
+ORAP® program is a voluntary database and benchmarking initiative covering over 3,000 turbine units globally. This Data has been obtained directly from
+ORAP®. All rights in and to such Data are reserved by SPS
+2 Independent Limited Assurance Report by ERM CVS Australia Pty Ltd can be found on pages 88 to 89
+We will continue to manage our
+assets for value, including possible
+divestments and capital recycling.
+Efficiency improvements will also be
+pursued via optimisation projects.
+The use of carbon credits to meet
+the Group’s emissions intensity
+target is not a consideration at
+this point. However, some of our
+plants may come under compliance
+carbon markets.
+
+Climate-related Disclosures
+Strategy (continued)
+Metrics and Targets
+Key metrics, including disaggregated emissions, renewables capacity, capital
+deployment and internal carbon price, can be found in the Supplemental
+Information: Performance Indicators section on page 76.
+capabilities and networks. These
+projects include low-carbon
+electricity imports, electricity
+generation from solid oxide fuel
+cells with carbon capture, as well
+as biomethane; and low-carbon
+feedstock production such as
+green hydrogen and ammonia.
+start date of implementation
+for low-carbon electricity import
+will be from 2028, and carbon
+capture, utilisation and storage
+technologies will be from 2030.
+We continue to take a disciplined
+and calculated approach to invest
+in low-carbon initiatives, building
+• Invest in low-carbon initiatives
+Low-carbon technologies
+development continues to be
+nascent. In Singapore’s First
+Biennial Transparency Report
+2024, the Singapore government
+has indicated that the potential
+Our 2028 emissions intensity target was updated in 2025. As part of this update,
+the 2023 base year was adjusted for changes in our portfolio, and a new target
+year of 2035 was set.
+Table 5: 2025 progress of our key decarbonisation levers
+In line with our strategic plan
+and targets for 2028, we updated
+our Green Financing Framework
+(2024) to include new eligible green
+project categories, supporting our
+commitment to tap on sustainable
+financing instruments for capital
+raising. Following which, we issued
+a S$350 million green bond under
+our Green Financing Framework
+(2024) in October 2024.
+Figure 4 shows our emissions intensity performance. GHG emissions intensity2
+reduced to 0.21tCO2e/MWh in 2025, driven by the reduction in absolute
+GHG emissions and increase in our renewable energy generation.
+Key decarbonisation levers
+2025 progress
+An illustration of the adjusted emissions intensity, accounting for the impact
+from M&As, divestments and concession expiry, has been provided in Figure 4.
+Grow renewables
+• Grow gross installed
+renewable energy capacity
+to 25GW by 2028
+Figure 4: Performance against emissions intensity target
+As at December 31, 2025, the
+borrowing facilities under our Green
+Financing Frameworks and Sustainable
+Financing Framework stood at
+S$5.1 billion1, of which S$3.6 billion1
+are outstanding borrowings.
+• Grew our gross installed renewable energy capacity from 13.1GW in 2024 to
+15.0GW in 2025
+• Awarded its first RTC power project of approximately 300MW of solar, wind and
+energy storage from SECI
+• Awarded a 150MW FDRE project for India’s Inter-State Transmission System
+Emissions Intensity (Scope 1 and 2) (tCO2e/MWh)
+• Our global energy and water facilities undertook 15 energy optimisation projects
+that led to a reduction of close to 24,000MWh of electricity consumed, equivalent
+to over 10,000tCO2e emissions avoided
+0.39
+For more information on our
+Green and Sustainable Financing
+Frameworks and reports, please refer
+to the Fixed Income section on the
+Creating Shareholder Value webpage.
+Manage emissions
+• Expiry of concession
+•
+Manage gas-fired generation
+portfolio for value
+• Implement optimisation
+projects to improve efficiency
+0.39
+-30%
+0.37
+0.29
+0.27
+0.26
+Invest in low-carbon initiatives
+• Renewable energy imports
+and firming technologies
+• Low-carbon technologies
+for electricity generation
+• Low-carbon feedstock
+production
+0.21
+Acquisitions and divestments
+Between 2024 and 2025, we
+announced a total of 659MW of
+renewables capacity, 2.0GW of
+gas-fired capacity and 1.1GW of
+coal-fired capacity, which include
+projects pending completion. We
+also completed the divestment of
+the Sembcorp Environment business.
+• Entered into a joint venture agreement with Bharat Petroleum Corporation Limited
+to explore renewable energy and green hydrogen projects across India
+• Granted conditional approval by the EMA of Singapore to import around 1GW
+renewable energy from Sarawak, Malaysia to Singapore
+•
+Construction of a new 600MW hydrogen-ready CCGT power plant in Singapore
+•
+Signed a Memorandum of Understanding (MoU) with India’s Government of Odisha to
+explore the development of a production facility for green hydrogen and its derivatives,
+with an anticipated production capacity of 720,000 metric tonnes per annum
+•
+Signed two MOUs with V.O. Chidambaranar Port and Paradip Port Authorities in
+India to develop an integrated ecosystem for production and handling of green
+hydrogen and its derivatives in and around these ports
+Net zero
+Solutions business, as well as
+business-as-usual requirements.
+2023
+Base year
+2024
+2025
+2035
+Target
+2050
+Target
+GHG emissions intensity (actual)
+GHG emissions intensity (adjusted for M&As, divestments and concession expiry)
+Our capital allocation plan is
+under review, and an update will
+be provided in due course.
+Direct cost
+In our existing operations, we
+have integrated a carbon budget
+assessment as part of our annual
+financial budget and forecast exercise.
+The output of this assessment provides
+country-specific GHG emissions and
+carbon cost forecast. This forecast
+forms the basis for the setting of the
+market’s emissions intensity targets.
+Access to capital
+2021 marked Sembcorp’s first foray
+into sustainable finance with our
+inaugural S$400 million green bond
+and S$675 million sustainability-
+linked bond. Proceeds from these
+issuances supported the Group’s
+strategic transformation plan.
+1 Values are derived using December 2025 month-end closing exchange rates
+For more information, please
+refer to the Sustainable Finance:
+Annual Update 2025 on page 47.
+2 GHG emissions intensity refers to the Group’s total GHG direct emissions (Scope 1) from its activities, indirect emissions (Scope 2) from its energy
+consumption and biogenic emissions from bioenergy feedstocks, divided by total energy generated and purchased, as calculated using an equity
+share approach for all operations referencing the GHG Protocol. It covers subsidiaries, joint ventures and associates
+Financial Planning 2023–2028
+Capital expenditure and allocation
+In 2023, we presented our five-year
+investment plan which was projected
+to be S$14 billion. 75% was expected
+to be invested in renewable energy,
+and 10% of the investment will be
+allocated to exploring and expanding
+our decarbonisation solutions,
+including green hydrogen and
+ammonia projects, power imports
+and carbon management solutions.
+The remaining 15% was allocated for
+investments in the Integrated Urban
+For more information on
+our investments in renewable
+energy, firming and low-carbon
+technologies, please refer to the
+Operating and Financial Review
+section on pages 21 to 23 and
+27 to 29 respectively.
+
+Supplemental Information
+Performance Indicators
+Climate Action
+Empowering Lives
+Unit
+2025
+2024
+2023
+GRI/ISSB
+Unit
+2025
+2024
+2023
+GRI
+Human Capital Management17
+Energy Transition*
+GHG emissions1
+Employment
+Number of employees
+number
+4,629
+5,347
+5,063
+2-7
+Male
+number | %
+3,578 |
+4,235 |
+3,980 |
+Female
+number | %
+1,051 |
+1,112 |
+1,083 |
+Breakdown of employees by age
+group
+405-1
+r1, r2
+Scope 1 emissions2
+ktCO2e
+7,425.4
+9,054.0
+10,183.9
+305-1
+Subsidiaries
+ktCO2e
+4,345.4
+–
+–
+S2 (29)
+Joint ventures & associates
+ktCO2e
+3,080.0
+–
+–
+Scope 2 emissions3
+ktCO2e
+282.9
+233.7
+288.1
+305-2
+Subsidiaries
+ktCO2e
+193.7
+–
+–
+S2 (29)
+Joint ventures & associates
+ktCO2e
+89.2
+–
+–
+Scope 3 emissions4
+ktCO2e
+15,340.2
+15,230.0
+16,988.1r1
+305-3
+Category 3 – Fuel- and energy-related activities
+ktCO2e
+2,876.1
+3,107.4r1
+2,878.2r1
+Category 11 – Use of sold products
+ktCO2e
+2,596.3
+2,429.5r2
+3,571.8
+Category 15 – Investments
+ktCO2e
+9,867.8
+9,693.1
+10,538.1
+Biogenic emissions5
+Direct biogenic emissions
+ktCO2
+343.0
+576.7
+563.3
+305-1
+Indirect biogenic emissions
+ktCO2
+282.6
+115.0
+106.5
+305-3
+GHG emissions intensity6
+tCO2e/MWh
+0.21
+0.27
+0.29
+305-4
+Reliability factor7
+%
+99.8
+–
+–
+–
+<30 years
+%
+30–49 years
+%
+≥50 years
+%
+Percentage of females
+405-1
+Senior management18
+%
+Board of directors
+%
+New employee hires
+number | %
+874 |
+1,202 |
+1,069 |
+401-1
+New hires by gender19
+401-1
+Male
+%
+Female
+%
+New hires by age group19
+401-1
+<30 years
+%
+30–49 years
+%
+≥50 years
+%
+viii Financed Emissions Standard by the Partnership
+for Carbon Accounting Financials
+Climate Risks (Climate-related Disclosures – Metrics)
+Gross installed renewable energy capacity8
+GW
+15.0
+13.1
+9.4
+–
+Business activities vulnerable to transition risks9
+S$ billion | %
+1.0 | 50
+–
+–
+S2 (29)
+Assets vulnerable to physical risks10
+S$ billion | %
+1.9 | 13
+–
+–
+Business activities aligned to climate-related opportunities11
+S$ million | %
+723 | 36
+–
+–
+Capital deployment for climate-related opportunities12
+S$ million
+–
+–
+Internal carbon price (range)13
+S$/tCO2e
+25 to 183
+–
+–
+Direct (Scope 1) GHG emissions data covers entities
+that produce GHGs from fossil fuel combustion and
+fugitive emissions in our operations
+SGX Core ESG Metrics – Environmental*
+Gross installed renewable energy capacity refers to
+gross capacity of the plant at commercial operation date
+(in megawatt alternating current for wind, solar and
+hydropower, and in megawatt-hour for energy storage)
+as specified in the grid connection agreement or as
+permitted (assumes 100% ownership of the facility).
+Figure excludes acquisitions pending completion and
+projects secured or under construction
+Our GRS segment is exposed to transition risk of carbon
+pricing. Figures reflect adjusted EBITDA of GRS segment,
+and its share in total adjusted EBITDA
+PJ
+35.9
+35.3
+36.9
+Energyr3
+Total energy consumption within Sembcorp14
+PJ
+37.6
+37.0
+38.7
+302-1
+Total energy consumption within energy
+generation assets
+Energy indirect (Scope 2) GHG emissions include
+location-based data for all our Gas and Related Services
+(GRS), Renewables, Integrated Urban Solutions (IUS)
+and Decarbonisation Solutions segments. The data
+for IUS includes tenants’ electricity consumption
+under operational leases. In Singapore, our operations
+purchase energy from our own assets, and to avoid
+double counting, the emissions from these have been
+accounted for under Scope 1 GHG emissions
+‘–‘: Data not available / disclosed
+* Any discrepancies between the total and the sum of
+individual amounts are due to rounding
+Measurement units:
+ktCO2e: kilotonnes of carbon dioxide equivalent
+ktCO2: kilotonnes of carbon dioxide
+tCO2e/MWh: tonnes of carbon dioxide
+equivalent per megawatt-hour
+GW: gigawatt
+tCO2e: tonnes of carbon dioxide equivalent
+PJ: petajoules or 1,000,000 GJ
+GJ/MWh: gigajoule per megawatt-hour
+ML: megalitres or 1,000m3
+10 Based on the outputs from a third-party risk analytics
+tool used to assess anticipated effects, we identified
+priority assets most exposed to physical risks. Figures
+reflect asset value of these priority assets, and their share
+in total value of all our assets under our control
+Energy intensity of our energy generation assets15
+GJ/MWh
+1.4
+1.6
+1.7
+302-3
+Waterr3
+m3/MWh: cubic metres per megawatt-hour
+kt: kilotonnes
+11 Reflects the adjusted EBITDA of our Renewables
+segment, and its share in total adjusted EBITDA
+r1 We restated Category 3 emissions due to reporting
+methodology refinement and reclassification arising from
+load utilisation activities from Category 11 emissions
+12 Reflects capital expenditure and equity investment of
+Renewables and Decarbonisation Solutions segments
+r2 We restated Category 11 emissions due to the
+exclusion of natural gas which is conveyed through
+our network but not owned nor sold by Sembcorp
+Water consumption within Sembcorp
+303-5
+All areas (total)
+ML
+12,410.8
+11,284.5
+12,527.0
+Stressed areas
+ML
+4,916.9
+3,711.9
+4,545.1
+Freshwater consumption intensity for
+energy generation assets16
+m3/MWh
+0.24
+0.25
+0.30
+–
+13 We adopt country‑specific carbon prices to conduct
+scenario analysis and assess impacts to our GRS
+segment. The figures reflect the range of carbon prices
+used for the operations subject to carbon pricing
+regulations in 2025
+Indirect (Scope 3) GHG emissions reported include:
+Fuel- and energy-related activities (Category 3), Use
+of sold products (Category 11), and Investments
+(Category 15); which together account for majority
+of our Scope 3 emissions. The proportional emissions
+of SEIL Energy India Limited have been accounted
+for under Category 15 since January 2023. Category
+3, 11 and 15 emissions are calculated based on
+average-data method, direct use-phase emissions,
+and investment specific method respectively. The total
+Scope 3 GHG emissions for 2024 and 2023 has been
+restated as per r1 and r2
+r3 We restated our Energy and Water data for 2024 and
+2023 due to refinement of reporting scope to align
+with financial reporting boundaries
+Referencing the GHG protocol, direct and indirect
+biogenic emissions are reported separately from the
+combustion of biomass and not included in Scope 1
+and Scope 3 respectively
+14 Total energy consumption within Sembcorp is calculated
+using fuel consumption (natural gas, waste, biomass,
+fuel oil, diesel and petrol) + energy purchased for
+consumption + self-generated electricity (renewables) –
+total energy sold
+15 Energy intensity is calculated using energy consumed
+(within the organisation) as the numerator (GJ), and
+gross energy generated (MWh) as the denominator
+16 Freshwater consumption intensity for energy generating
+assets is calculated using total freshwater consumption
+as the numerator, and total energy generated as
+the denominator. Freshwater includes municipal
+water supply, surface water and groundwater;
+it excludes seawater
+GHG emissions intensity refers to the Group’s total GHG
+direct emissions (Scope 1) from its activities, indirect
+emissions (Scope 2) from its energy consumption and
+biogenic emissions from bioenergy feedstocks, divided
+by total energy generated and purchased, as calculated
+using an equity share approach for all operations
+referencing the GHG Protocol. It covers subsidiaries,
+joint ventures and associates. The intensity figures for
+historical years do not take into account the effect of
+current year pro rata emissions
+17 Human Capital Management data relates to permanent
+and contract employees of Sembcorp and its subsidiaries
+18 Senior management is defined as employees who have
+the designation of senior vice president and above
+Waste
+Waste generation within Sembcorp
+kt
+72.3
+150.7
+141.2
+306-3
+Non-hazardous waste
+kt
+34.2
+103.2
+92.1
+306-3
+Ash
+kt
+0.0
+63.6
+56.8
+Operations and maintenance waste
+kt
+0.5
+0.9
+0.7
+Sludge
+kt
+32.8
+34.9
+29.9
+Others
+kt
+0.9
+3.8
+4.7
+Hazardous waste
+kt
+38.2
+47.6
+49.1
+306-3
+Operations and maintenance waste
+kt
+13.2
+16.1
+18.1
+Ash
+kt
+11.4
+15.5
+14.1
+Sludge
+kt
+11.0
+14.7
+15.6
+Oil and chemical waste
+kt
+1.3
+1.0
+0.9
+Electronic waste
+kt
+0.01
+0.01
+0.01
+Others
+kt
+1.2
+0.3
+0.5
+19 New hires by gender and age group is the percentage of
+new hires by gender / age group over the total number of
+employees in the respective gender / age group category
+Calculation of reliability factor follows methodology
+established by the Strategic Power Systems, Inc. (SPS)’s
+global Operational Reliability Analysis Program (ORAP®).
+The ORAP® is a voluntary database and benchmarking
+initiative covering over 3,000 turbine units globally. This
+Data has been obtained directly from ORAP®. All rights
+in and to such Data are reserved by SPS
+GHG emissions and related targets include carbon dioxide
+(CO2), methane, nitrous oxide, hydrofluorocarbons and
+sulphur hexafluoride. We use equity share approach for
+GHG emissions accounting which aligns with our financial
+accounting approach. Formulas and emission factors used
+for calculating 2025 figures are from:
+i
+Electricity CO2 emission factors by China Ministry
+of Ecology and Environment, as well as National
+Bureau of Statistics of China
+ii
+Clean Development Mechanism – CO2 Baseline
+Database by Central Electricity Authority of India
+iii Energy Market Authority, Singapore
+iv Guidelines for Accounting Methods and Reporting
+of GHG Emissions by Chinese chemical manufacturers
+v
+International Energy Agency
+vi Intergovernmental Panel on Climate Change
+Guidelines for National GHG Inventories
+vii United Kingdom (UK) Department for Net
+Zero and Security GHG Conversion Factors for
+Company Reporting
+
+Supplemental Information
+Performance Indicators
+Empowering Lives (continued)
+Resilient Business (continued)
+Unit
+2025
+2024
+2023
+GRI
+Unit
+2025
+2024
+2023
+GRI
+Human Capital Management17 (continued)
+Employment (continued)
+Employee turnover20
+number | %
+818 | 18
+977 | 18
+1,024 | 21
+401-1
+Turnover rate by gender21
+401-1
+Male
+%
+Female
+%
+Turnover rate by age group21
+401-1
+<30 years
+%
+30–49 years
+%
+≥50 years
+%
+Training and education
+Average learning hours per employee
+hours per employee
+26.5
+24.0
+21.1
+404-1
+Male
+hours per employee
+26.3
+23.0
+21.6r4
+Female
+hours per employee
+27.2
+27.8
+19.1r4
+Number of employees and partners
+upgraded22
+number
+1,983
+–
+Health and Safety23 (continued)
+Work-related injuries and ill health (continued)
+Fatal accident rate26
+per million man-hours
+0.03
+0.09
+0.04
+403-9
+Employee
+per million man-hours
+0.00
+0.00
+0.08
+Contractor
+per million man-hours
+0.04
+0.14
+0.00
+Lost time injury rate27
+per million man-hours
+0.2
+0.5
+0.5
+403-9
+Employee
+per million man-hours
+0.2
+0.7
+0.7
+Contractor
+per million man-hours
+0.1
+0.4
+0.4
+Total recordable injury rate28
+per million man-hours
+0.7
+1.0
+1.0
+403-9
+Employee
+per million man-hours
+0.8
+1.4
+1.3
+Contractor
+per million man-hours
+0.6
+0.9
+0.8
+Occupational disease rate
+per million man-hours
+0.0
+0.0
+0.0
+403-10
+Employee
+per million man-hours
+0.0
+0.0
+0.0
+Contractor
+per million man-hours
+0.0
+0.0
+0.0
+Number of man-hours worked
+million man-hours
+33.6
+33.4
+28.4
+403-9
+Employee
+million man-hours
+9.8
+12.4
+13.0
+Contractor
+million man-hours
+23.8
+21.0
+15.4
+%
+413-1
+Community Investment
+Community investments
+S$ million
+6.2
+4.9r5
+4.4r5
+201-1
+Operations with local community engagements
+and / or development programmes
+number | S$
+thousands
+2 | 2,02631
+0 | 0
+2 | 56032
+2-27
+Risk Governance
+IAF implementation across LOBs29
+%
+–
+Total number and monetary value of
+significant30 fines paid
+during the reporting period
+Resilient Business
+%
+205-1
+Unit
+2025
+2024
+2023
+GRI
+Operations29 assessed for risks
+related to corruption
+Health and Safety23
+Employee completion of
+ABC training33
+%
+205-2
+Confirmed incidents of corruption
+number
+205-3
+r4 We restated our average learning hours per employee
+by gender for 2023 due to the figures being
+inadvertently interchanged
+24 High-consequence injuries refer to injuries that result
+in permanent disability and / or injuries that require
+long-term follow-up such as physiotherapy treatment
+and where the individual is not expected to recover
+fully to pre-injury health status within six months
+31 Incurred by our UK renewables operations which
+include S$1,942,000 for a delay in delivering battery
+energy storage system project to the National Grid in
+2024 outlined by the regulator, as well as S$84,000
+for exceeding emissions targets under the GHG
+Emissions Trading Scheme Order 2020 in 2022
+r5 We restated our community investment figures for
+2024 and 2023 due to data aggregation error at one
+of our operations
+20 Employee turnover covers both voluntary and
+involuntary turnover
+21 Rate of employee turnover by gender and age group
+is the percentage of employee turnover by gender /
+age group over the total number of employees in the
+respective gender / age group category
+25 Lost work-day count begins the day after the onset of
+the accident. “Day” refers to calendar day. It includes
+high-consequence work-related injuries, which refer
+to injuries that result in permanent disability and /
+or injuries that require long-term follow up such as
+physiotherapy treatment and where the individual is
+not expected to recover fully to pre-injury health status
+within six months
+Work-related injuries and ill health
+Work-related fatalities
+number
+403-9
+Employee
+number
+Contractor
+number
+High-consequence injury cases24
+number
+403-9
+Employee
+number
+Contractor
+number
+Lost work-day cases25
+number
+403-9
+Employee
+number
+Contractor
+number
+Occupational diseases
+number
+403-10
+Employee
+number
+Contractor
+number
+26 Fatal accident rate is defined as the number of
+fatalities per 100 million man-hours worked
+27 Lost time injury rate is defined as the number of lost
+work-day cases per million man-hours worked
+22 Upgraded employees and partners refer to Sembcorp
+employees, contractors and the general public
+who completed eligible programmes developed
+or supported by Sembcorp, as well as recipients of
+scholarships and / or bursaries funded by Sembcorp
+28 Total recordable injury rate is defined as the number
+of fatalities, lost work-day cases, medical treatment
+cases, and restricted work cases per million man-
+hours worked
+32 Consists of a contribution of approximately S$485,000
+by our UK waste-to-resource operations to a
+wildlife trust alongside a commitment to implement
+improvements in respect of certain internal procedures
+and processes which the company has completed.
+This is a settlement in relation to a 2021 investigation
+of the misclassification of bottom ash waste. The
+regulator concluded that there was no actual pollution
+arising from the misclassification. There was also an
+additional recovery cost of approximately S$6,000
+paid in 2024
+The remaining S$75,000 of the reported amount
+pertains to a fine incurred by our solid waste
+management operations in Singapore in 2023 due to
+a failure to meet contractual obligations outlined by
+the regulator. Remediation actions were implemented
+to prevent any such incident in the future
+29 Coverage follows the reporting scope of this
+Sustainability Report
+30 Refers to individual fines that are equal to or above
+S$50,000 that are paid during the financial year
+33 Refers to employees as at October 31, 2025. New
+hires are given more time to complete ABC training as
+part of their onboarding
+23 Group Health and Safety Performance is reported
+and recorded in accordance with the reporting
+requirements defined in the GHSSE Health and Safety
+Performance Reporting Standards. The principles
+adopted in our standards are consistent with the
+general principles of the GRI Standards, the IOGP
+Reporting Standards, and guidelines by the US NIOSH.
+Occupational health and safety data covers employees
+and contractors in our operational assets, assets under
+construction and administrative offices
+
+GRI Content Index
+Sembcorp Industries has reported the information in this GRI content index for the period January 1 to December 31, 2025
+with reference to the GRI Standards.
+Corporate Governance Statement
+92–96
+GRI standard
+Disclosure
+reference
+Description title
+Disclosure
+Page(s)
+External
+assurance
+Governance (continued)
+GRI 2: General
+disclosures 2021
+2-10
+Nomination and
+selection of the highest
+governance body
+We report all sustainability data, with the exception of GHG emissions data, using an operational control approach. All
+operations, joint ventures, partnerships and associates where Sembcorp does not have control are excluded. We report
+our absolute emissions and emissions intensity using an equity share approach. Data on health and safety, as well as
+community investments from our assets under construction is included.
+2-11
+Chair of the highest
+governance body
+Board of Directors
+30–34
+Our Approach:
+Sustainability Governance
+43–44
+Assured by KPMG as part of the review of Sembcorp’s financial statements. The Independent Auditor’s Report can be
+found on pages 118 to 122.
+Climate-related Disclosures 2025: Governance
+56–57
+2-12
+Role of the highest
+governance body
+in overseeing the
+management of impacts
+Assured by DNV as part of the independent limited assurance of the Sustainability Report 2025. The Assurance
+Statement can be found on pages 84 to 87.
+Our Approach:
+Sustainability Governance
+43–44
+2-13
+Delegation of
+responsibility for
+managing impacts
+General Disclosures
+Our Approach: Materiality
+Our Approach: Sustainability Governance
+43–44
+Climate-related Disclosures 2025: Governance
+56–57
+2-14
+Role of the highest
+governance body in
+sustainability reporting
+2-16
+Communication of
+critical concerns
+Whistleblowing Policy
+Corporate Governance Statement
+90–94
+2-17
+Collective knowledge
+of the highest
+governance body
+Corporate Governance Statement
+2-18
+Evaluation of
+the performance
+of the highest
+governance body
+GRI standard
+Disclosure
+reference
+Description title
+Disclosure
+Page(s)
+External
+assurance
+GRI 1: Foundation 2021
+Sustainability Report 2025
+38–83
+The organisation and its reporting practices
+GRI 2: General
+disclosures 2021
+2-1
+Organisational details
+Legal Name
+Nature of Ownership and Legal Form
+Location of Headquarters
+Geographical Segments
+Our Businesses
+2-2
+Entities included
+in the organisation’s
+sustainability reporting
+Our Approach: Reporting Scope
+Notes to the Financial Statements: Our Group
+Structure
+226–230
+2-19
+Remuneration policies
+Corporate Governance Statement
+96–100
+2-20
+Process to determine
+remuneration
+Corporate Governance Statement
+96–100
+Whistleblowing Policy
+2-3
+Reporting period,
+frequency and
+contact point
+2-26
+Mechanisms for
+seeking advice and
+raising concerns
+Chairman and CEO’s Statement
+6–8
+Our Approach: Reporting Scope
+Annual Reporting Cycle
+Published on 14 April 2026
+Our Approach: Sustainability Contact
+Contact Us
+2-4
+Restatements of
+information
+Supplemental Information: Performance Indicators
+76–79
+Strategy, policies and practices
+GRI 2: General
+disclosures 2021
+2-22
+Statement on
+sustainable
+development strategy
+Sembcorp Industries: Power Generation Assets
+2-23
+Policy commitments
+Code of Conduct
+2-27
+Compliance with laws
+and regulations
+Supplemental Information: Performance Indicators
+2-5
+External assurance
+Our Approach: Assurance
+Supplemental Information: Assurance Statement
+84–87
+GRI G4
+Electric utilities
+disclosures
+EU1
+Installed capacity,
+broken down by primary
+energy source and by
+regulatory regime
+Stakeholder Engagement
+Corporate Governance Statement
+Activities and workers
+GRI 2: General
+disclosures 2021
+2-6
+Activities, value chain
+and other business
+relationships
+2-28
+Membership
+associations
+Memberships, Certifications and Ratings
+Our Approach: Memberships and Associations
+Stakeholder engagement
+GRI 2: General
+disclosures 2021
+2-29
+Approach to
+stakeholder
+engagement
+Material topics
+GRI 3: Material
+topics 2021
+3-1
+Process to determine
+material topics
+Our Approach: Materiality
+Sustainability Framework
+3-2
+List of material topics
+Our Sustainability Framework
+40–41
+About Us
+Our Businesses
+Our Portfolio
+2–3
+Acquisition and Disposal of Subsidiaries
+237–243
+2-7
+Employees
+Supplemental Information: Performance Indicators
+Governance
+GRI 2: General
+disclosures 2021
+2-9
+Governance structure
+and composition
+Our Approach: Sustainability Governance
+43–44
+Climate-related Disclosures 2025: Governance
+56–57
+Board of Directors
+30–34
+Corporate Governance Statement
+90–107
+
+GRI Content Index
+Material Sustainability Factors
+GRI standard
+Disclosure
+reference Description title
+Disclosure
+Page(s)
+External
+assurance
+Energy Transition
+GRI 3: Material
+topics 2021
+3-3
+Management of
+material topics
+Our ESG Priorities: Climate Action – Energy Transition
+45–46
+GRI standard
+Disclosure
+reference Description title
+Disclosure
+Page(s)
+External
+assurance
+Health and Safety
+GRI 3: Material
+topics 2021
+3-3
+Management of
+material topics
+Our ESG Priorities: Resilient Business –
+Health and Safety
+52–53
+Climate Action Plan
+Climate-related Disclosures 2025: Strategy
+58–75
+Our ESG Priorities: Resilient Business –
+Health and Safety
+52–53
+403-1
+Occupational health
+and safety management
+system
+201-2
+Financial implications
+and other risks and
+opportunities due to
+climate change
+GRI 201:
+Economic
+performance
+2016
+GRI 403:
+Occupational
+health and
+safety 2018
+Our ESG Priorities: Resilient Business –
+Health and Safety
+52–53
+403-2
+Hazard identification, risk
+assessment, and incident
+investigation
+GRI 305:
+Emissions
+2016
+Our ESG Priorities: Climate Action – Energy Transition
+Supplemental Information: Performance Indicators
+403-9
+Work-related injuries
+Our ESG Priorities: Resilient Business –
+Health and Safety
+305-1
+Direct (Scope 1)
+GHG emissions
+Our ESG Priorities: Climate Action – Energy Transition
+Supplemental Information: Performance Indicators
+305-2
+Energy indirect
+(Scope 2)
+GHG emissions
+Supplemental Information: Performance Indicators
+78–79
+403-10
+Work-related ill health
+Supplemental Information: Performance Indicators
+78–79
+Risk Governance
+GRI 3: Material
+topics 2021
+3-3
+Management of
+material topics
+Our ESG Priorities: Resilient Business –
+Risk Governance
+54–55
+Our ESG Priorities: Resilient Business –
+Risk Governance
+54–55
+Supplemental Information: Performance Indicators
+Non-GRI
+indicator
+N/A
+Integrated Assurance
+Framework (IAF)
+implementation
+across LOBs
+GRI 2: General
+disclosures 2021
+2-27
+Compliance with
+laws and regulations
+Supplemental Information: Performance Indicators
+305-3
+Other indirect (Scope 3)
+GHG emissions
+Our ESG Priorities: Climate Action – Energy Transition
+Supplemental Information: Performance Indicators
+305-4
+GHG emissions intensity
+Our ESG Priorities: Climate Action – Energy Transition
+Supplemental Information: Performance Indicators
+Non-GRI
+indicator
+N/A
+Gross installed renewable
+energy capacity
+Our ESG Priorities: Climate Action – Energy Transition
+Supplemental Information: Performance Indicators
+Non-GRI
+indicator
+N/A
+Reliability factor
+Our ESG Priorities: Climate Action – Energy Transition
+Supplemental Information: Performance Indicators
+Human Capital Management
+GRI 3: Material
+topics 2021
+3-3
+Management of
+material topics
+Our ESG Priorities: Empowering Lives –
+Human Capital Management
+48–49
+Supplemental Information: Performance Indicators
+GRI 2: General
+disclosures 2021
+2-7
+Employees
+Supplemental Information: Performance Indicators
+205-1
+Operations assessed
+for risks related
+to corruption
+GRI 205:
+Anti-corruption
+2016
+401-1
+New employee hires
+and employee turnover
+Supplemental Information: Performance Indicators
+77–78
+Our ESG Priorities: Resilient Business –
+Risk Governance
+GRI 401:
+Employment
+2016
+Supplemental Information: Performance Indicators
+205-2
+Communication
+and training about
+anti-corruption policies
+and procedures
+404-1
+Average hours of training
+per year per employee
+Our ESG Priorities: Empowering Lives –
+Human Capital Management
+Supplemental Information: Performance Indicators
+GRI 404:
+Training and
+education 2016
+205-3
+Confirmed incidents
+of corruption and
+actions taken
+Our ESG Priorities: Empowering Lives –
+Human Capital Management
+SGX Core ESG Metrics – Environmental
+Supplemental Information: Performance Indicators
+404-2
+Programs for upgrading
+employee skills and
+transition assistance
+program
+Non-GRI
+indicator
+N/A
+Number of employees
+and partners upgraded
+Our ESG Priorities: Empowering Lives –
+Human Capital Management
+Supplemental Information: Performance Indicators
+GRI standard
+Disclosure
+reference Description title
+Disclosure
+Page(s)
+External
+assurance
+Energy
+GRI 302:
+Energy 2016
+302-1
+Energy consumption
+within the organisation
+Supplemental Information: Performance Indicators
+405-1
+Diversity of
+governance bodies
+and employees
+Supplemental Information: Performance Indicators
+GRI 405:
+Diversity
+and equal
+opportunity
+2016
+303-5
+Water consumption
+Supplemental Information: Performance Indicators
+302-3
+Energy intensity
+Supplemental Information: Performance Indicators
+Water
+GRI 303:
+Water and
+effluents 2018
+Community Investment
+GRI 3: Material
+topics 2021
+3-3
+Management of
+material topics
+Our ESG Priorities: Empowering Lives –
+Community Investment
+50–51
+Supplemental Information: Performance Indicators
+Our ESG Priorities: Empowering Lives –
+Community Investment
+Non-GRI
+indicator
+N/A
+Freshwater consumption
+intensity for energy
+generation assets
+201-1
+Direct economic
+value generated
+and distributed
+Supplemental Information: Performance Indicators
+GRI 201:
+Economic
+performance
+2016
+Waste
+GRI 306:
+Waste 2020
+306-3
+Waste generated
+Supplemental Information: Performance Indicators
+Our ESG Priorities: Empowering Lives –
+Community Investment
+GRI 413: Local
+communities
+2016
+Supplemental Information: Performance Indicators
+413-1
+Operations with local
+community engagement,
+impact assessments, and
+development programmes
+
+Independent Assurance Statement
+Certificate No: C859030
+In performing our assurance work, DNV’s responsibility is to plan and perform the work to obtain assurance about whether
+the selected information has been prepared in accordance with the reporting requirements and to report to Sembcorp in
+the form of an independent assurance conclusion, based on the work performed and the evidence obtained.
+Our statement represents our independent opinion and is intended to inform all stakeholders. DNV was not involved in the
+preparation of any statements or data included in the Report except for this Independent Assurance Statement.
+Introduction
+DNV Business Assurance Singapore Pte. Ltd. (‘DNV’) has been commissioned by the management of Sembcorp Industries
+Ltd (‘Sembcorp’, or ‘the Company’, a company registered with the Accounting and Corporate Regulatory Authority,
+Singapore (UEN: 199802418D)) to undertake a limited level of assurance in connection with selected subject matter to
+be included in the Company’s Sustainability Report 2025 (‘the Report’) for the calendar year ending 31 December 2025.
+The Management of Sembcorp is responsible for developing the Report. The intended users of this Assurance Statement
+are the Management of the Company.
+Basis of Our Opinion
+We had planned and performed our work to obtain the evidence considered necessary to provide a basis for our assurance
+opinion as part of the assurance engagement. We adopted a risk-based approach, i.e., we concentrated our verification
+efforts on the issues of high material relevance to Sembcorp and its key stakeholders. A team of sustainability assurance
+specialists reviewed disclosures of selected subject matter related to the headquarters in Singapore, and selected sites
+of Sembcorp based on DNV’s sampling plan. During the audit, we conducted the site visits to Sembcorp’s Headquarter
+(30 Hill Street) and Sakra Utilities in Singapore. We performed the following activities:
+Scope and Boundary of Assurance
+This assurance engagement has been carried out in accordance with DNV’s VeriSustain™ protocol, V6.0, which is
+based on our professional experience and international assurance best practice including the International Standard
+on Assurance Engagements (ISAE) 3000 revised – ‘Assurance Engagements other than Audits and Reviews of Historical
+Financial Information’ (revised), issued by the International Auditing and Assurance Standards Board. This protocol requires
+that we comply with ethical requirements and plan and perform the assurance engagement to obtain limited assurance.
+Apart from DNV’s VeriSustain™ protocol, DNV team has also followed below guidelines to evaluate indicators with
+regards to greenhouse gases and water disclosures respectively:
+• Review of the non–financial sustainability-related disclosures in this Report;
+• ISO 14064-3 - Specification with guidance for the verification and validation of greenhouse gas statements;
+• Desk review of selected sustainability parameters for sampled entities, and discussed findings and resolved with the
+Group Sustainability division;
+• ISO 14046 - Environmental management - Water footprint - Principles, requirements, and guidelines
+• Conducted interviews with data owners from Sembcorp to understand the key processes and controls for reporting
+business units’ performance data;
+• Carried out physical site visit at the Sembcorp’s headquarter (30 Hill Street) and Sakra Utilities in Singapore to review
+the processes and systems for preparing site level sustainability data and implementation of sustainability strategy;
+DNV carried out limited level of assurance and the scope of assurance is limited to a review of sustainability-related
+disclosures and performance data (as indicated under the ‘External assurance’ column in the GRI Content Index of the
+Report) and the Metrics and Targets section of the Climate-related Disclosures, specifically covering Scope 1 and 2
+greenhouse gas emissions. Our assurance engagement was limited to select subject matter and carried out during the
+period November 2025 to March 2026.
+•
+Review of supporting evidence for key claims and data disclosed in the Report. Our verification processes were prioritised
+based on risk-based approach, i.e., relevance of identified material aspects and sustainability context of the business; and
+The sustainability disclosures in this Report have been prepared based on the identified material sustainability factors and
+performance disclosures in relation to business activities undertaken by the Company for the calendar year 1 January 2025
+to 31 December 2025.
+• Review of the processes for gathering and consolidating the performance data and, for a sample, checking the data
+consolidation at site and corporate levels.
+The procedures performed in a limited assurance engagement vary in nature and timing and are less detailed than those
+undertaken during a reasonable assurance engagement, so the level of assurance obtained is substantially lower than the
+assurance that would have been obtained had a reasonable assurance engagement been performed. We planned and
+performed our work to obtain the evidence we considered sufficient to provide a basis for our conclusion, so that the risk
+of this conclusion being in error is reduced, but not reduced completely.
+We have not performed any work, and do not express any conclusion, on any other information that may be published
+outside of the Report and / or on Sembcorp’s website for the current reporting period.
+Opinion and Observations
+Based on the procedures performed and evidence obtained, nothing has come to our attention that causes us to believe
+that the information related to the select subject matter for the Report for the year ended 31 December 2025 has not been
+prepared, in all material respects, with reference to the relevant GRI Standards and its reporting principles, International
+Financial Reporting Standards (IFRS) S1 and S2, GHG Protocol, ISO 14064-1 and other calculation methodologies declared
+in the Report. Without affecting our assurance opinion, we provide the following observations against the principles of
+VeriSustain™ and GRI Reporting Principles applicable to the disclosure of selected subject matter:
+Responsibilities of the Management of Sembcorp and of the Assurance Provider
+The Company’s management has sole responsibility for the integrity of the Report and this responsibility includes
+designing, implementing, and maintaining internal controls over collection, analysis, aggregation and preparation of data,
+fair presentation of the information and ensuring that data is free from material misstatement. Sembcorp has stated that
+this Report has adopted general disclosures and selected topic-specific disclosures and company formulated disclosures
+related to the identified material sustainability factors.
+Materiality
+The process of determining the factors that is most relevant to an organisation and its stakeholders.
+The Report describes the Company’s materiality assessment process, detailing how sustainability factors are evaluated,
+drawing on industry and peer inputs, prioritizing issues through engagement with identified stakeholders, and assessing
+their relevance based on potential business impacts. The resulting list of material topics has been prioritized, reviewed,
+and validated by the Company.
+Nothing has come to our attention to suggest that the Report does not meet the requirements related to the
+Principle of Materiality.
+
+Independent Assurance Statement
+contractors, and any third parties mentioned in the Report. We did not interview external stakeholders as part of this
+assurance engagement.
+Stakeholder inclusiveness
+The participation of stakeholders in developing and achieving an accountable and strategic response to Sustainability.
+The Report elucidates the stakeholder identification process in the “Materiality” section. Sembcorp has engaged key
+stakeholders through pertinent relationship holders within the Company to gather insights on sustainability issues,
+concerns, and expectations. The feedback from stakeholders was subsequently collected, consolidated, and analysed.
+Nothing has come to our attention to suggest that the Report does not meet the requirements related to the
+Principle of Stakeholder Inclusiveness.
+We understand that the reported financial data, governance and related information are based on statutory disclosures
+and Audited Financial Statements, which are subject to a separate independent statutory audit process. We did not review
+financial disclosures and data as they are not within the scope of our assurance engagement. The assessment is limited to
+data and information within the defined reporting period. Any data outside this period is not considered within the scope
+of assurance.
+DNV expressly disclaims any liability or co-responsibility for any decision a person or an entity may make based on this
+Independent Assurance Statement.
+Responsiveness
+The extent to which an organisation responds to stakeholder issues.
+The Report adequately brings out the Company’s policies, strategies, management systems and governance mechanisms
+in place to respond to topics identified as material and significant concerns of key stakeholder groups.
+Nothing has come to our attention to believe that the Report has not met the Principle of Responsiveness for
+the selected performance standards.
+Statement of Competence and Independence
+DNV applies its own management standards and compliance policies for quality control, which are based on the principles
+enclosed within ISO IEC 17029:2019 - Conformity Assessment – General principles and requirements for validation and
+verification bodies, and accordingly maintains a comprehensive system of quality control including documented policies
+and procedures regarding compliance with ethical requirements, professional standards and applicable legal and regulatory
+requirements. We have complied with the DNV Code of Conduct1 during the assurance engagement and maintain
+independence where required by relevant ethical requirements. This engagement work was carried out by an independent
+team of sustainability assurance professionals.
+Purpose and Restriction on Distribution and Use
+This report, including our conclusion, has been prepared solely for the Company in accordance with the agreement
+between us. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the
+Company for our work or this report.
+Reliability
+The accuracy and comparability of information presented in the report, as well as the quality of underlying data
+management systems.
+Sembcorp employs a combination of several data management systems to monitor, track, and consolidate key sustainability
+disclosures across its reporting boundaries. Most of the information reviewed and validated through our assessments with
+Sembcorp’s management teams and process owners at the sampled site was found to be accurate and reliable. Minor data
+inaccuracies identified during the verification process of sample data sets were attributed to transcription, interpretation,
+and aggregation errors. These inaccuracies have been communicated for correction, and the related disclosures were
+reviewed for accuracy.
+Nothing has come to our attention to suggest that the Report does not meet the requirements related to the
+Principle of Reliability.
+For and on behalf of DNV Business Assurance Singapore Pte. Ltd.
+Completeness
+How much of all the information that has been identified as material to the organisation and its stakeholders is reported.
+The Report presents the Company’s performance, governance and approaches related to the environmental, social and
+governance issues that it has identified as material for its business coming under the boundary of the report, for the chosen
+reporting period while applying and considering the requirements of Principle of Completeness.
+Nothing has come to our attention to suggest that the Report does not meet the Principle of Completeness with
+respect to the identified scope.
+Vishal Gangwar
+Lead Verifier
+Energy Systems
+Chang Rok Yun
+Assurance Reviewer
+Energy Systems
+Digitally signed by Gangwar, Vishal
+Date: 2026.03.20 13:34:35 +08’00’
+Digitally signed by Yun, Chang Rok
+Date: 2026.03.20 14:43:33 +09’00’
+Neutrality
+The extent to which a report provides a balanced account of an organisation’s performance, delivered in a neutral tone.
+The Report explains the content and presents the disclosures related to Sembcorp’s sustainability performance during the
+reporting period in a neutral tone considering the overall macroeconomic and industry environment.
+Nothing has come to our attention to suggest that the Report does not meet the requirements related to the
+Principle of Neutrality.
+Justine Louise Repalam
+Verifier
+Singapore
+18 March 2026
+1 The DNV Code of Conduct is available on request from www.dnv.com
+Limitations
+DNV’s assurance engagements are based on the assumption that the data and information provided by Sembcorp to
+us as part of our review have been provided in good faith, are true, and are free from material misstatements. Because
+of the selected nature (sampling) and other inherent limitation of both procedures and systems of internal control,
+there remains the unavoidable risk that errors or irregularities, possibly significant, may not have been detected. The
+engagement excludes the sustainability management, performance, and reporting practices of the Sembcorp’s suppliers,
+
+Independent Limited Assurance Report
+Our Assurance Activities
+Considering the level of assurance and our assessment of the risk of material misstatement of the Selected Information,
+a multi-disciplinary team of sustainability and assurance specialists performed a range of procedures that included, but
+was not restricted to, the following:
+ERM CVS Australia Pty Ltd (“ERM CVS”) was engaged by Sembcorp
+Utilities Pte Ltd to provide limited assurance for Sembcorp Industries Ltd
+(“Sembcorp”) in relation to the Selected Information set out below and
+presented in the 2025 Climate-related Disclosures (the “Report”).
+• Evaluating the appropriateness of the reporting criteria for the Selected Information;
+•
+Performing an analysis of the external environment, including a media search, to identify sustainability risks and issues
+in the reporting period that may be relevant to the assurance scope;
+• Interviewing management representatives responsible for managing the Selected Information;
+Engagement Summary
+• Interviewing relevant staff to understand and evaluate the management systems and processes (including internal
+review and control processes) used for collecting and reporting the Selected Information;
+•
+Reviewing of a sample of qualitative and quantitative evidence supporting the Selected Information at a corporate level;
+Whether the following Selected Information, as indicated in Sembcorp’s 2025 Climate-related
+Disclosures is fairly presented in the Report, in all material respects, in accordance with the
+reporting criteria.
+Scope of our
+assurance
+engagement
+• Reviewing the relevance and appropriateness of the methodology used in the target-setting model for the purpose
+of reporting the Selected Information;
+Our assurance engagement does not extend to information in respect of earlier periods or
+to any other information included in the Report.
+• Performing recalculations within the target setting model to ensure mathematical accuracy of the calculations and to
+confirm that the resultant trajectories are consistent with the stated scenarios;
+• Evaluating the conversion factors and assumptions used;
+Selected
+By 2035, achieve GHG emissions intensity of 0.26 tCO2e/MWh, aligned with a well below
+2°C trajectory
+Reporting period
+As at 31st December 2025
+• Reviewing the presentation of information relevant to the assurance scope in the Report to ensure consistency with
+our findings.
+Reporting criteria
+Sembcorp’s criteria for target setting (“Basis of Preparation”), developed with reference to
+publicly available scenarios published or used by the Intergovernmental Panel on Climate
+Change (IPCC), the Network for Greening the Financial System (NGFS), the Principles for
+Responsible Investment (PRI) and BloombergNEF (BNEF).
+The Limitations of Our Engagement
+The reliability of the Selected Information is subject to inherent uncertainties, given the available methods for determining,
+calculating or estimating the underlying information. It is important to understand our assurance conclusions in this context.
+Assurance
+standard and
+level of assurance
+We performed a limited assurance engagement, in accordance with the International Standard
+on Assurance Engagements ISAE 3000 (Revised) ‘Assurance Engagements other than Audits
+or Reviews of Historical Financial Information’ and in accordance with ISAE3410 ‘Assurance
+Engagements on Greenhouse Gas Statement’.
+Our Independence, Integrity and Quality Control
+ERM CVS is an independent certification and verification body accredited by UKAS to ISO 17021:2015. Accordingly,
+we maintain a comprehensive system of quality control, including documented policies and procedures regarding
+compliance with ethical requirements, professional standards, and applicable legal and regulatory requirements.
+Our quality management system is at least as demanding as the relevant sections of ISQM-1 and ISQM-2 (2022).
+The procedures performed in a limited assurance engagement vary in nature and timing from
+and are less in extent than for a reasonable assurance engagement and consequently, the level
+of assurance obtained in a limited assurance engagement is substantially lower than the assurance
+that would have been obtained had a reasonable assurance engagement been performed.
+ERM CVS applies a Code of Conduct and related policies to ensure that its employees maintain integrity, objectivity,
+professional competence and high ethical standards in their work. Our processes are designed and implemented to
+ensure that the work we undertake is objective, impartial and free from bias and conflict of interest. Our certified
+management system covers independence and ethical requirements that are at least as demanding as the relevant
+sections of the IESBA Code relating to assurance engagements.
+Respective
+responsibilities
+Sembcorp is responsible for preparing the Report and for the collection and presentation of
+the information within it, and for the designing, implementing and maintaining of internal
+controls relevant to the preparation and presentation of the Selected Information.
+ERM CVS has extensive experience in conducting assurance on environmental, social, ethical and health and safety
+information, systems and processes, and provides no consultancy related services to Sembcorp in any respect.
+ERM CVS’ responsibility is to provide a conclusion to Sembcorp on the agreed assurance
+scope based on our engagement terms with Sembcorp, the assurance activities performed
+and exercising our professional judgement.
+March 6, 2026
+Sydney, Australia
+Our Conclusion
+Based on our activities, nothing has come to our attention to indicate that the Selected Information for 2025 is not fairly
+presented in the Report, in all material respects, in accordance with the reporting criteria.
+ERM CVS Australia Pty Ltd
+www.ermcvs.com | post@ermcvs.com

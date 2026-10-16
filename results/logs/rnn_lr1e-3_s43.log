@@ -1,0 +1,105 @@
+rnn_lr1e-3_s43 | device=mps | params=2,148,682 (trainable 2,148,682)
+ep 01  train 6.262  val 6.192  val_ppl 488.7
+ep 02  train 5.947  val 5.910  val_ppl 368.8
+ep 03  train 5.681  val 5.687  val_ppl 294.9
+ep 04  train 5.483  val 5.538  val_ppl 254.2
+ep 05  train 5.314  val 5.415  val_ppl 224.7
+ep 06  train 5.190  val 5.327  val_ppl 205.9
+ep 07  train 5.064  val 5.244  val_ppl 189.5
+ep 08  train 4.965  val 5.188  val_ppl 179.1
+ep 09  train 4.876  val 5.137  val_ppl 170.2
+ep 10  train 4.815  val 5.108  val_ppl 165.3
+ep 11  train 4.720  val 5.057  val_ppl 157.1
+ep 12  train 4.650  val 5.021  val_ppl 151.6
+ep 13  train 4.590  val 4.996  val_ppl 147.8
+ep 14  train 4.531  val 4.976  val_ppl 144.8
+ep 15  train 4.470  val 4.948  val_ppl 140.9
+ep 16  train 4.420  val 4.928  val_ppl 138.2
+ep 17  train 4.380  val 4.918  val_ppl 136.7
+ep 18  train 4.331  val 4.896  val_ppl 133.7
+ep 19  train 4.293  val 4.883  val_ppl 132.1
+ep 20  train 4.254  val 4.874  val_ppl 130.8
+ep 21  train 4.209  val 4.857  val_ppl 128.6
+ep 22  train 4.180  val 4.857  val_ppl 128.6
+ep 23  train 4.136  val 4.838  val_ppl 126.2
+ep 24  train 4.113  val 4.834  val_ppl 125.7
+ep 25  train 4.069  val 4.819  val_ppl 123.8
+ep 26  train 4.043  val 4.815  val_ppl 123.3
+ep 27  train 4.012  val 4.805  val_ppl 122.1
+ep 28  train 3.984  val 4.796  val_ppl 121.0
+ep 29  train 3.958  val 4.790  val_ppl 120.3
+ep 30  train 3.943  val 4.794  val_ppl 120.7
+ep 31  train 3.911  val 4.787  val_ppl 119.9
+ep 32  train 3.886  val 4.778  val_ppl 118.9
+ep 33  train 3.855  val 4.770  val_ppl 117.9
+ep 34  train 3.832  val 4.763  val_ppl 117.1
+ep 35  train 3.814  val 4.759  val_ppl 116.7
+ep 36  train 3.790  val 4.753  val_ppl 115.9
+ep 37  train 3.777  val 4.759  val_ppl 116.6
+ep 38  train 3.756  val 4.753  val_ppl 115.9
+ep 39  train 3.729  val 4.745  val_ppl 115.0
+ep 40  train 3.721  val 4.753  val_ppl 116.0
+ep 41  train 3.695  val 4.737  val_ppl 114.1
+ep 42  train 3.684  val 4.744  val_ppl 114.8
+ep 43  train 3.670  val 4.743  val_ppl 114.8
+ep 44  train 3.642  val 4.732  val_ppl 113.5
+ep 45  train 3.629  val 4.730  val_ppl 113.3
+ep 46  train 3.612  val 4.730  val_ppl 113.3
+ep 47  train 3.596  val 4.726  val_ppl 112.8
+ep 48  train 3.582  val 4.725  val_ppl 112.7
+ep 49  train 3.573  val 4.727  val_ppl 112.9
+ep 50  train 3.553  val 4.720  val_ppl 112.2
+ep 51  train 3.536  val 4.718  val_ppl 112.0
+ep 52  train 3.524  val 4.713  val_ppl 111.4
+ep 53  train 3.507  val 4.715  val_ppl 111.6
+ep 54  train 3.491  val 4.708  val_ppl 110.9
+ep 55  train 3.483  val 4.711  val_ppl 111.2
+ep 56  train 3.468  val 4.708  val_ppl 110.8
+ep 57  train 3.455  val 4.712  val_ppl 111.2
+ep 58  train 3.445  val 4.707  val_ppl 110.7
+ep 59  train 3.434  val 4.704  val_ppl 110.4
+ep 60  train 3.420  val 4.701  val_ppl 110.0
+ep 61  train 3.416  val 4.709  val_ppl 111.0
+ep 62  train 3.398  val 4.709  val_ppl 110.9
+ep 63  train 3.392  val 4.703  val_ppl 110.3
+ep 64  train 3.378  val 4.704  val_ppl 110.4
+ep 65  train 3.367  val 4.702  val_ppl 110.2
+ep 66  train 3.360  val 4.703  val_ppl 110.3
+ep 67  train 3.352  val 4.702  val_ppl 110.1
+ep 68  train 3.339  val 4.700  val_ppl 109.9
+ep 69  train 3.330  val 4.702  val_ppl 110.2
+ep 70  train 3.317  val 4.698  val_ppl 109.7
+ep 71  train 3.310  val 4.697  val_ppl 109.6
+ep 72  train 3.303  val 4.703  val_ppl 110.3
+ep 73  train 3.296  val 4.702  val_ppl 110.1
+ep 74  train 3.287  val 4.700  val_ppl 110.0
+ep 75  train 3.282  val 4.705  val_ppl 110.5
+ep 76  train 3.268  val 4.698  val_ppl 109.7
+ep 77  train 3.260  val 4.702  val_ppl 110.1
+ep 78  train 3.251  val 4.695  val_ppl 109.4
+ep 79  train 3.249  val 4.705  val_ppl 110.5
+ep 80  train 3.241  val 4.705  val_ppl 110.5
+ep 81  train 3.225  val 4.695  val_ppl 109.4
+ep 82  train 3.217  val 4.696  val_ppl 109.5
+ep 83  train 3.214  val 4.698  val_ppl 109.7
+ep 84  train 3.201  val 4.696  val_ppl 109.6
+ep 85  train 3.192  val 4.692  val_ppl 109.1
+ep 86  train 3.187  val 4.694  val_ppl 109.3
+ep 87  train 3.179  val 4.695  val_ppl 109.4
+ep 88  train 3.170  val 4.691  val_ppl 108.9
+ep 89  train 3.171  val 4.696  val_ppl 109.5
+ep 90  train 3.160  val 4.694  val_ppl 109.2
+ep 91  train 3.155  val 4.700  val_ppl 109.9
+ep 92  train 3.148  val 4.698  val_ppl 109.7
+ep 93  train 3.139  val 4.693  val_ppl 109.1
+ep 94  train 3.129  val 4.695  val_ppl 109.4
+ep 95  train 3.131  val 4.701  val_ppl 110.0
+ep 96  train 3.125  val 4.703  val_ppl 110.3
+early stop
+{
+  "test_loss": 4.676009082763115,
+  "test_ppl": 107.34082824018452,
+  "params_total": 2148682,
+  "train_time_s": 724.2013574573211,
+  "infer_tokens_per_s": 159629.80750739807
+}

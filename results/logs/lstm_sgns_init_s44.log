@@ -1,0 +1,48 @@
+lstm_sgns_init_s44 | device=mps | params=2,423,626 (trainable 2,423,626)
+ep 01  train 6.175  val 6.115  val_ppl 452.5
+ep 02  train 5.626  val 5.616  val_ppl 274.7
+ep 03  train 5.189  val 5.256  val_ppl 191.6
+ep 04  train 4.885  val 5.043  val_ppl 155.0
+ep 05  train 4.671  val 4.900  val_ppl 134.3
+ep 06  train 4.508  val 4.801  val_ppl 121.6
+ep 07  train 4.369  val 4.727  val_ppl 112.9
+ep 08  train 4.257  val 4.680  val_ppl 107.8
+ep 09  train 4.161  val 4.633  val_ppl 102.8
+ep 10  train 4.074  val 4.595  val_ppl 99.0
+ep 11  train 3.994  val 4.565  val_ppl 96.0
+ep 12  train 3.921  val 4.542  val_ppl 93.9
+ep 13  train 3.859  val 4.523  val_ppl 92.1
+ep 14  train 3.802  val 4.512  val_ppl 91.1
+ep 15  train 3.747  val 4.496  val_ppl 89.7
+ep 16  train 3.692  val 4.481  val_ppl 88.4
+ep 17  train 3.642  val 4.470  val_ppl 87.4
+ep 18  train 3.598  val 4.464  val_ppl 86.8
+ep 19  train 3.552  val 4.458  val_ppl 86.3
+ep 20  train 3.511  val 4.452  val_ppl 85.8
+ep 21  train 3.471  val 4.440  val_ppl 84.8
+ep 22  train 3.437  val 4.442  val_ppl 84.9
+ep 23  train 3.397  val 4.434  val_ppl 84.2
+ep 24  train 3.365  val 4.427  val_ppl 83.7
+ep 25  train 3.332  val 4.431  val_ppl 84.0
+ep 26  train 3.301  val 4.433  val_ppl 84.2
+ep 27  train 3.268  val 4.428  val_ppl 83.8
+ep 28  train 3.239  val 4.432  val_ppl 84.1
+ep 29  train 3.212  val 4.431  val_ppl 84.0
+ep 30  train 3.179  val 4.426  val_ppl 83.6
+ep 31  train 3.156  val 4.424  val_ppl 83.5
+ep 32  train 3.133  val 4.430  val_ppl 83.9
+ep 33  train 3.104  val 4.433  val_ppl 84.2
+ep 34  train 3.080  val 4.433  val_ppl 84.2
+ep 35  train 3.057  val 4.436  val_ppl 84.5
+ep 36  train 3.034  val 4.436  val_ppl 84.4
+ep 37  train 3.012  val 4.436  val_ppl 84.4
+ep 38  train 2.989  val 4.445  val_ppl 85.2
+ep 39  train 2.970  val 4.445  val_ppl 85.2
+early stop
+{
+  "test_loss": 4.424962409715434,
+  "test_ppl": 83.50966801085511,
+  "params_total": 2423626,
+  "train_time_s": 256.5460476242006,
+  "infer_tokens_per_s": 108433.48219370798
+}

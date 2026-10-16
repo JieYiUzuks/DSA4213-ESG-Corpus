@@ -1,0 +1,48 @@
+lstm_sgns_init | device=mps | params=2,423,626 (trainable 2,423,626)
+ep 01  train 6.144  val 6.079  val_ppl 436.6
+ep 02  train 5.634  val 5.623  val_ppl 276.8
+ep 03  train 5.203  val 5.270  val_ppl 194.4
+ep 04  train 4.907  val 5.058  val_ppl 157.3
+ep 05  train 4.690  val 4.912  val_ppl 135.8
+ep 06  train 4.522  val 4.808  val_ppl 122.5
+ep 07  train 4.383  val 4.735  val_ppl 113.9
+ep 08  train 4.263  val 4.675  val_ppl 107.2
+ep 09  train 4.165  val 4.632  val_ppl 102.7
+ep 10  train 4.082  val 4.605  val_ppl 99.9
+ep 11  train 3.994  val 4.566  val_ppl 96.1
+ep 12  train 3.926  val 4.541  val_ppl 93.7
+ep 13  train 3.862  val 4.526  val_ppl 92.4
+ep 14  train 3.802  val 4.503  val_ppl 90.2
+ep 15  train 3.746  val 4.492  val_ppl 89.3
+ep 16  train 3.696  val 4.479  val_ppl 88.2
+ep 17  train 3.648  val 4.468  val_ppl 87.2
+ep 18  train 3.603  val 4.459  val_ppl 86.4
+ep 19  train 3.557  val 4.452  val_ppl 85.8
+ep 20  train 3.520  val 4.448  val_ppl 85.5
+ep 21  train 3.479  val 4.440  val_ppl 84.8
+ep 22  train 3.442  val 4.436  val_ppl 84.4
+ep 23  train 3.410  val 4.442  val_ppl 85.0
+ep 24  train 3.375  val 4.428  val_ppl 83.8
+ep 25  train 3.341  val 4.429  val_ppl 83.8
+ep 26  train 3.310  val 4.428  val_ppl 83.8
+ep 27  train 3.282  val 4.435  val_ppl 84.4
+ep 28  train 3.251  val 4.429  val_ppl 83.9
+ep 29  train 3.224  val 4.427  val_ppl 83.7
+ep 30  train 3.193  val 4.429  val_ppl 83.9
+ep 31  train 3.166  val 4.426  val_ppl 83.6
+ep 32  train 3.143  val 4.431  val_ppl 84.0
+ep 33  train 3.118  val 4.433  val_ppl 84.2
+ep 34  train 3.095  val 4.431  val_ppl 84.0
+ep 35  train 3.069  val 4.434  val_ppl 84.3
+ep 36  train 3.049  val 4.438  val_ppl 84.6
+ep 37  train 3.027  val 4.444  val_ppl 85.2
+ep 38  train 3.004  val 4.440  val_ppl 84.8
+ep 39  train 2.983  val 4.444  val_ppl 85.1
+early stop
+{
+  "test_loss": 4.436259860024981,
+  "test_ppl": 84.45846373042222,
+  "params_total": 2423626,
+  "train_time_s": 277.97342383209616,
+  "infer_tokens_per_s": 100797.12724196386
+}

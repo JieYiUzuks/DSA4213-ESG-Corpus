@@ -1,0 +1,13 @@
+{
+  "train_time_s": 84.06246770801954,
+  "device": "mps",
+  "epochs": 10,
+  "window": 5,
+  "neg": 5,
+  "lr": 0.005,
+  "batch": 2048,
+  "subsample_t": 0.001,
+  "dim": 100,
+  "rescale_factor": 1.6864204406738281,
+  "train_tokens": 279552
+}
