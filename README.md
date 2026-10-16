@@ -40,7 +40,7 @@ The PDFs are **not** included (size and redistribution). Download them from the 
    not scripted and cannot be reproduced exactly, so the final corpus file is the reference input for all experiments.
    SHA-256 of the file used: `bde5dce576a0b38802cc36ce56a2f925abc86b1816c505f0139d7d1e3ab18b80`.
 3. The final corpus file is included in this repository (`data/sustainability_reports_corpus.txt`). The reports are public
-   documents; the per-report cleaned files are available on request.
+   documents; the per-report cleaned files are available in data.
 
 ### 2.3 Preprocessing (`src/data.py`)
 Lower-casing; word-level tokens + punctuation; paragraph end -> `<eos>`; paragraphs under 3 tokens dropped;
