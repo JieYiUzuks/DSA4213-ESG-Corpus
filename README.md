@@ -31,7 +31,7 @@ Developed on an Apple M1 MacBook Air with 8 GB RAM (PyTorch MPS backend); everyt
 The PDFs are **not** included (size and redistribution). Download them from the URLs above.
 
 ### 2.2 How `data/sustainability_reports_corpus.txt` was built
-1. Text was extracted from each PDF: **TODO - state the tool/command used** -> `data/<company>_..._cleaned.txt`.
+1. Text was extracted from each PDF: The nine reports (eight sustainability or responsibility reports and one annual report) were obtained as PDFs, and their text was extracted and cleaned with ChatGPT assistance. Heuristic rules joined broken lines, normalised whitespace and Unicode characters, removed repeated headers and footers, filtered fragmented tables and chart labels, and removed exact duplicate passages. Original wording, ESG terminology and numerical values were preserved where possible. Two automated quality-control passes checked for formatting inconsistencies, duplicate passages and likely sentence-boundary errors. The result was saved as one cleaned text file per report (data/<company>_..._cleaned.txt on my computer).
 2. The nine cleaned files were **merged into one file with the help of ChatGPT** (an LLM), using one
    `<<<REPORT_START id=.. company=".." year="..">>>` marker per report. The merge was not purely a
    concatenation. Comparing the final file with the cleaned inputs paragraph by paragraph shows that it fixed ligatures
