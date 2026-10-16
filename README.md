@@ -31,7 +31,7 @@ Developed on an Apple M1 MacBook Air with 8 GB RAM (PyTorch MPS backend); everyt
 The PDFs are **not** included (size and redistribution). Download them from the URLs above.
 
 ### 2.2 How `data/sustainability_reports_corpus.txt` was built
-1. Text was extracted from each PDF: The nine reports (eight sustainability or responsibility reports and one annual report) were obtained as PDFs, and their text was extracted and cleaned with ChatGPT assistance. Heuristic rules joined broken lines, normalised whitespace and Unicode characters, removed repeated headers and footers, filtered fragmented tables and chart labels, and removed exact duplicate passages. Original wording, ESG terminology and numerical values were preserved where possible. Two automated quality-control passes checked for formatting inconsistencies, duplicate passages and likely sentence-boundary errors. The result was saved as one cleaned text file per report (data/<company>_..._cleaned.txt on my computer).
+1. Text was extracted from each PDF: The nine reports (eight sustainability or responsibility reports and one annual report) were obtained as PDFs, and their text was extracted and cleaned with ChatGPT assistance. Heuristic rules joined broken lines, normalised whitespace and Unicode characters, removed repeated headers and footers, filtered fragmented tables and chart labels, and removed exact duplicate passages. Original wording, ESG terminology and numerical values were preserved where possible. Two automated quality-control passes checked for formatting inconsistencies, duplicate passages and likely sentence-boundary errors. The result was saved as one cleaned text file per report as seen in data/ file. 
 2. The nine cleaned files were **merged into one file with the help of ChatGPT** (an LLM), using one
    `<<<REPORT_START id=.. company=".." year="..">>>` marker per report. The merge was not purely a
    concatenation. Comparing the final file with the cleaned inputs paragraph by paragraph shows that it fixed ligatures
@@ -75,17 +75,18 @@ unzip -o data/glove/glove.6B.zip glove.6B.100d.txt -d data/glove
 ```
 The ESGBERT dataset for Part III downloads automatically from Hugging Face (internet needed).
 
-**Step 3 - quick test (a few minutes).** `SMOKE=1 bash src/run_all.sh` runs the whole pipeline with 1 epoch per run, so
-numbers will differ; it only confirms that everything runs. Archive its outputs before the real run:
-`mv results results_smoke && mv data/processed data/processed_smoke`.
+**Step 3 - quick test.**
+```
+   mv results results_published
+   SMOKE=1 bash src/run_all.sh
+   mv results results_smoke && mv results_published results
+```
 
-**Step 4 - full run (about 4-6 hours on an M-series laptop).** The repository already contains the published `results/`,
-which `run_all.sh` would skip as finished. To retrain from scratch, move them aside first:
+**Step 4 - full run.**
 ```
-mv results results_published && mv data/processed data/processed_published 2>/dev/null
-bash src/run_all.sh
+   mv results results_published
+   bash src/run_all.sh
 ```
-`run_all.sh` can also run one stage at a time, in this order:
 
 | stage | what it does | main outputs |
 |---|---|---|
